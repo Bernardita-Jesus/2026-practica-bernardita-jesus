@@ -18,6 +18,8 @@ pwd
 cd
 ```
 
+kdir: 
+
 Punto (.) podriamos definirlo como aquí mismo, dos puntos (..)
 
 ```bash
@@ -34,3 +36,7 @@ git status: para comprobar el estado, si hubieron cambios.
 git commit -m: para subir el nombre del del cambio, es necesario subir esto y tiene que haber algo agregado.
 
 git push: si se agregaron algo, y se comenta, finalmente se puede subir, con push se envia a la nuve.
+
+git pull: con esto se conecta a lo que se subio a la nube, se actualiza, se pone al dia.
+
+git stash: con esto rebobina al ultimo commit.
