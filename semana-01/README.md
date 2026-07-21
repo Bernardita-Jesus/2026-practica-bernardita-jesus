@@ -2,9 +2,13 @@
 
 ## Semana de adaptación
 
+### Copia del repositorio
+
 Reunión Lunes 20 de julio, invierno 2026
 
 Hice una copia del repositorio de la práctica en mi computador desde la terminal. Estoy utilizando **Windows PowerShell** y **Visual Studio Code** para subir varios archivos a la nube de **GitHub**.
+
+Voy a hacer una distinción; hay dos versiones de este repositorio. Una es el **repositorio remoto**, que está alojado en GitHub, y la otra es la **copia local** que se encuentra en mi computador.
 
 Por el momento, lo que tengo que hacer es abrir la terminal y encontrar mi repositorio.
 
@@ -52,9 +56,11 @@ PS C:\Users\berni\github\2026-practica-bernardita-jesus>
 
 Por último, para enviar los cambios al repositorio en GitHub, utilizamos el comando **git push**. Para que este comando funcione, es necesario haber agregado previamente los archivos con **git add** y haber creado un commit con **git commit -m**. De esta manera los cambios se sincronizan con el repositorio en GitHub.
 
+```bash
 PS C:\Users\berni\github\2026-practica-bernardita-jesus> git push
 fatal: unable to access 'https://github.com/Bernardita-Jesus/2026-practica-bernardita-jesus.git/': Could not resolve host: github.com
 PS C:\Users\berni\github\2026-practica-bernardita-jesus>
+```
 
 En este caso, y qué interesante haberlo podido probar, me dice que hubo un error fatal, ya que por las lluvias se me cortó la luz y no tengo internet, por lo que esta función es de las pocas que sí requieren conexión a Internet.
 
@@ -62,7 +68,7 @@ En este caso, y qué interesante haberlo podido probar, me dice que hubo un erro
 
 **git pull**: con esto se conecta a lo que se subió a GitHub, se actualiza el repositorio local y se pone al día con los cambios del repositorio.
 
-git push y git pull son los comandos que requieren conexión a Internet, ya que son los que se conectan con el repositorio en GitHub.
+**git push y git pull** son los comandos que requieren conexión a Internet, ya que son los que se conectan con el repositorio en GitHub.
 
 Comandos
 
