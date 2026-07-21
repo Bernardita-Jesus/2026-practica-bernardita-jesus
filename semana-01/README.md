@@ -1,8 +1,42 @@
 # semana-01
 
-## Reunión Lunes 20 de julio, invierno 2026
+## Semana de adaptación
 
-Hice una copia del repositorio en mi computador desde la terminal, Windows PowerShell
+Reunión Lunes 20 de julio, invierno 2026
+
+Hice una copia del repositorio de la practica en mi computador desde la terminal, estoy utilizando Windows PowerShell y visual studio code para subir varios archivos a la nube de github
+
+por el momento lo que tengo que hacer es abrir la terminal y encontrar mi repositorio
+
+con cd busco este espacio, y puedo simplemente escribir github, 2026 y tab para que autocomplete mi busqueda, ya que realmente no tengo ningun repositorio mas copiado asique me redirige a mi unica opcion
+
+```bash
+
+PS C:\Users\berni> cd .\github\2026-practica-bernardita-jesus\
+PS C:\Users\berni\github\2026-practica-bernardita-jesus>
+```
+
+luego consulto con git status cual es el estado de mi repositorio, para saber los cambios que se realizaron
+
+```bash
+PS C:\Users\berni\github\2026-practica-bernardita-jesus> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   semana-01/README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\berni\github\2026-practica-bernardita-jesus>
+```
+
+en este caso yo modifique el readme de la semana-01, que por cierto, son estos mismos apuntes
+
+
+
+
 
 Comandos
 
