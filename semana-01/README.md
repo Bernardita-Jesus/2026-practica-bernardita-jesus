@@ -1,10 +1,11 @@
 # Semana-01
 
-## Semana de adaptación
+## Resumen de días, temas y horas
 
-- Reunión Lunes 20 de julio, invierno 2026
-
-- Trabajo remoto (7 hrs) 21 de julio, invierno 2026
+| Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
+| :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
+| 2026-07-20 | Lunes    | git, github cli, planificación, referentes           | Rep180    | 004 / 004               |
+| 2026-07-21 | Martes   | git, markdown, visual studio code, C++               | Casa      | 007 / 011               |
 
 ### Copia del repositorio
 
@@ -126,13 +127,13 @@ La imaginé como la distorsión del sonido, el sonido rebotando, pero por supues
 
 Realmente la resonancia es un fenómeno acústico. Cuando un elemento es afectado por una frecuencia, este comienza a vibrar, lo cual genera un efecto de amplificación.
 
-https://www.tabakalera.eus/es/alvin-lucier/
+<https://www.tabakalera.eus/es/alvin-lucier/>
 
-https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/
+<https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/>
 
-https://umma.umich.edu/exhibitions/alvin-lucier-i-am-sitting-in-a-room/
+<https://umma.umich.edu/exhibitions/alvin-lucier-i-am-sitting-in-a-room/>
 
-https://iberacustica.cl/blog/resonancia-acustica-como-el-sonido-puede-hacer-vibrar-y-romper-objetos/
+<https://iberacustica.cl/blog/resonancia-acustica-como-el-sonido-puede-hacer-vibrar-y-romper-objetos/>
 
 ## Pendientes
 
@@ -155,5 +156,3 @@ Realizar un registro fotográfico.
 Investigar Parla y Relo.
 
 El primer sintetizador que voy a investigar será **Relo**.
-
-
