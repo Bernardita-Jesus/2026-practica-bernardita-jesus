@@ -6,6 +6,7 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-07-20 | Lunes    | git, github cli, planificación, referentes           | Rep180    | 004 / 004               |
 | 2026-07-21 | Martes   | git, markdown, visual studio code, C++               | Casa      | 007 / 011               |
+| 2026-07-22 | Miercoles | git, referentes                                     | Casa      | 002 / 013               |
 
 ### Copia del repositorio
 
@@ -139,20 +140,27 @@ https://iberacustica.cl/blog/resonancia-acustica-como-el-sonido-puede-hacer-vibr
 
 Álbum drumming (4 canciones - 56 min)
 
-Esta es una composición de percusión, se compone de cuatro partes, cada una con un instrumento que va variando y voces que imitan estos sonidos instrumentales. Inspirada en la cultura africana; cada parte explora diferentes instrumentos y la cuarta parte es una combinación de todos los instrumentos. Tiene un patrón rítmico básico con cambios de tono y timbre.
+Steve Reich, uno de los principales referentes de la música minimalista, compone esta obra de percusión dividida en cuatro partes. Cada una incorpora un instrumento distinto que va variando a lo largo de la pieza, acompañado por voces que imitan estos sonidos instrumentales. La obra está inspirada en la cultura africana; cada parte explora diferentes instrumentos y la cuarta reúne todos ellos. Se construye a partir de un patrón rítmico básico que se repite constantemente, mientras las escalas y las armonías van cambiando de forma progresiva.
+
+Al igual que el minimalismo en otras disciplinas, su música busca reducir los elementos a lo mínimo. Steve Reich explora esta reducción mediante variaciones que transforman gradualmente la percepción de la estructura.
+
+Me gustó que en obras como Phase Patterns cuestione el uso tradicional de los instrumentos. Me parece interesante esta idea de deconstruir la función para la que fueron creados y explorar nuevas posibilidades sonoras a partir de ellos.
 
 https://stevereich.com/
 
 https://www.drummingat50.com/
 
+https://www.allclassical.org/the-story-of-minimalism-part-one-a-new-way-of-listening/
+
+#### Referentes de diseño paramétrico
+
+- Tommy.sh
+- Oskitone
+- benjiaomodular
+
 ## Pendientes
 
 Robert Ashley, Robert Wilson, David Behrman y Gordon Mumma. (por mi)
 
-Referentes de diseño paramétrico.
-
 Investigar Parla y Relo.
-
-El primer sintetizador que voy a investigar será **Relo**.
-
 
