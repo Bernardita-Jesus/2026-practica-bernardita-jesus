@@ -152,15 +152,37 @@ https://www.drummingat50.com/
 
 https://www.allclassical.org/the-story-of-minimalism-part-one-a-new-way-of-listening/
 
-#### Referentes de diseño paramétrico
+### Referentes de diseño de carcasas
 
-- Tommy.sh
-- Oskitone
-- benjiaomodular
+#### Tommy.sh
+
+#### Oskitone
+
+el quehacer por la educacion me parece muy admirable y siento que es un mobilizante importante para Piruetas, expandir no solo esta pasion del arte sonoro, sino hacerlo mas cercano, mas entendible y ameno a su comprension.
+
+https://www.oskitone.com/
+
+
+#### Benjiaomodular
+
+formato Eurorack, modulos estandarizados que se encajan en diferentes soportes, pueden combibir con otros modulos de otras marcas
+
+VCV Rack
+
+#### My first modulaR
+
+https://www.kickstarter.com/projects/oficinadesonido/my-first-modular?lang=es
+
+sintetizador con modulos de nicho, este proyecto es una buena propuesta para quien esta incorporandose a el mundo de los sintes modulares porque recopila las partes escenciales que se requieren para manipularlos
+
+#### Componente
+
+pieza
+
+jaz mono, p j m 106
 
 ## Pendientes
 
 Robert Ashley, Robert Wilson, David Behrman y Gordon Mumma. (por mi)
 
 Investigar Parla y Relo.
-
