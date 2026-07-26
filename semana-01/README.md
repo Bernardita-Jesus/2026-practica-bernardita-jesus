@@ -152,37 +152,56 @@ https://www.drummingat50.com/
 
 https://www.allclassical.org/the-story-of-minimalism-part-one-a-new-way-of-listening/
 
-### Referentes de diseño de carcasas
+### Diseño de carcasa
 
-#### Tommy.sh
+Para la carcasa, en este caso del sintetizador Relo, debemos decidir primero, y por sobre todo, con qué tiene que cumplir esta carcasa: para qué tipo de usuario está pensada, cuál va a ser la interacción y con qué elementos se va a interactuar, como perillas, interruptores y botones. Esto nos va a ayudar a buscar referentes y morfologias.
+
+Según la tesis de Aarón, este sintetizador busca ser un elemento popular, un objeto cotidiano en nuestro espacio, sin una pretensión material o un diseño extremadamente delicado. La idea es que sea casi un juguete para acercar a las personas al mundo de la síntesis, sin tener que contar con un montón de instrumentos para hacerlo funcionar, pero que, de igual manera, pueda convivir en conjunto con otros dispositivos.
 
 #### Oskitone
 
-el quehacer por la educacion me parece muy admirable y siento que es un mobilizante importante para Piruetas, expandir no solo esta pasion del arte sonoro, sino hacerlo mas cercano, mas entendible y ameno a su comprension.
+Dialogando un poco sobre el hacer cotidiano y una síntesis más cercana, podemos tomar como referente a Oskitone, una empresa que tiene como quehacer la educación. Me parece muy admirable y siento que es un movilizante importante para Piruetas, expandir esta pasión por el arte sonoro, hacerlo más cercano y costeable, más entendible y ameno para su comprensión.
 
 https://www.oskitone.com/
 
+Este sintetizador estaría situado sobre una mesa, por lo que no necesita un soporte mayor. Debe tener un tamaño pequeño para, idealmente, poder utilizarse con una sola mano.
 
 #### Benjiaomodular
 
-formato Eurorack, modulos estandarizados que se encajan en diferentes soportes, pueden combibir con otros modulos de otras marcas
+En la búsqueda de normar las dimensiones, formas y el lenguaje de los sintetizadores que se produzcan en Piruetas, consideramos desarrollarlos en formato Eurorack.
+
+El formato Eurorack son módulos estandarizados que se encajan en diferentes soportes. Pueden convivir con otros módulos de otras marcas, ya que todas comenzaron a seguir estas medidas.
+
+Dilucidamos sobre la idea de hacer una versión con carcasa, que dé soporte y proteja la PCB; podría decirse una versión de lujo, aunque el término no le acuña; y una versión sin carcasa, solo con la PCB, más barata e incluso podría seguir el formato Eurorack, como mencioné.
+
+Pensando en la propuesta, creo que lo mejor sería poder comprar la PCB en formato Eurorack con su carcasa, comprar la PCB de manera independiente y comprar la carcasa por separado también. Poder entregar esta posibilidad de versiones.
 
 VCV Rack
 
-#### My first modulaR
+https://benjiaomodular.com/about/
 
-https://www.kickstarter.com/projects/oficinadesonido/my-first-modular?lang=es
+#### My first modular
 
-sintetizador con modulos de nicho, este proyecto es una buena propuesta para quien esta incorporandose a el mundo de los sintes modulares porque recopila las partes escenciales que se requieren para manipularlos
+Como otro referente, tenemos el sintetizador My First Modular, el cual reúne módulos esenciales. Este proyecto es una propuesta para quienes están incorporándose al mundo de los sintetizadores modulares en formato Eurorack y recopila los módulos básicos, entregándolos como una propuesta concisa para comenzar.
 
-#### Componente
+https://www.kickstarter.com/projects/oficinadesonido/my-first-modular
+
+#### Componentes que vamos utilizar 
 
 pieza
 
-jaz mono, p j m 106
+jaz mono, p j m 106 (consultar)
 
 ## Pendientes
 
+#### Tommy.sh
+
 Robert Ashley, Robert Wilson, David Behrman y Gordon Mumma. (por mi)
 
-Investigar Parla y Relo.
+https://patch-point.com/collections/ciat-lonbarde
+
+https://www.ctrl-mod.com/collections/ephemera
+
+https://www.tatsuyatakahashi.com/
+
+https://petermopar.blogspot.com/search
