@@ -6,7 +6,10 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-07-20 | Lunes    | git, github cli, planificación, referentes           | Rep180    | 004 / 004               |
 | 2026-07-21 | Martes   | git, markdown, visual studio code, C++               | Casa      | 007 / 011               |
-| 2026-07-22 | Miercoles | git, referentes                                     | Casa      | 002 / 013               |
+| 2026-07-22 | Miércoles | git, referentes                                     | Casa      | 002 / 013               |
+| 2026-07-23 | Jueves   | referentes, planificación, carcasas                  | Rep180    | 004 / 017               |
+| 2026-07-24 | Viernes  | referentes, carcasas, electrónica, fabricación       | Rep180    | 002 / 019               |
+| 2026-07-26 | Domingo  | git, carcasas, fabricación                           | Casa      | 002 / 021               |
 
 ### Copia del repositorio
 
