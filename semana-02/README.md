@@ -5,12 +5,12 @@
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-07-27 | Lunes    | git, planificación, carcasa, eurorack                | Rep180    | 005 / 005               |
-| 2026-07-27 | Martes   | git, carcasa, openscad, prototipos                   | Rep180    | 007 / 012               |
-| 2026-07-27 | Jueves   | git, carcasa, openscad, prototipos                   | Casa      | 006 / 018               |
+| 2026-07-28 | Martes   | git, carcasa, openscad, prototipos                   | Rep180    | 007 / 012               |
+| 2026-07-30 | Jueves   | git, carcasa, openscad, prototipos                   | Casa      | 006 / 018               |
 
 ## Copia local
 
-primero hice un fork de el repositorio de carcasas de los sintetizadores, que es para trabajar con codigos en openscad
+Primero hice un fork de el repositorio de carcasas de los sintetizadores, que es para trabajar con codigos en Openscad
 
 ## Diseño de carcasa
 
@@ -68,7 +68,7 @@ Para los prototipos de esta carcasa, definitivamente vamos a utilizar impresión
 
 Como primera prueba de OpenSCAD y de la materialidad, imprimimos un diseño estándar de una PCB en formato Eurorack utilizando PLA en la impresora 3D Bambu Lab. Este primer testeo nos permitió visualizar un resultado físico del modelo, comprobar las uniones y evaluar posibles ajustes.
 
-## Tareas
+## Tareas pendientes
 
 #### Presupuesto material
 
