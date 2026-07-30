@@ -163,6 +163,8 @@ Según la tesis de Aarón, este sintetizador busca ser un elemento popular, un o
 
 #### Oskitone
 
+Tommy.sh
+
 Dialogando un poco sobre el hacer cotidiano y una síntesis más cercana, podemos tomar como referente a Oskitone, una empresa que tiene como quehacer la educación. Me parece muy admirable y siento que es un movilizante importante para Piruetas, expandir esta pasión por el arte sonoro, hacerlo más cercano y costeable, más entendible y ameno para su comprensión.
 
 https://www.oskitone.com/
@@ -189,15 +191,9 @@ Como otro referente, tenemos el sintetizador My First Modular, el cual reúne m�
 
 https://www.kickstarter.com/projects/oficinadesonido/my-first-modular
 
-#### Componentes que vamos utilizar 
+## Por investigar
 
-pieza
-
-jaz mono, p j m 106 (consultar)
-
-## Pendientes
-
-#### Tommy.sh
+Artistas que estaré investigando para tener más contexto del arte eletrónico
 
 Robert Ashley, Robert Wilson, David Behrman y Gordon Mumma. (por mi)
 
@@ -208,3 +204,4 @@ https://www.ctrl-mod.com/collections/ephemera
 https://www.tatsuyatakahashi.com/
 
 https://petermopar.blogspot.com/search
+
