@@ -28,9 +28,25 @@ Comprendo que al publicar en VCV Rack se busca la popularización y generar disc
 
 Hundred Rabbits, viajeros en barco que practican la permacomputación, modificando y arreglando su barco.
 
-La razón de desarrollar las carcasas de forma paramétrica no solo es la optimización, sino tener la opción de utilizar otros módulos *rack* que convivan con Popusintes.
+La razón de desarrollar las carcasas de forma paramétrica no solo es la optimización, sino tener la opción de utilizar otros módulos **rack** que convivan con Popusintes.
 
 Conversando con Aarón sobre mis alcances de este borrador de tesis, un futuro proyecto podría venir de los platillos de cueca chora, ya que usarlos los destruye; la metáfora de esa fragilidad, referencia de Petter Blasser, sin interés en la pretensión de la precisión y la rapidez.
 
+## Carcasa
+
+sube esto a hoy
+esto incluirlo en bitácora de esta semana-02
+solamente como texto
+decir prototipo es caja + panel
+el panel tiene jacks y tiene perillas
+la caja tiene medidas estándares
+listo, se acabó
+
+### OpenScad
+
+hay que renderizar antes de generar el stl
+
 ### Modelo bote
+
+eurorack riel o insertos
 
