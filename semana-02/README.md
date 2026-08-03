@@ -78,6 +78,8 @@ Esta carcasa debe seguir una lógica de caja: debe poder abrirse, montarse y des
 
 Para los prototipos de esta carcasa, definitivamente vamos a utilizar impresión 3D, con el fin de imprimir pruebas de la misma PCB de **Relo**. Para esto utilizaré la impresora 3D **Bambu Lab**.
 
+![](imagenes/foto01.jpeg)
+
 #### Pruebas materiales
 
 Como primera prueba de OpenSCAD y de la materialidad, imprimimos un diseño estándar de una PCB en formato Eurorack utilizando PLA en la impresora 3D Bambu Lab. Este primer testeo nos permitió visualizar un resultado físico del modelo, comprobar las uniones y evaluar posibles ajustes.

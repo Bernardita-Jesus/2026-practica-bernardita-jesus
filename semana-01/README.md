@@ -199,6 +199,8 @@ https://www.kickstarter.com/projects/oficinadesonido/my-first-modular
 
 ![](imagenes/foto04.jpg)
 
+![](imagenes/foto01.jpeg)
+
 ## Por investigar
 
 Artistas que estaré investigando para tener más contexto del arte eletrónico
