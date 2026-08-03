@@ -66,6 +66,8 @@ Con el comando **translate()** podemos desplazar una figura dentro del espacio. 
 
 Me instalé VCV Rack para poder explorar el módulo de Relo. Este sintetizador cuenta con dos osciladores y tres perillas: una para controlar el oscilador, otra para la desincronización entre ambos osciladores y una tercera para ajustarla. Además, tiene un botón que los sincroniza y dos entradas y dos salidas tipo jack TS.
 
+todas las entradas estan arriba, todas las salidas estan abajo.
+
 https://library.vcvrack.com/piruetas-popusintes/relo
 
 ![captura](imagenes/captura01.png)
