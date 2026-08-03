@@ -52,17 +52,17 @@ Con el comando color, escribiendo el color específico que quieras, puedes asign
 
 ![captura](imagenes/captura02.png)
 
-### Valores de medidas
+#### Valores de medidas
 
 Para darle medidas a nuestras formas debemos asignarles parámetros. Por ejemplo en un cilindro utilizamos **h** para definir la altura y **r** para definir el radio. Estos valores se expresan en milímetros y pueden modificarse en cualquier momento, permitiendo cambiar las dimensiones de la pieza sin tener que volver a modelarla.
 
 Dependiendo de la figura, OpenSCAD utiliza distintos parámetros. Por ejemplo, un cubo utiliza el tamaño de sus lados **(size)**, mientras que un cilindro utiliza la altura **(h)** y el radio **(r o r1 y r2 si los radios son diferentes)**.
 
-### Desplazar y referenciar ubicación
+#### Desplazar y referenciar ubicación
 
 Con el comando **translate()** podemos desplazar una figura dentro del espacio. La ubicación se define mediante los ejes **x**, **y** y **z**, indicando cuánto se moverá la pieza en cada dirección. También podemos referenciar posiciones a partir de divisiones o medidas en relación con otras piezas.
 
-### Módulo PCB Eurorack Relo
+#### Módulo PCB Eurorack Relo
 
 Me instalé VCV Rack para poder explorar el módulo de Relo. Este sintetizador cuenta con dos osciladores y tres perillas: una para controlar el oscilador, otra para la desincronización entre ambos osciladores y una tercera para ajustarla. Además, tiene un botón que los sincroniza y dos entradas y dos salidas tipo jack TS.
 
@@ -78,7 +78,7 @@ Esta carcasa debe seguir una lógica de caja: debe poder abrirse, montarse y des
 
 Para los prototipos de esta carcasa, definitivamente vamos a utilizar impresión 3D, con el fin de imprimir pruebas de la misma PCB de **Relo**. Para esto utilizaré la impresora 3D **Bambu Lab**.
 
-### Pruebas materiales
+#### Pruebas materiales
 
 Como primera prueba de OpenSCAD y de la materialidad, imprimimos un diseño estándar de una PCB en formato Eurorack utilizando PLA en la impresora 3D Bambu Lab. Este primer testeo nos permitió visualizar un resultado físico del modelo, comprobar las uniones y evaluar posibles ajustes.
 
