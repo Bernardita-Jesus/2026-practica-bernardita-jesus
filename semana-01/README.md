@@ -155,9 +155,13 @@ https://www.drummingat50.com/
 
 https://www.allclassical.org/the-story-of-minimalism-part-one-a-new-way-of-listening/
 
-### Diseño de carcasa
+## Diseño de carcasa
+
+### Investigación referentes
 
 Para la carcasa, en este caso del sintetizador Relo, debemos decidir primero, y por sobre todo, con qué tiene que cumplir esta carcasa: para qué tipo de usuario está pensada, cuál va a ser la interacción y con qué elementos se va a interactuar, como perillas, interruptores y botones. Esto nos va a ayudar a buscar referentes y morfologias.
+
+![foto pcb](imagenes/foto06.jpeg)
 
 Según la tesis de Aarón, este sintetizador busca ser un elemento popular, un objeto cotidiano en nuestro espacio, sin una pretensión material o un diseño extremadamente delicado. La idea es que sea casi un juguete para acercar a las personas al mundo de la síntesis, sin tener que contar con un montón de instrumentos para hacerlo funcionar, pero que, de igual manera, pueda convivir en conjunto con otros dispositivos.
 
@@ -191,6 +195,12 @@ Como otro referente, tenemos el sintetizador My First Modular, el cual reúne m�
 
 https://www.kickstarter.com/projects/oficinadesonido/my-first-modular
 
+### Pruebas materiales
+
+![](imagenes/foto04.jpg)
+
+![](imagenes/foto01.jpeg)
+
 ## Por investigar
 
 Artistas que estaré investigando para tener más contexto del arte eletrónico
@@ -204,4 +214,3 @@ https://www.ctrl-mod.com/collections/ephemera
 https://www.tatsuyatakahashi.com/
 
 https://petermopar.blogspot.com/search
-

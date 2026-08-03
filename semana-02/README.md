@@ -4,19 +4,23 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-07-27 | Lunes    | git, planificación, carcasa, eurorack                | Rep180    | 005 / 005               |
-| 2026-07-28 | Martes   | git, carcasa, openscad, prototipos                   | Rep180    | 007 / 012               |
-| 2026-07-30 | Jueves   | git, carcasa, openscad, prototipos                   | Casa      | 006 / 018               |
+| 2026-07-27 | Lunes    | git, planificación, carcasa, Eurorack                | Rep180    | 005 / 005               |
+| 2026-07-28 | Martes   | git, carcasa, OpenScad, prototipos                   | LID       | 007 / 012               |
+| 2026-07-30 | Jueves   | git, carcasa, OpenScad, prototipos                   | Casa      | 006 / 018               |
+| 2026-07-31 | Viernes  | carcasa, OpenScad, prototipos                        | LID       | 004 / 022               |
+| 2026-08-01 | Sábado   | lectura de tesis                                     | Casa      | 002 / 024               |
 
 ## Copia local
 
-Primero hice un fork de el repositorio de carcasas de los sintetizadores, que es para trabajar con codigos en Openscad
+Primero hice un fork del repositorio de carcasas de los sintetizadores, el cual utilizaremos para trabajar con código en OpenSCAD.
+
+El repositorio en el que estamos trabajando es: https://github.com/piruetasxyz/popusintes-carcasas.
+
+La verdad, aún me ha costado acostumbrarme a trabajar desde la terminal. He cometido algunos errores, como subir apuntes sin hacer antes un **git pull** para actualizar mi repositorio local con los cambios que estaban en la nube.
 
 ## Diseño de carcasa
 
 Revisamos algunas funciones de los sintetizadores para comprender sus posibles salidas y la interacción de Relo. Hoy comprendí en profundidad la propuesta de este módulo de sintetizador, en el cual se puede entender la referencia directa con DrumMachine.
-
-Este sintetizador cuenta con dos osciladores y una perilla que controla la distancia, o desincronización, entre ambos osciladores.
 
 Sistema autocontenido.
 
@@ -46,15 +50,25 @@ Por ejemplo, se pueden seleccionar 3 caras para obtener un prisma triangular, 4 
 
 Con el comando color, escribiendo el color específico que quieras, puedes asignar un color a cada pieza. Esto lo voy a utilizar para distinguir mejor cada componente antes de realizar extrusiones o uniones. Los nombres de los colores se pueden encontrar en https://htmlcolorcodes.com/es/nombres-de-los-colores/.
 
-### Valores de medidas
+![captura](imagenes/captura02.png)
+
+#### Valores de medidas
 
 Para darle medidas a nuestras formas debemos asignarles parámetros. Por ejemplo en un cilindro utilizamos **h** para definir la altura y **r** para definir el radio. Estos valores se expresan en milímetros y pueden modificarse en cualquier momento, permitiendo cambiar las dimensiones de la pieza sin tener que volver a modelarla.
 
 Dependiendo de la figura, OpenSCAD utiliza distintos parámetros. Por ejemplo, un cubo utiliza el tamaño de sus lados **(size)**, mientras que un cilindro utiliza la altura **(h)** y el radio **(r o r1 y r2 si los radios son diferentes)**.
 
-### Desplazar y referenciar ubicación
+#### Desplazar y referenciar ubicación
 
 Con el comando **translate()** podemos desplazar una figura dentro del espacio. La ubicación se define mediante los ejes **x**, **y** y **z**, indicando cuánto se moverá la pieza en cada dirección. También podemos referenciar posiciones a partir de divisiones o medidas en relación con otras piezas.
+
+#### Módulo PCB Eurorack Relo
+
+Me instalé VCV Rack para poder explorar el módulo de Relo. Este sintetizador cuenta con dos osciladores y tres perillas: una para controlar el oscilador, otra para la desincronización entre ambos osciladores y una tercera para ajustarla. Además, tiene un botón que los sincroniza y dos entradas y dos salidas tipo jack TS.
+
+https://library.vcvrack.com/piruetas-popusintes/relo
+
+![captura](imagenes/captura01.png)
 
 ### Materialidad de la carcasa
 
@@ -64,9 +78,13 @@ Esta carcasa debe seguir una lógica de caja: debe poder abrirse, montarse y des
 
 Para los prototipos de esta carcasa, definitivamente vamos a utilizar impresión 3D, con el fin de imprimir pruebas de la misma PCB de **Relo**. Para esto utilizaré la impresora 3D **Bambu Lab**.
 
-### Pruebas materiales
+![](imagenes/foto01.jpeg)
+
+#### Pruebas materiales
 
 Como primera prueba de OpenSCAD y de la materialidad, imprimimos un diseño estándar de una PCB en formato Eurorack utilizando PLA en la impresora 3D Bambu Lab. Este primer testeo nos permitió visualizar un resultado físico del modelo, comprobar las uniones y evaluar posibles ajustes.
+
+![captura](imagenes/foto05.jpg)
 
 ## Tareas pendientes
 

@@ -6,8 +6,8 @@ práctica profesional de bernardita jesús, segundo semestre 2026
 
 | Semana             | Fechas     | Temas                                        | Horas semana / totales |
 | :----------------- | :--------- | :------------------------------------------- | :--------------------- |
-| [01](./semana-01/) | 07-20 lun  | git, github cli, planificación, referentes   | 000 / 000              |
-| [02](./semana-02/) | 07-27 lun  | modelos 3D en openscad                       | 000 / 000              |
+| [01](./semana-01/) | 07-20 lun  | git, github cli, planificación, referentes   | 021 / 021              |
+| [02](./semana-02/) | 07-27 lun  | modelos 3D en openscad                       | 023 / 044              |
 | [03](./semana-03/) | 08-03 lun  | git, markdown, visual studio code, C++       | 000 / 000              |
 | [04](./semana-04/) | 08-10 lun  | microcontroladores en C++, botones           | 000 / 000              |
 | [05](./semana-05/) | 08-17 lun  | samplers, memoria digital, formatos de audio | 000 / 000              |
