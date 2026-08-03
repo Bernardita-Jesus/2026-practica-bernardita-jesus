@@ -4,9 +4,11 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-07-27 | Lunes    | git, planificación, carcasa, eurorack                | Rep180    | 005 / 005               |
-| 2026-07-28 | Martes   | git, carcasa, openscad, prototipos                   | Rep180    | 007 / 012               |
-| 2026-07-30 | Jueves   | git, carcasa, openscad, prototipos                   | Casa      | 006 / 018               |
+| 2026-07-27 | Lunes    | git, planificación, carcasa, Eurorack                | Rep180    | 005 / 005               |
+| 2026-07-28 | Martes   | git, carcasa, OpenScad, prototipos                   | LID       | 007 / 012               |
+| 2026-07-30 | Jueves   | git, carcasa, OpenScad, prototipos                   | Casa      | 006 / 018               |
+| 2026-07-31 | Viernes  | carcasa, OpenScad, prototipos                        | LID       | 004 / 022               |
+| 2026-08-01 | Sábado   | lectura de tesis                                     | Casa      | 002 / 024               |
 
 ## Copia local
 
@@ -48,6 +50,8 @@ Por ejemplo, se pueden seleccionar 3 caras para obtener un prisma triangular, 4 
 
 Con el comando color, escribiendo el color específico que quieras, puedes asignar un color a cada pieza. Esto lo voy a utilizar para distinguir mejor cada componente antes de realizar extrusiones o uniones. Los nombres de los colores se pueden encontrar en https://htmlcolorcodes.com/es/nombres-de-los-colores/.
 
+![captura](imagenes/captura02.png)
+
 ### Valores de medidas
 
 Para darle medidas a nuestras formas debemos asignarles parámetros. Por ejemplo en un cilindro utilizamos **h** para definir la altura y **r** para definir el radio. Estos valores se expresan en milímetros y pueden modificarse en cualquier momento, permitiendo cambiar las dimensiones de la pieza sin tener que volver a modelarla.
@@ -64,7 +68,7 @@ Me instalé VCV Rack para poder explorar el módulo de Relo. Este sintetizador c
 
 https://library.vcvrack.com/piruetas-popusintes/relo
 
-![](imagenes/captura02.png)
+![captura](imagenes/captura01.png)
 
 ### Materialidad de la carcasa
 
@@ -74,11 +78,11 @@ Esta carcasa debe seguir una lógica de caja: debe poder abrirse, montarse y des
 
 Para los prototipos de esta carcasa, definitivamente vamos a utilizar impresión 3D, con el fin de imprimir pruebas de la misma PCB de **Relo**. Para esto utilizaré la impresora 3D **Bambu Lab**.
 
-agregar foto pruebas*
-
 ### Pruebas materiales
 
 Como primera prueba de OpenSCAD y de la materialidad, imprimimos un diseño estándar de una PCB en formato Eurorack utilizando PLA en la impresora 3D Bambu Lab. Este primer testeo nos permitió visualizar un resultado físico del modelo, comprobar las uniones y evaluar posibles ajustes.
+
+![captura](imagenes/foto05.jpg)
 
 ## Tareas pendientes
 
