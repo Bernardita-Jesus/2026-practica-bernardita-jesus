@@ -20,6 +20,8 @@ La verdad, aún me ha costado acostumbrarme a trabajar desde la terminal. He com
 
 ## Diseño de carcasa
 
+Para la carcasa tenemos dos elementos importantes: el módulo **rack**, que tiene su correspondiente PCB, y un panel donde van las perforaciones para las perillas, los tornillos y las entradas y salidas jack TS.
+
 Revisamos algunas funciones de los sintetizadores para comprender sus posibles salidas y la interacción de Relo. Hoy comprendí en profundidad la propuesta de este módulo de sintetizador, en el cual se puede entender la referencia directa con DrumMachine.
 
 Sistema autocontenido.
@@ -65,6 +67,8 @@ Con el comando **translate()** podemos desplazar una figura dentro del espacio. 
 #### Módulo PCB Eurorack Relo
 
 Me instalé VCV Rack para poder explorar el módulo de Relo. Este sintetizador cuenta con dos osciladores y tres perillas: una para controlar el oscilador, otra para la desincronización entre ambos osciladores y una tercera para ajustarla. Además, tiene un botón que los sincroniza y dos entradas y dos salidas tipo jack TS.
+
+todas las entradas estan arriba, todas las salidas estan abajo.
 
 https://library.vcvrack.com/piruetas-popusintes/relo
 
