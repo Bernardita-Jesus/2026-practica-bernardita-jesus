@@ -10,13 +10,15 @@
 
 ## Copia local
 
-Primero hice un fork de el repositorio de carcasas de los sintetizadores, que es para trabajar con codigos en Openscad
+Primero hice un fork del repositorio de carcasas de los sintetizadores, el cual utilizaremos para trabajar con código en OpenSCAD.
+
+El repositorio en el que estamos trabajando es: https://github.com/piruetasxyz/popusintes-carcasas.
+
+La verdad, aún me ha costado acostumbrarme a trabajar desde la terminal. He cometido algunos errores, como subir apuntes sin hacer antes un **git pull** para actualizar mi repositorio local con los cambios que estaban en la nube.
 
 ## Diseño de carcasa
 
 Revisamos algunas funciones de los sintetizadores para comprender sus posibles salidas y la interacción de Relo. Hoy comprendí en profundidad la propuesta de este módulo de sintetizador, en el cual se puede entender la referencia directa con DrumMachine.
-
-Este sintetizador cuenta con dos osciladores y una perilla que controla la distancia, o desincronización, entre ambos osciladores.
 
 Sistema autocontenido.
 
@@ -56,6 +58,14 @@ Dependiendo de la figura, OpenSCAD utiliza distintos parámetros. Por ejemplo, u
 
 Con el comando **translate()** podemos desplazar una figura dentro del espacio. La ubicación se define mediante los ejes **x**, **y** y **z**, indicando cuánto se moverá la pieza en cada dirección. También podemos referenciar posiciones a partir de divisiones o medidas en relación con otras piezas.
 
+### Módulo PCB Eurorack Relo
+
+Me instalé VCV Rack para poder explorar el módulo de Relo. Este sintetizador cuenta con dos osciladores y tres perillas: una para controlar el oscilador, otra para la desincronización entre ambos osciladores y una tercera para ajustarla. Además, tiene un botón que los sincroniza y dos entradas y dos salidas tipo jack TS.
+
+https://library.vcvrack.com/piruetas-popusintes/relo
+
+![](imagenes/captura02.png)
+
 ### Materialidad de la carcasa
 
 Para la materialidad de **Relo**, tenemos dos principales materiales con sus respectivos procesos. En mi opinión, una de nuestras mejores opciones sería utilizar madera mecanizada, ya que en la universidad contamos con una máquina CNC que funciona mediante código y que me permitiría profundizar en esta herramienta. Este es un proceso de sustracción, y me atrevo a decir que, si decidimos utilizar este material, podemos realizar carcasas solo con madera de rescate, ya que no son carcasas muy grandes.
@@ -63,6 +73,8 @@ Para la materialidad de **Relo**, tenemos dos principales materiales con sus res
 Esta carcasa debe seguir una lógica de caja: debe poder abrirse, montarse y desmontarse. Para ello, deberíamos utilizar herrajes, tornillos e insertos. La madera es un material muy provechoso, ya que se puede grabar, impermeabilizar, enlacar, pintar, prensar, entre otros procesos.
 
 Para los prototipos de esta carcasa, definitivamente vamos a utilizar impresión 3D, con el fin de imprimir pruebas de la misma PCB de **Relo**. Para esto utilizaré la impresora 3D **Bambu Lab**.
+
+agregar foto pruebas*
 
 ### Pruebas materiales
 
