@@ -10,8 +10,6 @@
 
 ## Popusintesíntesis
 
-## Comentarios de la tesis
-
 Mediante la lectura de este borrador a la candidatura del proyecto de tesis, comprendí el fin y el planteamiento de esta tesis, que busca, a nivel cultural, popularizar la síntesis, dándole el valor material situado, **software** y **hardware** de fuente abierta y a bajo costo.
 
 Me hizo mucho sentido con la tesis el valor que le estamos dando al modelado 3D con código, no solo para poder hacerlo escalable, lo cual me parece una promesa muy bella, sino también tomar la responsabilidad de hacer proyectos replicables, que se puedan modificar y potenciar; la **permacomputación** como lo contrario de la obsolescencia programada, pura resistencia.
