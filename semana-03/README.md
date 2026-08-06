@@ -4,7 +4,8 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-08-03 | Lunes    | planificación, carcasa, Eurorack                     | LID       | 005 / 005               |
+| 2026-08-03 | Lunes    | planificación, carcasa, Eurorack                     | LID       | 007 / 007               |
+| 2026-08-04 | Martes   | planificación, carcasa, Eurorack                     | LID       | 002 / 009               |
 
 ## Popusintesíntesis
 
@@ -32,15 +33,11 @@ La razón de desarrollar las carcasas de forma paramétrica no solo es la optimi
 
 Conversando con Aarón sobre mis alcances de este borrador de tesis, un futuro proyecto podría venir de los platillos de cueca chora, ya que usarlos los destruye; la metáfora de esa fragilidad, referencia de Petter Blasser, sin interés en la pretensión de la precisión y la rapidez.
 
+consulte algunas dudas de la tesis, como el cronocrama a largo plazo, ya que el proximo semestre tambien existe un momento de testeos de modulos, 
+
 ## Carcasa
 
-sube esto a hoy
-esto incluirlo en bitácora de esta semana-02
-solamente como texto
-decir prototipo es caja + panel
-el panel tiene jacks y tiene perillas
-la caja tiene medidas estándares
-listo, se acabó
+
 
 ### OpenScad
 
