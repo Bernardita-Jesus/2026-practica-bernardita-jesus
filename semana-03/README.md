@@ -6,7 +6,7 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-03 | Lunes    | planificación, carcasa, Eurorack                     | LID       | 007 / 007               |
 | 2026-08-04 | Martes   | planificación, lectura tesis                         | LID       | 006 / 014               |
-| 2026-08-06 | Jueves   | git, OpenScad                                        | Casa      | 001 / 015               |
+| 2026-08-06 | Jueves   | git, OpenScad                                        | Casa      | 004 / 019               |
 
 ## Popusintesíntesis
 
@@ -52,11 +52,118 @@ Incluir medidas**
 
 **Bote:** El bote corresponde a la caja o estructura del módulo Eurorack tipo *skiff*, que sostiene los paneles. Es una caja con perforaciones que permiten fijar los paneles mediante tornillos. Estos botes pueden fabricarse en distintos materiales. Mi propuesta es modelarlos con un espesor adecuado para ser cortados en CNC e incorporar posteriormente rieles o insertos compatibles con el estándar Eurorack.
 
-### OpenScad
+### Panel Eurorack Relo
 
-como estuve viendo la semana pasada, con OpenScad voy a modelar la 
+Como estuve revisando la semana pasada, con OpenSCAD voy a modelar el panel donde irán las perforaciones para las perillas, los tornillos y las entradas y salidas **jack TS**. La disposición será con todas las entradas en la parte superior y todas las salidas en la parte inferior. Además, la distribución de los elementos será asimétrica, con el fin de dar mayor distancia entre ellos y facilitar su reconocimiento según su ubicación.
 
-hay que renderizar antes de generar el stl
+En OpenSCAD es necesario renderizar el modelo antes de generar el archivo **.STL**.
+
+Para este modelado me guié por el panel publicado en VCV Rack:
+
+[VCV Rack Relo](https://library.vcvrack.com/piruetas-popusintes/relo)
+
+Creé tres tipos de cilindros, los cuales debo restar al sólido base del panel mediante una operación de diferencia (*difference()*). A cada tipo de cilindro le asigné sus correspondientes medidas. Esta fue una manera de optimizar el modelado, ya que solo existen tres tipos de perforaciones.
+
+A todos los cilindros les di una altura suficiente para que sobrepasaran el espesor del panel y así pudieran generar correctamente las perforaciones al aplicar la operación de diferencia. Lo único que varía entre ellos es el radio de cada cilindro.
+
+```bash
+// perillaChica
+module perillaChicaPrueba(x, y) {
+
+translate([x, y, -AGUJERO_ALTURA/2])
+color("plum")
+cylinder(
+h = AGUJERO_ALTURA,
+r = 3,
+center = false
+);
+
+}
+
+// perillaMediana
+module perillaMedianaPrueba(x, y) {
+
+translate([x, y, -AGUJERO_ALTURA/2])
+color("plum")
+cylinder(
+h = AGUJERO_ALTURA,
+r = 4,5,
+center = false
+);
+
+}
+
+// perillaGrande
+module perillaGrandePrueba(x, y) {
+
+translate([x, y, -AGUJERO_ALTURA/2])
+color("plum")
+cylinder(
+h = AGUJERO_ALTURA,
+r = 5.6,
+center = false
+);
+
+}
+```
+
+Luego creé dos ejes, un eje izquierdo y un eje derecho, los cuales sirvieron como una grilla de referencia para posicionar los elementos según las referencias definidas anteriormente. De esta manera, fue posible mantener una distribución consistente y controlar la ubicación de cada perforación durante el modelado.
+
+```bash
+// columnas
+COLUMNA_IZQ = ANCHO * 0.30;
+COLUMNA_DER = ANCHO * 0.70;
+```
+
+![captura modelado](imagenes/captura-03.png)
+
+Listado de elementos:
+
+```bash
+// Panel centrado
+
+// todas las medidas son aprox
+
+////////////////////
+// columna izquierda
+////////////////////
+
+// perilla tempo
+
+// boton resincronizar
+
+// jack resincronizar
+
+//////////////////
+// columna derecha
+//////////////////
+
+// perilla desfase b
+
+// perilla desface atenuversor
+
+// jack desfase b
+
+//////////////////
+// salidas
+//////////////////
+
+// luz a
+
+// jack a
+
+// luz b
+
+// jack b
+```
+
+Agregar captura de la propuesta**
+
+Agregar captura de bambulab y incluir cotización**
+
+Agregar foto de el primer prototipo**
+
+
 
 
 
