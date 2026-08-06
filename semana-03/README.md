@@ -42,13 +42,22 @@ Consulté algunas dudas de la tesis, como el cronograma a largo plazo, ya que el
 
 ## Carcasa
 
+**Para la carcasa**, definí que existen distintos términos y propuestas, por lo que es necesario hacer una separación entre sus componentes. En este caso tendremos las **PCB**, los **paneles** y las **cajas**, que para este proyecto nombraremos como **botes**.
 
+**PCB:** Se entienden como las placas electrónicas con sus componentes. Sus dimensiones y distribución, por el momento, están sujetas a cambios.
+
+**Paneles:** Los paneles son la parte visible del módulo, es decir, la superficie con la que el usuario interactúa. Corresponden a la carcasa frontal que cubre la PCB y donde se montan las perillas, entradas y salidas, además de las perforaciones para tornillos y LED. Sus medidas están estandarizadas y seguirán el formato Eurorack (compatible con VCV Rack como referencia de diseño). El largo se mantiene fijo, mientras que el ancho puede variar en múltiplos de una medida estándar.
+
+Incluir medidas**
+
+**Bote:** El bote corresponde a la caja o estructura del módulo Eurorack tipo *skiff*, que sostiene los paneles. Es una caja con perforaciones que permiten fijar los paneles mediante tornillos. Estos botes pueden fabricarse en distintos materiales. Mi propuesta es modelarlos con un espesor adecuado para ser cortados en CNC e incorporar posteriormente rieles o insertos compatibles con el estándar Eurorack.
 
 ### OpenScad
 
+como estuve viendo la semana pasada, con OpenScad voy a modelar la 
+
 hay que renderizar antes de generar el stl
 
-### Modelo bote
 
-eurorack riel o insertos
+
 
