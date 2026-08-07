@@ -64,7 +64,7 @@ Creé tres tipos de cilindros, los cuales debo restar al sólido base del panel 
 
 A todos los cilindros les di una altura suficiente para que sobrepasaran el espesor del panel y así pudieran generar correctamente las perforaciones al aplicar la operación de diferencia. Lo único que varía entre ellos es el radio de cada cilindro.
 
-```bash
+```openscad
 // perillaChica
 module perillaChicaPrueba(x, y) {
 
