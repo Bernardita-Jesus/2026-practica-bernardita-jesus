@@ -6,7 +6,7 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-03 | Lunes    | planificación, carcasa, Eurorack                     | LID       | 007 / 007               |
 | 2026-08-04 | Martes   | planificación, lectura tesis                         | LID       | 006 / 014               |
-| 2026-08-06 | Jueves   | git, OpenScad                                        | Casa      | 004 / 019               |
+| 2026-08-06 | Jueves   | git, OpenScad                                        | Casa      | 006 / 020               |
 
 ## Popusintesíntesis
 
@@ -115,6 +115,8 @@ COLUMNA_DER = ANCHO * 0.70;
 
 ![captura modelado](imagenes/captura-03.png)
 
+![captura modelado](imagenes/captura-04.png)
+
 Listado de elementos:
 
 ```bash
@@ -155,7 +157,121 @@ Listado de elementos:
 // jack b
 ```
 
-Agregar captura de la propuesta**
+Ahora definí cuatro tipos de cilindros y corregí las medidas de los radios, de acuerdo con las tolerancias que se necesitan para cada perforación.
+
+El cilindro mediano estaba construido para las perforaciones de las entradas Jack TS, pero es la misma medida que se requiere para las perforaciones del **botón de resincronización** y de la **perilla del desfase atenuversor**.
+
+```bash
+// cilindro pequeño leds
+module cilindroMini(x, y) {
+
+translate([x, y, -AGUJERO_ALTURA/2])
+color("plum")
+cylinder(
+h = AGUJERO_ALTURA,
+r = 1.7,
+center = false
+);
+
+}
+
+// cilindro mediana para jacks ts
+module cilindroMediano(x, y) {
+
+translate([x, y, -AGUJERO_ALTURA/2])
+color("plum")
+cylinder(
+h = AGUJERO_ALTURA,
+r = 3.25,
+center = false
+);
+
+}
+
+// cilindro pequeña para botones
+module cilindroPerilla(x, y) {
+
+translate([x, y, -AGUJERO_ALTURA/2])
+color("plum")
+cylinder(
+h = AGUJERO_ALTURA,
+r = 4.4,
+center = false
+);
+
+}
+
+// cilindro grande para perilla
+module cilindroGrande(x, y) {
+
+translate([x, y, -AGUJERO_ALTURA/2])
+color("plum")
+cylinder(
+h = AGUJERO_ALTURA,
+r = 5.6,
+center = false
+);
+
+}
+```
+
+Agregué parámetros para crear los agujeros donde van los pernos del bote. Estos no están referenciados a las columnas derecha e izquierda.
+
+```bash
+////////////////////
+// referencias de los pernos
+////////////////////
+
+// Distancia de los pernos respecto a los bordes del panel
+MARGEN_X = 7.5;
+MARGEN_Y = 3;
+
+// Posición horizontal de los pernos
+PERNO_IZQUIERDO = MARGEN_X;
+PERNO_DERECHO = ANCHO - MARGEN_X;
+
+// Posición vertical de los pernos
+PERNO_SUPERIOR = ALTO - MARGEN_Y;
+PERNO_INFERIOR = MARGEN_Y;
+
+//////////////////////
+// PERFORACIÓN PARA LOS PERNOS
+//////////////////////
+
+// Diámetro del agujero para el tornillo de montaje
+DIAMETRO_PERNO = 3.4;
+
+module agujero_perno() {
+    cylinder(
+        h = ESPESOR + 2,   // Atraviesa completamente el panel
+        d = DIAMETRO_PERNO,
+        $fn = 50
+    );
+}
+
+////////////////////
+// diferencias para los pernos
+// no referenciados a las columnas
+////////////////////
+
+// Perno superior izquierdo
+translate([PERNO_IZQUIERDO, PERNO_SUPERIOR, -1]) agujero_perno();
+
+// Perno inferior izquierdo
+translate([PERNO_IZQUIERDO, PERNO_INFERIOR, -1]) agujero_perno();
+
+// Perno superior derecho
+translate([PERNO_DERECHO, PERNO_SUPERIOR, -1]) agujero_perno();
+
+// Perno inferior derecho
+translate([PERNO_DERECHO, PERNO_INFERIOR, -1]) agujero_perno();
+
+}
+
+}
+```
+
+![captura modelado](imagenes/captura-05.png)
 
 Agregar captura de bambulab y incluir cotización**
 
