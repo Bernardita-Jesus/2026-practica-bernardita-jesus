@@ -11,7 +11,7 @@
 | 2026-07-24 | Viernes  | referentes, carcasas, electrónica, fabricación       | Rep180    | 002 / 019               |
 | 2026-07-26 | Domingo  | git, carcasas, fabricación                           | Casa      | 002 / 021               |
 
-### Copia del repositorio
+## Copia del repositorio
 
 Hice una copia del repositorio de la práctica en mi computador desde la terminal. Estoy utilizando **Windows PowerShell** y **Visual Studio Code** para subir varios archivos a la nube de **GitHub**.
 
@@ -97,7 +97,7 @@ En este caso, y qué interesante haberlo podido probar, me dice que hubo un erro
 
 **git push y git pull** son los comandos que requieren conexión a Internet, ya que son los que se conectan con el repositorio en GitHub.
 
-#### Comandos
+### Comandos
 
 Punto (.) podriamos definirlo como aquí mismo, dos puntos (..)
 
@@ -111,25 +111,25 @@ pwd
 cd
 ```
 
-### Investigación de referentes sonoros
+## Referentes sonoros
 
-#### Alvin Lucier
+### Alvin Lucier
 
-I Am Sitting in a Room (45 min)
+**I Am Sitting in a Room (45 min)**
 
-Alvin Lucier interpreta esta canción, la cual es más un experimento de frecuencias de resonancia. Él graba un audio en el cual narra un poco su propuesta; es un audio de aproximadamente un minuto que se reproduce en una habitación, en la cual se graba y vuelve a reproducir, y esto se va repitiendo. De a poco se van perdiendo las palabras y se transforman en un sonido casi ambiental, en donde el espacio se vuelve una variable importante para el resultado.
+Alvin Lucier interpreta esta canción, la cual es más un **experimento de frecuencias de resonancia**. Él graba un audio en el cual narra un poco su propuesta; es un audio de aproximadamente un minuto que se reproduce en una habitación, en la cual **se graba y vuelve a reproducir**, y esto se va repitiendo. De a poco se van perdiendo las palabras y se transforman en un sonido casi ambiental, en donde **el espacio se vuelve una variable importante** para el resultado.
 
-Solo puedo pensar ¿cuántos sonidos están encriptados entre la reverberación?
+Solo puedo pensar **¿cuántos sonidos están encriptados entre la reverberación?**
 
 Realmente es interesante cuando repites algo, y lo repites, lo exageras y lo distorsionas hasta que se convierte en eso, un encriptado de algo, de algo a lo que no puedes retroceder.
 
-También pienso que se convirtió en algo armónico. Esa fue una de mis primeras impresiones, pero más que armónico, se homogeneizó.
+También pienso que se convirtió en algo armónico. Esa fue una de mis primeras impresiones, pero más que armónico, se **homogeneizó**.
 
-¿Qué es la resonancia?
+**¿Qué es la resonancia?**
 
 La imaginé como la distorsión del sonido, el sonido rebotando, pero por supuesto, eso se queda corto, porque muchas cosas pueden ser distorsión.
 
-Realmente la resonancia es un fenómeno acústico. Cuando un elemento es afectado por una frecuencia, este comienza a vibrar, lo cual genera un efecto de amplificación.
+Realmente la resonancia es un **fenómeno acústico**. Cuando un elemento es afectado por una frecuencia, este comienza a vibrar, lo cual genera un efecto de amplificación.
 
 https://www.tabakalera.eus/es/alvin-lucier/
 
@@ -139,9 +139,9 @@ https://umma.umich.edu/exhibitions/alvin-lucier-i-am-sitting-in-a-room/
 
 https://iberacustica.cl/blog/resonancia-acustica-como-el-sonido-puede-hacer-vibrar-y-romper-objetos/
 
-#### Steve Reich
+### Steve Reich
 
-Álbum drumming (4 canciones - 56 min)
+**Álbum drumming (4 canciones - 56 min)**
 
 Steve Reich, uno de los principales referentes de la música minimalista, compone esta obra de percusión dividida en cuatro partes. Cada una incorpora un instrumento distinto que va variando a lo largo de la pieza, acompañado por voces que imitan estos sonidos instrumentales. La obra está inspirada en la cultura africana; cada parte explora diferentes instrumentos y la cuarta reúne todos ellos. Se construye a partir de un patrón rítmico básico que se repite constantemente, mientras las escalas y las armonías van cambiando de forma progresiva.
 

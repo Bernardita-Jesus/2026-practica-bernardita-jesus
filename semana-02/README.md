@@ -90,14 +90,4 @@ Como primera prueba de OpenSCAD y de la materialidad, imprimimos un diseño est�
 
 ![captura](imagenes/foto05.jpg)
 
-## Tareas pendientes
 
-#### Presupuesto material
-
-concepto simple, es para probar el material, tiempos de construcción y tolerancias
-
-Documentar: tiempos reales de fabricación, costo material, problemas, hallazgos.
-
-hacer presupuesto y ver disponibilidad de material que tenemos disponibles ahora y cuáles comprar para comenzar el prototipo.
-
-material consultar valores minimos, mediamos y de lujo
