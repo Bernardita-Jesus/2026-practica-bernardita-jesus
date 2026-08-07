@@ -311,11 +311,11 @@ Incluir cotización hecha con una tabla de cuanto costaria el g de filmento con 
 
 ### Bote
 
-Como mencioné Bote es una caja o estructura del módulo Eurorack tipo *skiff*, es la carcasa para los modulos eurorack, 
+Como mencioné, Bote es una caja o estructura para un módulo Eurorack tipo skiff; es la carcasa para los módulos Eurorack.
 
-el modelo base que tenemos, fue modelado con openscad, pero tiene un monton de referencias o clases que por el momento no he aplicado a mis modelados.
+El modelo base que tenemos fue modelado en OpenSCAD, pero tiene un montón de referencias o clases que, por el momento, no he aplicado a mis modelados.
 
-entonces hice el ejercicio de abrirlo desde la misma copia local, pero eran solo referencias
+Entonces hice el ejercicio de abrirlo desde la misma copia local, pero eran solo referencias y no logro encontrar esos archivos.
 
 ```openscad
 // relo_caja.scad
