@@ -307,6 +307,29 @@ Agregar captura de bambulab**
 
 Agregar foto de el primer prototipo**
 
-incluir cotización hecha con una tabla de cuanto costaria el g de filmento con mas de una opción**
+Incluir cotización hecha con una tabla de cuanto costaria el g de filmento con mas de una opción**
 
+### Bote
 
+Como mencioné Bote es una caja o estructura del módulo Eurorack tipo *skiff*, es la carcasa para los modulos eurorack, 
+
+el modelo base que tenemos, fue modelado con openscad, pero tiene un monton de referencias o clases que por el momento no he aplicado a mis modelados.
+
+entonces hice el ejercicio de abrirlo desde la misma copia local, pero eran solo referencias
+
+```openscad
+// relo_caja.scad
+
+include <../comun/caja.scad>
+include <../comun/versiones.scad>
+
+module relo_caja() {
+  caja(RELO_HP, RELO_TEXTO, RELO_VERSION);
+}
+```
+
+Mi propuesta es modelarlos con un espesor adecuado para ser cortados en CNC e incorporar posteriormente rieles o insertos compatibles con el estándar Eurorack.
+
+Agregar captura de bambulab**
+
+Agregar foto de el primer prototipo**
