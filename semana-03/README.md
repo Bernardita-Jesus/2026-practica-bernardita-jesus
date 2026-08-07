@@ -137,6 +137,8 @@ Para esta prueba se tardó 19 minutos en imprimir en la Bambu Lab y se utilizaro
 
 ![captura modelado](imagenes/captura-04.png)
 
+Agregar foto de el prototipo**
+
 #### Listado de elementos:
 
 ```openscad
@@ -298,6 +300,8 @@ Piruetas necesitaba ver avances concretos, por lo que tuve que modelar, o más b
 En la siguiente captura se muestra cómo, después de incorporar las nuevas medidas de todos los elementos y tomar como referencia el módulo desarrollado en VCV Rack, se obtiene esta primera propuesta del panel.
 
 ![captura modelado](imagenes/captura-05.png)
+
+Para esta prueba se tardó 18 minutos en imprimir en la Bambu Lab y se utilizaron 7 g de filamento PLA Basic de Bambu Lab.
 
 Agregar captura de bambulab**
 
