@@ -107,7 +107,7 @@ center = false
 
 Luego creé dos ejes, un eje izquierdo y un eje derecho, los cuales sirvieron como una grilla de referencia para posicionar los elementos según las referencias definidas anteriormente. De esta manera, fue posible mantener una distribución consistente y controlar la ubicación de cada perforación durante el modelado.
 
-```bash
+```openscad
 // columnas
 COLUMNA_IZQ = ANCHO * 0.30;
 COLUMNA_DER = ANCHO * 0.70;
@@ -119,7 +119,7 @@ COLUMNA_DER = ANCHO * 0.70;
 
 Listado de elementos:
 
-```bash
+```openscad
 // Panel centrado
 
 // todas las medidas son aprox
@@ -161,7 +161,7 @@ Ahora definí cuatro tipos de cilindros y corregí las medidas de los radios, de
 
 El cilindro mediano estaba construido para las perforaciones de las entradas Jack TS, pero es la misma medida que se requiere para las perforaciones del **botón de resincronización** y de la **perilla del desfase atenuversor**.
 
-```bash
+```openscad
 // cilindro pequeño leds
 module cilindroMini(x, y) {
 
@@ -217,7 +217,7 @@ center = false
 
 Agregué parámetros para crear los agujeros donde van los pernos del bote. Estos no están referenciados a las columnas derecha e izquierda.
 
-```bash
+```openscad
 ////////////////////
 // referencias de los pernos
 ////////////////////
