@@ -6,7 +6,13 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-03 | Lunes    | planificación, carcasa, Eurorack                     | LID       | 007 / 007               |
 | 2026-08-04 | Martes   | planificación, lectura tesis                         | LID       | 006 / 014               |
-| 2026-08-06 | Jueves   | git, OpenScad                                        | Casa      | 006 / 020               |
+| 2026-08-06 | Jueves   | git, OpenScad, impresión 3d                          | Casa      | 008 / 022               |
+
+## Desarrollo general
+
+esta semana fue de..
+
+[Canción Cajas y Paneles](https://open.spotify.com/track/2u25nSWGGJX8sIOAHxgFvD)
 
 ## Popusintesíntesis
 
@@ -46,15 +52,19 @@ Consulté algunas dudas de la tesis, como el cronograma a largo plazo, ya que el
 
 **Paneles:** Los paneles son la parte visible del módulo, es decir, la superficie con la que el usuario interactúa. Corresponden a la carcasa frontal que cubre la PCB y donde se montan las perillas, entradas y salidas, además de las perforaciones para tornillos y LED. Sus medidas están estandarizadas y seguirán el formato Eurorack (compatible con VCV Rack como referencia de diseño). El largo se mantiene fijo, mientras que el ancho puede variar en múltiplos de una medida estándar.
 
-Incluir medidas**
-
 **Bote:** El bote corresponde a la caja o estructura del módulo Eurorack tipo *skiff*, que sostiene los paneles. Es una caja con perforaciones que permiten fijar los paneles mediante tornillos. Estos botes pueden fabricarse en distintos materiales. Mi propuesta es modelarlos con un espesor adecuado para ser cortados en CNC e incorporar posteriormente rieles o insertos compatibles con el estándar Eurorack.
+
+En la siguiente fotografía se pueden ver las pruebas que imprimí la semana pasada. Las dos primeras piezas corresponden a los botes y las dos siguientes son los paneles.
+
+![foto cajas y paneles](imagenes/foto05.jpg)
+
+En la siguiente fotografía se puede ver la PCB de la primera versión de Relo, antes de ser diseñada en formato Eurorack.
+
+![foto PCB](imagenes/foto06.jpeg)
 
 ### Panel Eurorack Relo
 
 Como estuve revisando la semana pasada, con OpenSCAD voy a modelar el panel donde irán las perforaciones para las perillas, los tornillos y las entradas y salidas **jack TS**. La disposición será con todas las entradas en la parte superior y todas las salidas en la parte inferior. Además, la distribución de los elementos será asimétrica, con el fin de dar mayor distancia entre ellos y facilitar su reconocimiento según su ubicación.
-
-En OpenSCAD es necesario renderizar el modelo antes de generar el archivo **.STL**.
 
 Para este modelado me guié por el panel publicado en VCV Rack:
 
@@ -114,6 +124,16 @@ COLUMNA_DER = ANCHO * 0.70;
 ```
 
 ![captura modelado](imagenes/captura-03.png)
+
+#### Prueba de material
+
+Para ir entendiendo el flujo de trabajo, imprimí una prueba en PLA. Esto me ayudó a realizar el ejercicio de guardar el archivo de OpenSCAD y convertirlo en un archivo .STL.
+
+En OpenSCAD es necesario renderizar el modelo antes de generar el archivo .STL y hacerlo antes de guardarlo, para asegurar que la versión exportada esté actualizada.
+
+Con la impresión ya lista, me di cuenta de que el grosor para la prueba era demasiado, por lo que le reduje 1 mm. Para esta prueba no tenía las medidas reales de las tolerancias que iba a necesitar, pero sí me dio una mejor percepción de las dimensiones. Además, como OpenSCAD no tiene una unidad de medida definida, tenía la duda de cómo se exportaría el modelo.
+
+Para esta prueba se tardó 19 minutos en imprimir en la Bambu Lab y se utilizaron 8 g de filamento PLA Basic de Bambu Lab.
 
 ![captura modelado](imagenes/captura-04.png)
 
@@ -276,9 +296,4 @@ translate([PERNO_DERECHO, PERNO_INFERIOR, -1]) agujero_perno();
 Agregar captura de bambulab y incluir cotización**
 
 Agregar foto de el primer prototipo**
-
-
-
-
-
 
