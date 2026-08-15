@@ -8,10 +8,6 @@
 | 2026-08-04 | Martes   | planificación, lectura tesis                         | LID       | 006 / 014               |
 | 2026-08-06 | Jueves   | git, OpenScad, impresión 3d                          | Casa      | 008 / 022               |
 
-## Desarrollo general
-
-esta semana fue de..
-
 [Canción Cajas y Paneles](https://open.spotify.com/track/2u25nSWGGJX8sIOAHxgFvD)
 
 ## Popusintesíntesis
@@ -56,11 +52,11 @@ Consulté algunas dudas de la tesis, como el cronograma a largo plazo, ya que el
 
 En la siguiente fotografía se pueden ver las pruebas que imprimí la semana pasada. Las dos primeras piezas corresponden a los botes y las dos siguientes son los paneles.
 
-![foto cajas y paneles](imagenes/foto05.jpg)
+![foto cajas y paneles](imagenes/foto-05.jpg)
 
 En la siguiente fotografía se puede ver la PCB de la primera versión de Relo, antes de ser diseñada en formato Eurorack.
 
-![foto PCB](imagenes/foto06.jpeg)
+![foto PCB](imagenes/foto-06.jpeg)
 
 ### Panel Eurorack Relo
 
@@ -127,17 +123,15 @@ COLUMNA_DER = ANCHO * 0.70;
 
 #### Prueba de material
 
-Para ir entendiendo el flujo de trabajo, imprimí una prueba en PLA. Esto me ayudó a realizar el ejercicio de guardar el archivo de OpenSCAD y convertirlo en un archivo .STL.
+Para ir entendiendo el **flujo de trabajo** y de fabricación, imprimí una prueba en PLA. Esto me ayudó a realizar el ejercicio de **guardar el archivo de OpenSCAD y convertirlo en un archivo .STL**.
 
-En OpenSCAD es necesario renderizar el modelo antes de generar el archivo .STL y hacerlo antes de guardarlo, para asegurar que la versión exportada esté actualizada.
+En OpenSCAD es necesario **renderizar** el modelo antes de generar el archivo .STL y hacerlo antes de guardarlo, para asegurar que la versión exportada esté actualizada.
 
-Con la impresión ya lista, me di cuenta de que el grosor para la prueba era demasiado, por lo que le reduje 1 mm. Para esta prueba no tenía las medidas reales de las tolerancias que iba a necesitar, pero sí me dio una mejor percepción de las dimensiones. Además, como OpenSCAD no tiene una unidad de medida definida, tenía la duda de cómo se exportaría el modelo.
+Con la impresión ya lista, me di cuenta de que el grosor para la prueba era demasiado, por lo que le reduje 1 mm. Para esta prueba no tenía las medidas reales de las **tolerancias** que iba a necesitar, pero sí me dio una mejor percepción de las dimensiones. Además, como OpenSCAD no tiene una unidad de medida definida, tenía la duda de cómo se exportaría el modelo.
 
-Para esta prueba se tardó 19 minutos en imprimir en la Bambu Lab y se utilizaron 8 g de filamento PLA Basic de Bambu Lab.
+Para esta prueba se tardó **19 minutos** en imprimir en la Bambu Lab y se utilizaron **8 g de filamento PLA Basic de Bambu Lab**.
 
 ![captura modelado](imagenes/captura-04.png)
-
-Agregar foto de el prototipo**
 
 #### Listado de elementos:
 
@@ -237,7 +231,7 @@ center = false
 }
 ```
 
-Agregué parámetros para crear los agujeros donde van los pernos del bote. Estos no están referenciados a las columnas derecha e izquierda.
+Agregué **parámetros** para crear los agujeros donde van los pernos del bote. Estos no están referenciados a las columnas derecha e izquierda.
 
 ```openscad
 ////////////////////
@@ -295,23 +289,21 @@ translate([PERNO_DERECHO, PERNO_INFERIOR, -1]) agujero_perno();
 
 #### Primera propuesta de panel
 
-Piruetas necesitaba ver avances concretos, por lo que tuve que modelar, o más bien, programar la primera propuesta del panel.
+Piruetas necesitaba ver avances concretos, por lo que tuve que modelar, o más bien, **programar la primera propuesta del panel**.
 
 En la siguiente captura se muestra cómo, después de incorporar las nuevas medidas de todos los elementos y tomar como referencia el módulo desarrollado en VCV Rack, se obtiene esta primera propuesta del panel.
 
 ![captura modelado](imagenes/captura-05.png)
 
-Para esta prueba se tardó 18 minutos en imprimir en la Bambu Lab y se utilizaron 7 g de filamento PLA Basic de Bambu Lab.
+Para esta prueba "Relo 03" se tardó 18 minutos en imprimir en la Bambu Lab y se utilizaron 7 g de filamento PLA Basic de Bambu Lab.
 
-Agregar captura de bambulab**
-
-Agregar foto de el primer prototipo**
-
-Incluir cotización hecha con una tabla de cuanto costaria el g de filmento con mas de una opción**
+![foto prueba](imagenes/foto-07.jpeg)
 
 ### Bote
 
-Como mencioné, Bote es una caja o estructura para un módulo Eurorack tipo skiff; es la carcasa para los módulos Eurorack.
+Como mencioné, Bote es una caja o estructura para un módulo Eurorack tipo **skiff**; es la **caja para los módulos Eurorack**.
+
+Mi propuesta es modelarlos con un espesor adecuado para ser cortados en CNC e incorporar posteriormente rieles o insertos compatibles con el **estándar Eurorack**.
 
 El modelo base que tenemos fue modelado en OpenSCAD, pero tiene un montón de referencias o clases que, por el momento, no he aplicado a mis modelados.
 
@@ -328,8 +320,26 @@ module relo_caja() {
 }
 ```
 
-Mi propuesta es modelarlos con un espesor adecuado para ser cortados en CNC e incorporar posteriormente rieles o insertos compatibles con el estándar Eurorack.
+Finalmente, comprendí por qué ese archivo no compilaba; había abierto el archivo incorrecto. Desde mi copia local intenté abrir **relo_caja**, pensando que correspondía al modelo del bote, pero no era así. El modelo del **bote** se encontraba en otra carpeta, llamada **bote**.
 
-Agregar captura de bambulab**
+```openscad
+// bote_caja.scad
 
-Agregar foto de el primer prototipo**
+include <../comun/caja.scad>
+include <../comun/versiones.scad>
+
+module bote_caja(hp = 1) {
+  caja(hp, BOTE_TEXTO, BOTE_VERSION);
+}
+```
+
+La siguiente foto es una captura de OpenSCAD del modelo del bote. En este modelo se puede ver que está escrita la versión, lo que permite llevar un **control de versiones** y mantener un mejor registro físico.
+
+ Queremos llenar una caja con todas las iteraciones realizadas, de manera que podamos **visualizar el proceso de desarrollo** del proyecto.
+
+![captura modelado](imagenes/captura-06.png)
+
+En la siguiente captura se puede ver el **slicer de Bambu Studio**. Para esta prueba, el modelo tardaría **1 hora y 46 minutos** en imprimirse en la Bambu Lab y se utilizarían **92 g de filamento PLA Basic de Bambu Lab**.
+
+![captura Bambulab](imagenes/captura-07.png)
+
