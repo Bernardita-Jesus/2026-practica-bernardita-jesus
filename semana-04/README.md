@@ -24,6 +24,20 @@ Yo tengo que proponer nuestras **rules of thumb**.
 
 Wavetable Synthesis.
 
+### GitHub
+
+GitHub alberga una gran cantidad de repositorios y proyectos de software que conviven dentro de la plataforma. Muchas empresas, organizaciones y personas suben allí sus proyectos y colaboran en ellos.
+
+Yo cada vez he ido aprendiendo más sobre GitHub, no solo a utilizarlo, sino también a imaginar cómo funciona; entender el sistema de copias, escribir desde la terminal, subir archivos que se encuentran en más de una carpeta y luego agregarlos todos de una sola vez. Con la práctica, estas herramientas se han vuelto cada vez más **cómodas y amenas** de utilizar.
+
+Agradezco mucho haber aprendido a utilizar esta herramienta y poder seguir aprendiendo de ella. También he estado organizando mis métodos de registro, volviendo a darle valor como un medio para **captar y compartir mis aprendizajes**.
+
+Además de todo esto, [Mateo](https://github.com/matbutom) y [@Janis](https://github.com/janisepulveda) me mostraron que existe un **top de committers a nivel nacional**, que, en el fondo, registra la cantidad de cambios y aportaciones que realiza cada persona. Luego estuve leyendo que, para aparecer en este ranking, es necesario tener al menos 32 seguidores.
+
+Me quiero dar la tarea de reunirlos y eventualmente, **aparecer en el top de committers**.
+
+https://committers.top/chile
+
 ### VCV Rack
 
 Para poder visualizar los cambios y modificaciones de los sintetizadores que estoy utilizando como referencia para modelar los paneles, cloné el repositorio de **VCV Rack** desde GitHub.
@@ -74,7 +88,7 @@ git pull
 
 ### Actualización y compilación
 
-Cuando Aarón actualice el proyecto, debo incorporar los cambios y volver a realizar el proceso de compilación. Para ello, debo hacer nuevamente:
+Cuando [Aarón](https://github.com/montoyamoraga) actualice el proyecto, debo incorporar los cambios y volver a realizar el proceso de compilación. Para ello, debo hacer nuevamente:
 
 ```bash
 make dep
