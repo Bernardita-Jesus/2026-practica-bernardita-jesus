@@ -66,7 +66,7 @@ Estos tres comandos forman parte de la **trilogía fundamental para configurar, 
 
 - **make run**: corre VCV Rack.
 
-### Plugins
+#### Plugins
 
 Dentro de Rack se encuentran los **plugins**, que son los espacios donde se desarrollan los módulos que utilizaré. En este caso, trabajaré con los elementos de Rack de **Piruetas / Popusintes**.
 
@@ -86,7 +86,7 @@ git pull
 
 **git clone** permite descargar inicialmente un repositorio, mientras que **git pull** permite incorporar las actualizaciones agregadas posteriormente.
 
-### Actualización y compilación
+#### Actualización y compilación
 
 Cuando [Aarón](https://github.com/montoyamoraga) actualice el proyecto, debo incorporar los cambios y volver a realizar el proceso de compilación. Para ello, debo hacer nuevamente:
 
@@ -113,3 +113,4 @@ https://patshiu.com/
 Monologue Korg
 
 ### Lectura
+
