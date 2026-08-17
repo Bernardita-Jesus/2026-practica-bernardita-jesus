@@ -36,7 +36,7 @@ Además de todo esto, [Mateo](https://github.com/matbutom) y [@Janis](https://gi
 
 Me quiero dar la tarea de reunirlos y eventualmente, **aparecer en el top de committers**.
 
-https://committers.top/chile
+<https://committers.top/chile>
 
 ### VCV Rack
 
@@ -108,9 +108,8 @@ Arcade Fire
 
 Arp 2600
 
-https://patshiu.com/
+<https://patshiu.com/>
 
 Monologue Korg
 
 ### Lectura
-

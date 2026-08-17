@@ -133,7 +133,7 @@ Para esta prueba se tardó **19 minutos** en imprimir en la Bambu Lab y se utili
 
 ![captura modelado](imagenes/captura-04.png)
 
-#### Listado de elementos:
+#### Listado de elementos
 
 ```openscad
 // Panel centrado
@@ -293,11 +293,11 @@ Piruetas necesitaba ver avances concretos, por lo que tuve que modelar, o más b
 
 En la siguiente captura se muestra cómo, después de incorporar las nuevas medidas de todos los elementos y tomar como referencia el módulo desarrollado en VCV Rack, se obtiene esta primera propuesta del panel.
 
-![captura modelado](imagenes/captura-05.png)
+![captura modelado](./imagenes/captura-05.png)
 
 Para esta prueba "Relo 03" se tardó 18 minutos en imprimir en la Bambu Lab y se utilizaron 7 g de filamento PLA Basic de Bambu Lab.
 
-![foto prueba](imagenes/foto-07.jpeg)
+![foto prueba](./imagenes/foto-07.jpeg)
 
 ### Bote
 
@@ -337,9 +337,8 @@ La siguiente foto es una captura de OpenSCAD del modelo del bote. En este modelo
 
  Queremos llenar una caja con todas las iteraciones realizadas, de manera que podamos **visualizar el proceso de desarrollo** del proyecto.
 
-![captura modelado](imagenes/captura-06.png)
+![captura modelado](./imagenes/captura-06.png)
 
 En la siguiente captura se puede ver el **slicer de Bambu Studio**. Para esta prueba, el modelo tardaría **1 hora y 46 minutos** en imprimirse en la Bambu Lab y se utilizarían **92 g de filamento PLA Basic de Bambu Lab**.
 
-![captura Bambulab](imagenes/captura-07.png)
-
+![captura Bambulab](./imagenes/captura-07.png)

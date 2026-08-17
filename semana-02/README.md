@@ -14,7 +14,7 @@
 
 Primero hice un fork del repositorio de carcasas de los sintetizadores, el cual utilizaremos para trabajar con código en OpenSCAD.
 
-El repositorio en el que estamos trabajando es: https://github.com/piruetasxyz/popusintes-carcasas.
+El repositorio en el que estamos trabajando es: <https://github.com/piruetasxyz/popusintes-carcasas>.
 
 La verdad, aún me ha costado acostumbrarme a trabajar desde la terminal. He cometido algunos errores, como subir apuntes sin hacer antes un **git pull** para actualizar mi repositorio local con los cambios que estaban en la nube.
 
@@ -28,7 +28,7 @@ Sistema autocontenido.
 
 ### Diseño paramétrico con OpenScad
 
-Vamos a utilizar OpenSCAD para modelar desde un archivo de **script**. A diferencia de Rhino, en donde el modelado se realiza de forma directa y puedes interactuar con el modelo, en OpenSCAD el modelo se construye a partir de **código y parámetros editables**. Esto permite modificar las dimensiones y generar distintas versiones de una misma pieza sin tener que editarlas desde cero. 
+Vamos a utilizar OpenSCAD para modelar desde un archivo de **script**. A diferencia de Rhino, en donde el modelado se realiza de forma directa y puedes interactuar con el modelo, en OpenSCAD el modelo se construye a partir de **código y parámetros editables**. Esto permite modificar las dimensiones y generar distintas versiones de una misma pieza sin tener que editarlas desde cero.
 
 Además, OpenSCAD trabaja únicamente con **sólidos**, lo que permite generar modelos utilizables de forma tangible, a diferencia de otros programas en los que es posible modelar mallas sin volumen.
 
@@ -46,13 +46,13 @@ Estas perforaciones debemos construirlas como cilindros, cada uno con sus propia
 
 En OpenSCAD tenemos tres formas principales: **cubos, cilindros y esferas**. Estas son las básicas con las que se construyen la mayoría de las formas; sin embargo, también existen otras herramientas, como los poliedros y las extrusiones, que permiten generar geometrías más complejas.
 
-Con los cubos podemos crear trapecios modificando sus medidas. Con los cilindros es con lo que más podemos crear formas, ya que, si **modificamos la cantidad de caras**, más que la resolución de renderizado, como yo anteriormente lo había entendido, podemos obtener diferentes figuras. 
+Con los cubos podemos crear trapecios modificando sus medidas. Con los cilindros es con lo que más podemos crear formas, ya que, si **modificamos la cantidad de caras**, más que la resolución de renderizado, como yo anteriormente lo había entendido, podemos obtener diferentes figuras.
 
 Por ejemplo, se pueden seleccionar 3 caras para obtener un prisma triangular, 4 para un prisma cuadrado o aumentar la cantidad de caras para crear hexágonos y otras formas poligonales. Si uno de los radios del cilindro se reduce a 0, es posible obtener una pirámide o un cono, dependiendo de la cantidad de caras seleccionadas.
 
-Con el comando color, escribiendo el color específico que quieras, puedes asignar un color a cada pieza. Esto lo voy a utilizar para distinguir mejor cada componente antes de realizar extrusiones o uniones. Los nombres de los colores se pueden encontrar en https://htmlcolorcodes.com/es/nombres-de-los-colores/.
+Con el comando color, escribiendo el color específico que quieras, puedes asignar un color a cada pieza. Esto lo voy a utilizar para distinguir mejor cada componente antes de realizar extrusiones o uniones. Los nombres de los colores se pueden encontrar en <https://htmlcolorcodes.com/es/nombres-de-los-colores/>.
 
-![captura](imagenes/captura02.png)
+![captura](./imagenes/captura02.png)
 
 #### Valores de medidas
 
@@ -70,9 +70,9 @@ Me instalé VCV Rack para poder explorar el módulo de Relo. Este sintetizador c
 
 todas las entradas estan arriba, todas las salidas estan abajo.
 
-https://library.vcvrack.com/piruetas-popusintes/relo
+<https://library.vcvrack.com/piruetas-popusintes/relo>
 
-![captura](imagenes/captura01.png)
+![captura](./imagenes/captura01.png)
 
 ### Materialidad de la carcasa
 
@@ -82,12 +82,10 @@ Esta carcasa debe seguir una lógica de caja: debe poder abrirse, montarse y des
 
 Para los prototipos de esta carcasa, definitivamente vamos a utilizar impresión 3D, con el fin de imprimir pruebas de la misma PCB de **Relo**. Para esto utilizaré la impresora 3D **Bambu Lab**.
 
-![](imagenes/foto01.jpeg)
+![captura](./imagenes/foto01.jpeg)
 
 #### Pruebas materiales
 
 Como primera prueba de OpenSCAD y de la materialidad, imprimimos un diseño estándar de una PCB en formato Eurorack utilizando PLA en la impresora 3D Bambu Lab. Este primer testeo nos permitió visualizar un resultado físico del modelo, comprobar las uniones y evaluar posibles ajustes.
 
 ![captura](imagenes/foto05.jpg)
-
-
