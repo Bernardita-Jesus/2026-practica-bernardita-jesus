@@ -25,5 +25,11 @@ Además, como mencioné la semana pasada, quise agregar un control de versiones,
 
 agregar foto de las piezas donde se vea el numero de versión*
 
+![](./imagenes/foto-09.jpeg)
+
+![](./imagenes/foto-10.jpeg)
+
+![](./imagenes/foto-11.jpeg)
+
 ### Seudocódigo
 
