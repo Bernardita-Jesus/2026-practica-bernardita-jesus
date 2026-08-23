@@ -17,7 +17,7 @@ En la siguiente captura se puede ver el **slicer** de Bambu Lab, en donde prepar
 
 ![](./imagenes/captura-09.png)
 
-En la siguiente captura se puede ver el *slicer* de Bambu Lab, en donde preparé la pieza **Bote**, la cual tarda **1 hora y 46 minutos** en imprimirse en la Bambu Lab A1 y se utilizaron **92 g de filamento PLA Basic de Bambu Lab**.
+En la siguiente captura se puede ver el **slicer** de Bambu Lab, en donde preparé la pieza **Bote**, la cual tarda **1 hora y 46 minutos** en imprimirse en la Bambu Lab A1 y se utilizaron **92 g de filamento PLA Basic de Bambu Lab**.
 
 ![](./imagenes/captura-08.png)
 
@@ -30,6 +30,23 @@ agregar foto de las piezas donde se vea el numero de versión*
 ![](./imagenes/foto-10.jpeg)
 
 ![](./imagenes/foto-11.jpeg)
+
+## Salidas
+
+### Tránsitos perceptivos
+
+Performance audiovisual de escucha colectiva, por Martin Gubbins y Noctilucente.
+
+El martes 18 de agosto, fuimos junto a Aaron a una tocata en el Centro Cultural España, en el Salón Nube. Primero, yo no conocía este espacio; tenía varias obras expuestas, libros y diversas salas. Aquí es donde, en un futuro, residirá Biblioteca Cuir, para lo que Piruetas también está trabajando.
+
+#### Ritual
+
+Noctilucente presentó un video con sus sonidos de grabaciones junto a sintetizadores que controlaba con MIDI. Este video estaba proyectado y el salón estaba apagado. El video era una visualización del sonido, el cual conformaba, a lo largo del tema, un círculo construido por los datos de los sonidos. Las frecuencias dibujaban un círculo y esto te mantenía en constante observación.
+
+#### Post tenebras lux
+
+Martin Gubbins, junto a Noctilucente, presentó una performance donde su voz y sus poemas, narrados hacia un micrófono, eran intervenidos por diversos efectos de pedales. Era pura experimentación sonora, acompañada de Noctilucente, quien musicalizaba con sintetizadores y MIDI.
+
 
 ### Seudocódigo
 
