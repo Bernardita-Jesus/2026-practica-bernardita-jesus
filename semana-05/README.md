@@ -59,13 +59,26 @@ Cuando haces una práctica iterativa, debes estar dispuesto a aprender de ese ej
 
 Y tal vez no todos los ejercicios iterativos llegan a un proceso de curaduría final.
 
-### poesía
+### Simposio de Literatura Comparada
+
+El viernes 21 de agosto fui al último día del Simposio de Literatura Comparada, organizado por el Doctorado de Artes y Humanidades de IDEA USACH y el Magíster de Literatura Latinoamericana y Chilena de la USACH.
+
+¿Qué ocurre cuando ponemos en diálogo distintas obras, lenguajes, tradiciones y formas de creación?
+
+#### Poesía y performance
+
+El último acto de este simposio partió con cuatro artistas y poetas narrando obras en las que habían estado trabajando. ... Fue el primero y recuerdo que mencionó que estaba trabajando con poemas en **sextina**, que tenía que ver con volver sobre las mismas palabras (escribir nombres). Y por último, Felipe Cussen, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente el lenguaje se convirtió en una serie de sonidos difusos y latentes.
+
+
+
 
 Rescato de estos eventos, y de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican atención activa a escuchar poesía, propuestas o proyectos. Me parece un acto muy bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un enorme valor apoyar y celebrar el trabajo de los demás.
 
 Esta es una de las razones por las que pretendo dedicarme a la academia y por lo que, además, me parece muy bello un proyecto como con el que estoy apoyando a Aarón; hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas; porque de esos espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas.
 
 Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: leer, escribir, pensar, relacionar y crear, porque creemos que el conocimiento, la sensibilidad y la reflexión crítica que desde allí generamos es nuestro mayor aporte a la sociedad […]”.
+
+
 
 ### Seudocódigo
 
