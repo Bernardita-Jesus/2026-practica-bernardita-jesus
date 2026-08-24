@@ -23,8 +23,6 @@ En la siguiente captura se puede ver el **slicer** de Bambu Lab, en donde prepar
 
 Además, como mencioné la semana pasada, quise agregar un control de versiones, por lo que, en las pruebas de impresión en PLA, desde ahora siempre se imprimirá una extrusión de texto indicando la versión correspondiente.
 
-agregar foto de las piezas donde se vea el numero de versión*
-
 ![](./imagenes/foto-09.jpeg)
 
 ![](./imagenes/foto-10.jpeg)
@@ -89,6 +87,7 @@ Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: lee
 
 ### Seudocódigo Rerelo
 
+```openscad
 // Todas las medidas son aprox
 // columnas de izquiera a derecha
 
@@ -147,3 +146,4 @@ Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: lee
 // LED
 
 // entrada jack TS
+```
