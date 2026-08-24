@@ -100,6 +100,10 @@ De esta manera, puedo mantener mi entorno de desarrollo **actualizado y visualiz
 
 ## Referentes
 
+### Lectura arte y cosmotecnica
+
+comence hace unas semanas a leer arte y cosmotecnica,
+
 ### Arte sonoro
 
 Bjork, atmosfera fria
@@ -111,5 +115,3 @@ Arp 2600
 <https://patshiu.com/>
 
 Monologue Korg
-
-### Lectura
