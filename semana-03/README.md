@@ -138,7 +138,7 @@ Para esta prueba se tardó **19 minutos** en imprimir en la Bambu Lab y se utili
 ```openscad
 // Panel centrado
 
-// todas las medidas son aprox
+// Todas las medidas son aprox
 
 ////////////////////
 // columna izquierda
@@ -146,31 +146,31 @@ Para esta prueba se tardó **19 minutos** en imprimir en la Bambu Lab y se utili
 
 // perilla tempo
 
-// boton resincronizar
+// botón resincronizar
 
-// jack resincronizar
+// jack TS resincronizar
 
 //////////////////
 // columna derecha
 //////////////////
 
-// perilla desfase b
+// perilla desfase B
 
-// perilla desface atenuversor
+// perilla desfase atenuversor
 
-// jack desfase b
+// jack TS desfase B
 
 //////////////////
 // salidas
 //////////////////
 
-// luz a
+// luz A
 
-// jack a
+// jack TS A
 
-// luz b
+// luz B
 
-// jack b
+// jack TS B
 ```
 
 Ahora definí cuatro tipos de cilindros y corregí las medidas de los radios, de acuerdo con las tolerancias que se necesitan para cada perforación.
