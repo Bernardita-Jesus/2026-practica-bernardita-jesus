@@ -37,7 +37,7 @@ agregar foto de las piezas donde se vea el numero de versión*
 
 Performance audiovisual de escucha colectiva, por Martin Gubbins y Noctilucente.
 
-El martes 18 de agosto, fuimos junto a Aaron a una tocata en el Centro Cultural España, en el Salón Nube. Primero, yo no conocía este espacio; tenía varias obras expuestas, libros y diversas salas. Aquí es donde, en un futuro, residirá Biblioteca Cuir, para lo que Piruetas también está trabajando.
+El martes 18 de agosto, fuimos junto a Aarón a una tocata en el Centro Cultural España, en el Salón Nube. Primero, yo no conocía este espacio; tenía varias obras expuestas, libros y diversas salas. Aquí es donde, en un futuro, residirá Biblioteca Cuir, para lo que Piruetas también está trabajando.
 
 #### Ritual
 
@@ -47,6 +47,25 @@ Noctilucente presentó un video con sus sonidos de grabaciones junto a sintetiza
 
 Martin Gubbins, junto a Noctilucente, presentó una performance donde su voz y sus poemas, narrados hacia un micrófono, eran intervenidos por diversos efectos de pedales. Era pura experimentación sonora, acompañada de Noctilucente, quien musicalizaba con sintetizadores y MIDI.
 
+Al finalizar el evento, pude acercarme a preguntarle al artista que hizo las visualizaciones con qué las había realizado. Tenía la sospecha de que las había hecho con TouchDesigner, y así era. Me dijo que era un desarrollo simple; no profundizó en cómo vinculaba los datos de las pistas desde Ableton a TouchDesigner, pero me ayudó a ver opciones y el espectro de posibilidades que existe para visualizar sonido.
+
+Me acerqué a Noctilucente y pude ver que utilizaba un Korg Minilogue y un controlador MIDI desde Ableton. Creo que debería atreverme a utilizar MIDI; esto me motivó.
+
+### Lanzamiento del libro: La academia como creación
+
+El jueves 20 de agosto, junto a Aarón, fuimos al lanzamiento del libro **La academia como creación**. Fue de hecho, también en el Centro Cultural España. El libro era una reflexión sobre la práctica creativa en la enseñanza, de la cual anoté:
+
+Cuando haces una práctica iterativa, debes estar dispuesto a aprender de ese ejercicio en la repetición. No esperas un resultado; la iteración le da el valor, la iteración es la materialización.
+
+Y tal vez no todos los ejercicios iterativos llegan a un proceso de curaduría final.
+
+### poesía
+
+Rescato de estos eventos, y de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican atención activa a escuchar poesía, propuestas o proyectos. Me parece un acto muy bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un enorme valor apoyar y celebrar el trabajo de los demás.
+
+Esta es una de las razones por las que pretendo dedicarme a la academia y por lo que, además, me parece muy bello un proyecto como con el que estoy apoyando a Aarón; hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas; porque de esos espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas.
+
+Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: leer, escribir, pensar, relacionar y crear, porque creemos que el conocimiento, la sensibilidad y la reflexión crítica que desde allí generamos es nuestro mayor aporte a la sociedad […]”.
 
 ### Seudocódigo
 
