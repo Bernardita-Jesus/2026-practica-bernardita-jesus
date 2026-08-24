@@ -87,5 +87,63 @@ Esta es una de las razones por las que pretendo dedicarme a la academia y por lo
 
 Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: leer, escribir, pensar, relacionar y crear, porque creemos que el conocimiento, la sensibilidad y la reflexión crítica que desde allí generamos es nuestro mayor aporte a la sociedad […]”.
 
-### Seudocódigo
+### Seudocódigo Rerelo
 
+// Todas las medidas son aprox
+// columnas de izquiera a derecha
+
+////////////////////
+// primera columna
+////////////////////
+
+// perilla grande
+
+// botón pequeño
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
+
+//////////////////
+// segunda columna
+//////////////////
+
+// perilla mediana
+
+// perilla pequeña
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
+
+//////////////////
+// tercera columna
+//////////////////
+
+// perilla mediana
+
+// perilla pequeña
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
+
+//////////////////
+// cuarta columna
+//////////////////
+
+// perilla mediana
+
+// perilla pequeña
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
