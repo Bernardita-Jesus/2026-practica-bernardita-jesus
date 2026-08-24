@@ -51,6 +51,8 @@ Al finalizar el evento, pude acercarme a preguntarle al artista que hizo las vis
 
 Me acerqué a Noctilucente y pude ver que utilizaba un Korg Minilogue y un controlador MIDI desde Ableton. Creo que debería atreverme a utilizar MIDI; esto me motivó.
 
+### Reunión magister
+
 ### Lanzamiento del libro: La academia como creación
 
 El jueves 20 de agosto, junto a Aarón, fuimos al lanzamiento del libro **La academia como creación**. Fue de hecho, también en el Centro Cultural España. El libro era una reflexión sobre la práctica creativa en la enseñanza, de la cual anoté:
@@ -69,7 +71,7 @@ El viernes 21 de agosto fui al último día del Simposio de Literatura Comparada
 
 El último acto de este simposio partió con cuatro artistas y poetas narrando obras en las que habían estado trabajando. ... Fue el primero y recuerdo que mencionó que estaba trabajando con poemas en **sextina**, que tenía que ver con volver sobre las mismas palabras. Además, nos hizo participar de su narración, pidiéndonos que fuéramos repitiendo sus palabras o percutiendo otras. 
 
-Luego, ... leyó una serie de poemas. Conecté mucho con lo que expresaba, me gustó que utilizara lenguaje de texturas para profundizar en sus ideas. 
+Luego, ... leyó una serie de poemas. Conecté mucho con lo que expresaba, me gustó que utilizara lenguaje de texturas para profundizar y describir sus ideas. 
 
 Y por último, Felipe Cussen, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente el lenguaje se convirtió en una serie de sonidos difusos y latentes.
 
@@ -84,8 +86,6 @@ Rescato de estos eventos, que por cierto, muchas gracias Aarón por la invitaci�
 Esta es una de las razones por las que pretendo dedicarme a la academia y por lo que, además, me parece muy bello un proyecto como con el que estoy apoyando a Aarón; hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas; porque de esos espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas.
 
 Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: leer, escribir, pensar, relacionar y crear, porque creemos que el conocimiento, la sensibilidad y la reflexión crítica que desde allí generamos es nuestro mayor aporte a la sociedad […]”.
-
-
 
 ### Seudocódigo
 
