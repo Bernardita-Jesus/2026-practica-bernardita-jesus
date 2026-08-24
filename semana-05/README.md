@@ -87,6 +87,8 @@ Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: lee
 
 ### Seudocódigo Rerelo
 
+![captura](./imagenes/captura-13.png)
+
 ```openscad
 // Todas las medidas son aprox
 // columnas de izquiera a derecha
