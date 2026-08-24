@@ -67,10 +67,17 @@ El viernes 21 de agosto fui al último día del Simposio de Literatura Comparada
 
 #### Poesía y performance
 
-El último acto de este simposio partió con cuatro artistas y poetas narrando obras en las que habían estado trabajando. ... Fue el primero y recuerdo que mencionó que estaba trabajando con poemas en **sextina**, que tenía que ver con volver sobre las mismas palabras (escribir nombres). Y por último, Felipe Cussen, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente el lenguaje se convirtió en una serie de sonidos difusos y latentes.
+El último acto de este simposio partió con cuatro artistas y poetas narrando obras en las que habían estado trabajando. ... Fue el primero y recuerdo que mencionó que estaba trabajando con poemas en **sextina**, que tenía que ver con volver sobre las mismas palabras. Además, nos hizo participar de su narración, pidiéndonos que fuéramos repitiendo sus palabras o percutiendo otras. 
 
+Luego, ... leyó una serie de poemas. Conecté mucho con lo que expresaba, me gustó que utilizara lenguaje de texturas para profundizar en sus ideas. 
 
+Y por último, Felipe Cussen, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente el lenguaje se convirtió en una serie de sonidos difusos y latentes.
 
+#### Ensamble místico
+
+Para cerrar este simposio, se presentó Ensamble Místico, compuesto por Noctilucente, Tarix, María José Parga y Aarón.
+
+Esta performance era una combinación de diferentes manifestaciones sonoras. En un principio sonaba un piezo por Aarón, acompañado de sonidos grabados en un Volca Korg por Tarix y el Minilogue Korg modulado por Noctilucente. De repente, María José Parga comenzó a leer un poema y su voz se dispersaba. Me impresionó su interpretación, tiene una voz muy bella y potente, y no me esperaba que utilizara un megáfono. Eso estuvo fascinante el conjunto de sonidos.
 
 Rescato de estos eventos, y de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican atención activa a escuchar poesía, propuestas o proyectos. Me parece un acto muy bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un enorme valor apoyar y celebrar el trabajo de los demás.
 
