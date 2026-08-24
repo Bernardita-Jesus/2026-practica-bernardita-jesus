@@ -51,6 +51,8 @@ Al finalizar el evento, pude acercarme a preguntarle al artista que hizo las vis
 
 Me acerqué a Noctilucente y pude ver que utilizaba un Korg Minilogue y un controlador MIDI desde Ableton. Creo que debería atreverme a utilizar MIDI; esto me motivó.
 
+### Reunión magister
+
 ### Lanzamiento del libro: La academia como creación
 
 El jueves 20 de agosto, junto a Aarón, fuimos al lanzamiento del libro **La academia como creación**. Fue de hecho, también en el Centro Cultural España. El libro era una reflexión sobre la práctica creativa en la enseñanza, de la cual anoté:
@@ -59,9 +61,27 @@ Cuando haces una práctica iterativa, debes estar dispuesto a aprender de ese ej
 
 Y tal vez no todos los ejercicios iterativos llegan a un proceso de curaduría final.
 
-### poesía
+### Simposio de Literatura Comparada
 
-Rescato de estos eventos, y de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican atención activa a escuchar poesía, propuestas o proyectos. Me parece un acto muy bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un enorme valor apoyar y celebrar el trabajo de los demás.
+El viernes 21 de agosto fui al último día del Simposio de Literatura Comparada, organizado por el Doctorado de Artes y Humanidades de IDEA USACH y el Magíster de Literatura Latinoamericana y Chilena de la USACH.
+
+¿Qué ocurre cuando ponemos en diálogo distintas obras, lenguajes, tradiciones y formas de creación?
+
+#### Poesía y performance
+
+El último acto de este simposio partió con cuatro artistas y poetas narrando obras en las que habían estado trabajando. ... Fue el primero y recuerdo que mencionó que estaba trabajando con poemas en **sextina**, que tenía que ver con volver sobre las mismas palabras. Además, nos hizo participar de su narración, pidiéndonos que fuéramos repitiendo sus palabras o percutiendo otras. 
+
+Luego, ... leyó una serie de poemas. Conecté mucho con lo que expresaba, me gustó que utilizara lenguaje de texturas para profundizar y describir sus ideas. 
+
+Y por último, Felipe Cussen, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente el lenguaje se convirtió en una serie de sonidos difusos y latentes.
+
+#### Ensamble místico
+
+Para cerrar este simposio, se presentó Ensamble Místico, compuesto por Noctilucente, Tarix, María José Parga y Aarón.
+
+Esta performance era una combinación de diferentes manifestaciones sonoras. En un principio sonaba un piezo por Aarón, acompañado de sonidos grabados en un Volca Korg por Tarix y el Minilogue Korg modulado por Noctilucente. De repente, María José Parga comenzó a leer un poema y su voz se dispersaba. Me impresionó su interpretación, tiene una voz muy bella y potente, y no me esperaba que utilizara un megáfono. Eso estuvo fascinante el conjunto de sonidos.
+
+Rescato de estos eventos, que por cierto, muchas gracias Aarón por la invitación; de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican atención activa a escuchar poesía, propuestas o proyectos. Me parece un acto muy bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un enorme valor apoyar y celebrar el trabajo de los demás.
 
 Esta es una de las razones por las que pretendo dedicarme a la academia y por lo que, además, me parece muy bello un proyecto como con el que estoy apoyando a Aarón; hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas; porque de esos espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas.
 
