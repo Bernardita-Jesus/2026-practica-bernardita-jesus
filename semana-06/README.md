@@ -51,5 +51,19 @@ berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins
 $ cd ..
 
 berni@Dita MINGW64 /c/Users/berni/github/Rack
-$ make run
-./Rack.exe -d
+$ 
+
+### Módulos VCV Rack
+
+Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aaron corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
+
+Esto me dio la oportunidad de aprender a actualizar los cambios y hacer git pull.
+
+### SemVer
+
+Versionamiento semántico.
+
+El último número de versión corresponde a correcciones de errores, el siguiente a mejoras y el primero a un cambio radical.
+
+VCV Library, en donde se van subiendo los archivos de todas las personas a Issues.
+
