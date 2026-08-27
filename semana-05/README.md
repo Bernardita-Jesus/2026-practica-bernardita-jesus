@@ -53,7 +53,7 @@ Este video estaba proyectado y el salón estaba apagado. El video era una **visu
 
 **Martin Gubbins**, junto a **Noctilucente**, presentó una performance donde su **voz y sus poemas**, narrados hacia un micrófono, eran intervenidos por diversos **efectos de pedales**. Era pura experimentación sonora, acompañada de Noctilucente, quien musicalizaba con sintetizadores y MIDI.
 
-agregar foto*
+![foto](imagenes//foto-12.jpeg)
 
 Al finalizar el evento, pude acercarme a preguntarle al artista que hizo las visualizaciones con qué las había realizado. Tenía la sospecha de que las había hecho con **TouchDesigner**, y así era. Me dijo que era un desarrollo simple; no profundizó en cómo vinculaba los datos de las pistas desde Ableton a TouchDesigner, pero me ayudó a ver opciones y el espectro de posibilidades que existe para visualizar sonido.
 
@@ -65,6 +65,8 @@ El jueves 20 de agosto tuve una reunión con **Miguel Farías** para conversar s
 
 Fue muy gratificante conocer opciones para seguir estudiando, lo que me dará la posibilidad de **investigar y profundizar en síntesis y fabricación en Chile**.
 
+![foto](imagenes//foto-13.jpeg)
+
 ### Lanzamiento del libro: La academia como creación
 
 El jueves 20 de agosto, en la tarde, junto a Aarón, fuimos al **lanzamiento del libro La academia como creación**. Fue de hecho, también en el **Centro Cultural España**. El libro era una reflexión sobre la práctica creativa en la enseñanza, de la cual anoté:
@@ -73,7 +75,7 @@ Cuando haces una práctica iterativa, debes estar dispuesto a aprender de ese **
 
 **Y tal vez no todos los ejercicios iterativos llegan a un proceso de curaduría final.**
 
-agregar foto**
+![foto](imagenes//foto-14.jpeg)
 
 ### Simposio de Literatura Comparada
 
@@ -89,11 +91,15 @@ Luego, ... leyó una serie de poemas. Conecté mucho con lo que expresaba, me gu
 
 Y por último, Felipe Cussen, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente **el lenguaje se convirtió en una serie de sonidos difusos y latentes**.
 
+![foto](imagenes//foto-16.jpeg)
+
 #### Ensamble místico
 
 Para cerrar este simposio, se presentó Ensamble Místico, compuesto por **Noctilucente, Tarix, María José Parga y Aarón**.
 
 Esta performance era una combinación de **diferentes manifestaciones sonoras**. En un principio sonaba un **piezo** por Aarón, acompañado de **sonidos grabados en un Volca Korg** por Tarix y el **Minilogue Korg modulado** por Noctilucente. De repente, María José Parga comenzó a **leer un poema** y su voz se dispersaba. Me impresionó su interpretación, tiene una voz muy bella y potente, y no me esperaba que utilizara un **megáfono**. Estuvo fascinante el conjunto de sonidos.
+
+![foto](imagenes//foto-15.jpeg)
 
 Rescato de estos eventos, que por cierto, muchas gracias Aarón por la invitación; de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican **atención activa a escuchar poesía**, propuestas o proyectos. Me parece un acto bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un **enorme valor apoyar y celebrar el trabajo de los demás**.
 
