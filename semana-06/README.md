@@ -76,9 +76,7 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ### Clase ...
 
-magister artes mediales universidad de chile
-
-Profesor **Christian Oyarzún**
+El día jueves 27 de agosto, fui a una clase del magister artes mediales universidad de chile, impartida por el profesor **Christian Oyarzún**
 
 #### Gráficas algorítmicas
 
@@ -86,7 +84,32 @@ Sofwave, para hacer visuales e imágenes basadas en algoritmos y geometría anal
 
 Es como el diseño paramétrico, reglas y fórmulas matemáticas donde las formas cambian de manera automática al modificar variables o datos numéricos.
 
-#### referentes de Gráficas algorítmicas
+´´´text
+function setup() {
+  createCanvas(420, 420);colorMode(HSB);
+}
+function draw() {
+  background("#ffaa00");
+  for(let i=0;i<500;i++){
+    let x = random(width);
+    let y = random(height);
+    let s = random(2,20);
+    
+    
+    push();
+    translate(x,y);ellipse(0,0,s,s);
+    pop();
+  }
+  noLoop();
+}
+
+´´´
+
+#### Condicion IF
+
+boolean, dos operadores, dos estados
+
+#### Referentes de Gráficas algorítmicas
 
 Mark Wilson
 
