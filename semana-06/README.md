@@ -1,5 +1,7 @@
 # Semana-06
 
+´´´test
+
 berni@Dita MINGW64 /c/Users/berni/github
 $ cd /c/Users/berni/github/
 
@@ -52,6 +54,7 @@ $ cd ..
 
 berni@Dita MINGW64 /c/Users/berni/github/Rack
 $ 
+´´´
 
 ### Módulos VCV Rack
 
@@ -66,4 +69,36 @@ Versionamiento semántico.
 El último número de versión corresponde a correcciones de errores, el siguiente a mejoras y el primero a un cambio radical.
 
 VCV Library, en donde se van subiendo los archivos de todas las personas a Issues.
+
+## paneles
+
+## salidas
+
+### Clase ...
+
+magister artes mediales universidad de chile
+
+Profesor **Christian Oyarzún**
+
+#### Gráficas algorítmicas
+
+Sofwave, para hacer visuales e imágenes basadas en algoritmos y geometría analítica.
+
+Es como el diseño paramétrico, reglas y fórmulas matemáticas donde las formas cambian de manera automática al modificar variables o datos numéricos.
+
+#### referentes de Gráficas algorítmicas
+
+Mark Wilson
+
+Vera Molnár
+
+Jean-Pierre Hébert
+
+Roman Verostko
+
+
+
+
+
+
 

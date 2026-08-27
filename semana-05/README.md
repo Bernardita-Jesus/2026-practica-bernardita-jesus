@@ -3,7 +3,10 @@
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-17 | Lunes    | planificación, OpenScad                              | LID       | 006 / 006               |
-| 2026-08-18 | Martes   |                                                      | Casa      | 000 / 000               |
+| 2026-08-18 | Martes   | Seudocódigo, salida                                  | Casa      | 005 / 011               |
+| 2026-08-19 | Miercoles | salida                                              | Casa      | 003 / 014               |
+| 2026-08-20 | Jueves   | salida                                               | Casa      | 003 / 017               |
+| 2026-08-21 | Viernes  | salida, GitHub, edición                              | Casa      | 005 / 022               |
 
 ## Modelado de paneles y cajas
 
@@ -89,7 +92,7 @@ El último acto de este simposio partió con cuatro artistas y poetas narrando o
 
 Luego, ... leyó una serie de poemas. Conecté mucho con lo que expresaba, me gustó que utilizara **lenguaje de texturas** para profundizar y describir sus ideas. 
 
-Y por último, Felipe Cussen, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente **el lenguaje se convirtió en una serie de sonidos difusos y latentes**.
+Y por último, **Felipe Cussen**, quien me sorprendió con su propuesta, sobre todo porque comenzó hablando y rápidamente **el lenguaje se convirtió en una serie de sonidos difusos y latentes**.
 
 ![foto](imagenes//foto-16.jpeg)
 
