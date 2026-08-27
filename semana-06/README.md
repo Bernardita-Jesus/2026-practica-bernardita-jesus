@@ -119,6 +119,24 @@ Jean-Pierre Hébert
 
 Roman Verostko
 
+#### Operadores lógicos
+
+Con estos operadores podemos dar instrucciones. Estos tres operadores tienen sus propios símbolos en JavaScript:
+
+- **AND: &&**
+- **OR: ||**
+- **NOT: !**
+
+Tenemos funciones de base en el código. Aquí podemos usar **translate**, trasladar y darle una ubicación. También podemos ubicar radios, ángulos, **s**, **h** y darles valores random.
+
+Podemos rotar, trasladar, hacer **push** y **pop**. También se le puede agregar **millis**.
+
+**Constrain:** restricciones.
+
+**NAND:** lo contrario de AND.
+
+**NOR:** lo contrario de OR. Si ambas no están, no existe en este lenguaje.
+
 
 
 
