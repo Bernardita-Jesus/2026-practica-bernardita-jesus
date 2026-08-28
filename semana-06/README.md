@@ -1,6 +1,6 @@
 # Semana-06
 
-´´´test
+```text
 
 berni@Dita MINGW64 /c/Users/berni/github
 $ cd /c/Users/berni/github/
@@ -54,7 +54,7 @@ $ cd ..
 
 berni@Dita MINGW64 /c/Users/berni/github/Rack
 $ 
-´´´
+```
 
 ### Módulos VCV Rack
 
@@ -72,6 +72,10 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ## paneles
 
+añadir fotos de los paneles*
+
+### propuestas de mejora
+
 ## salidas
 
 ### Clase ...
@@ -84,7 +88,7 @@ Sofwave, para hacer visuales e imágenes basadas en algoritmos y geometría anal
 
 Es como el diseño paramétrico, reglas y fórmulas matemáticas donde las formas cambian de manera automática al modificar variables o datos numéricos.
 
-´´´text
+```javascript
 function setup() {
   createCanvas(420, 420);colorMode(HSB);
 }
@@ -102,8 +106,7 @@ function draw() {
   }
   noLoop();
 }
-
-´´´
+```
 
 #### Condicion IF
 
@@ -137,8 +140,33 @@ Podemos rotar, trasladar, hacer **push** y **pop**. También se le puede agregar
 
 **NOR:** lo contrario de OR. Si ambas no están, no existe en este lenguaje.
 
+aliasing, anti aliasing, moiré
 
+```javascript
+function setup() {
+  createCanvas(620, 420);colorMode(HSB);
+}
+function draw() {
+  background("#ffaa00");
+  for(let i=0; i<=width; i+=8){
+    line(i,0,mouseX,mouseY);
+    line(mouseX,mouseY,i,height);
+    line(0,i,mouseX,mouseY);
+    line(mouseX,mouseY,width,i);
+    noFill();
+    ellipse(mouseX,mouseY,2*i,2*i)
+  }  //noLoop();
+}
+function mousePressed(){
+  draw();
+}
+```
 
+![](imagenes/captura-16.png)
+
+#### map
+
+escala los valores para correlacionar cosas, referenciar de otros valores
 
 
 
