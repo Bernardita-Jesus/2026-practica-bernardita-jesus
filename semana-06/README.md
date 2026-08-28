@@ -168,6 +168,10 @@ function mousePressed(){
 
 escala los valores para correlacionar cosas, referenciar de otros valores
 
+logica de consyruccion de una grilla con dos funciones sinusoidales
+
+vasarely referente artistico.
+
 
 
 
