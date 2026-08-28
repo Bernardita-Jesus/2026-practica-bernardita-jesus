@@ -1,6 +1,6 @@
 # Semana-06
 
-´´´test
+```text
 
 berni@Dita MINGW64 /c/Users/berni/github
 $ cd /c/Users/berni/github/
@@ -54,7 +54,7 @@ $ cd ..
 
 berni@Dita MINGW64 /c/Users/berni/github/Rack
 $ 
-´´´
+```
 
 ### Módulos VCV Rack
 
@@ -72,13 +72,15 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ## paneles
 
+añadir fotos de los paneles*
+
+### propuestas de mejora
+
 ## salidas
 
 ### Clase ...
 
-magister artes mediales universidad de chile
-
-Profesor **Christian Oyarzún**
+El día jueves 27 de agosto, fui a una clase del magister artes mediales universidad de chile, impartida por el profesor **Christian Oyarzún**
 
 #### Gráficas algorítmicas
 
@@ -86,7 +88,31 @@ Sofwave, para hacer visuales e imágenes basadas en algoritmos y geometría anal
 
 Es como el diseño paramétrico, reglas y fórmulas matemáticas donde las formas cambian de manera automática al modificar variables o datos numéricos.
 
-#### referentes de Gráficas algorítmicas
+```javascript
+function setup() {
+  createCanvas(420, 420);colorMode(HSB);
+}
+function draw() {
+  background("#ffaa00");
+  for(let i=0;i<500;i++){
+    let x = random(width);
+    let y = random(height);
+    let s = random(2,20);
+    
+    
+    push();
+    translate(x,y);ellipse(0,0,s,s);
+    pop();
+  }
+  noLoop();
+}
+```
+
+#### Condicion IF
+
+boolean, dos operadores, dos estados
+
+#### Referentes de Gráficas algorítmicas
 
 Mark Wilson
 
@@ -96,8 +122,55 @@ Jean-Pierre Hébert
 
 Roman Verostko
 
+#### Operadores lógicos
 
+Con estos operadores podemos dar instrucciones. Estos tres operadores tienen sus propios símbolos en JavaScript:
 
+- **AND: &&**
+- **OR: ||**
+- **NOT: !**
+
+Tenemos funciones de base en el código. Aquí podemos usar **translate**, trasladar y darle una ubicación. También podemos ubicar radios, ángulos, **s**, **h** y darles valores random.
+
+Podemos rotar, trasladar, hacer **push** y **pop**. También se le puede agregar **millis**.
+
+**Constrain:** restricciones.
+
+**NAND:** lo contrario de AND.
+
+**NOR:** lo contrario de OR. Si ambas no están, no existe en este lenguaje.
+
+aliasing, anti aliasing, moiré
+
+```javascript
+function setup() {
+  createCanvas(620, 420);colorMode(HSB);
+}
+function draw() {
+  background("#ffaa00");
+  for(let i=0; i<=width; i+=8){
+    line(i,0,mouseX,mouseY);
+    line(mouseX,mouseY,i,height);
+    line(0,i,mouseX,mouseY);
+    line(mouseX,mouseY,width,i);
+    noFill();
+    ellipse(mouseX,mouseY,2*i,2*i)
+  }  //noLoop();
+}
+function mousePressed(){
+  draw();
+}
+```
+
+![](imagenes/captura-16.png)
+
+#### map
+
+escala los valores para correlacionar cosas, referenciar de otros valores
+
+logica de consyruccion de una grilla con dos funciones sinusoidales
+
+vasarely referente artistico.
 
 
 
