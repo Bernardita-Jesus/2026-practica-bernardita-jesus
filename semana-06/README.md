@@ -77,7 +77,7 @@ Esto fue lo que me dio la oportunidad de aprender a actualizar los cambios y hac
 
 En la siguiente captura se pueden ver los **módulos de la copia local remota en VCV Rack**. Aquí se puede percibir el error en el tamaño de los LED y algunas dimensiones de las gráficas que estamos dilucidando si mejorar, como el rectángulo rosa de Recta, que comienza un poco más arriba.
 
-![captura](imagenes/captura-15.png)
+![captura](./imagenes/captura-15.png)
 
 Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó Aaron y corrigió en el código.
 
@@ -97,7 +97,9 @@ A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los c
 
 Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
 
-Añadir foto/captura de Bambu Lab*
+![captura](./imagenes/captura-17.png)
+
+![captura](./imagenes/captura-18.png)
 
 Estas corresponden a la versión v0.0.4. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un sistema versionado en conjunto. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
 
@@ -133,9 +135,9 @@ También trabajamos con la condición **IF** y con valores **booleanos**, que pe
 
 Los operadores lógicos permiten establecer instrucciones y relaciones dentro del código. En JavaScript, los principales son:
 
-* **AND:** &&
-* **OR:** ||
-* **NOT:** !
+- **AND:** &&
+- **OR:** ||
+- **NOT:** !
 
 También vimos otros conceptos relacionados, como **NAND** y **NOR**, que corresponden a operaciones derivadas de AND y OR.
 
@@ -155,7 +157,7 @@ La función **map** permite escalar valores y establecer una relación entre dis
 
 También vimos la lógica de construcción de una grilla a partir de dos funciones sinusoidales, donde las relaciones matemáticas permiten generar y modificar las formas de manera sistemática.
 
-![captura](imagenes/captura-16.pngpng)
+![captura](./imagenes/captura-16.png)
 
 #### Referentes de gráficas algorítmicas
 
