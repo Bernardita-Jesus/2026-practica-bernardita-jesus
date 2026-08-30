@@ -153,11 +153,11 @@ El lunes 24 de agosto, en el **Centro Cultural de España**, fue el lanzamiento 
 
 El evento estuvo muy bello. La **recopilación de registros** de su trabajo se sentía viva y llena de sensibilidad; se notaba que estaba hecha con mucho cariño. Creo que es una **linda manera de resistir**.
 
+![foto](./imagenes/foto-19.jpeg)
+
 Además, el ambiente estuvo increíble, todos estaban muy felices y orgullosos por los lanzamientos.
 
 A esto se suma la web, cuya propuesta me fascinó. La manera en que estaban dispuestas las publicaciones hacía que fuera **fácil de navegar** y, al mismo tiempo, **muy divertida de recorrer**.
-
-agreagr fotos*
 
 agregar link de la web*
 
