@@ -1,5 +1,13 @@
 # Semana-06
 
+| Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
+| :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
+| 2026-08-17 | Lunes    | planificación, VCV Rack, Prueba de sonido, Lanzamiento web | LID, USACH, Centro Cultural España | 008 / 008               |
+| 2026-08-18 | Martes   | Charla, Popusintetizando                             | USACH      | 005 / 011               |
+| 2026-08-19 | Miércoles | salida                                              | Casa      | 003 / 014               |
+| 2026-08-20 | Jueves   | salida                                               | Casa      | 003 / 017               |
+| 2026-08-21 | Viernes  | salida, GitHub, edición                              | Casa      | 005 / 022               |
+
 ## VCV Rack
 
 ### Copia local
@@ -101,7 +109,7 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ## Paneles
 
-A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los códigos, estableciendo referencias generales. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
+A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los códigos, **estableciendo referencias generales**. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
 
 Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
 
@@ -109,7 +117,7 @@ Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas 
 
 ![captura](./imagenes/captura-18.png)
 
-Estas corresponden a la versión v0.0.4. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un sistema versionado en conjunto. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
+Estas corresponden a la versión **v0.0.4**. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un **sistema versionado en conjunto**. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
 
 Añadir fotos de los paneles impresos en 3D*
 
@@ -117,9 +125,9 @@ Añadir fotos de los paneles impresos en 3D*
 
 Principales cambios:
 
-Los cilindros más grandes sobrepasan los bordes del rectángulo. Algunas opciones para solucionar esto serían aumentar la distancia entre los elementos y reducir los márgenes y las columnas, agrandar los rectángulos para darles más margen o buscar otras opciones de perillas.
+Los cilindros más grandes **sobrepasan los bordes del rectángulo**. Algunas opciones para solucionar esto serían **aumentar la distancia** entre los elementos y reducir los márgenes y las columnas, agrandar los rectángulos para **darles más margen** o buscar **otras opciones de perillas**.
 
-No he probado esa perilla en particular, pero, ya que nos vamos encontrando con estos conflictos, creo que la próxima semana debería enfocarme en probar estos elementos para buscar soluciones desde lo concreto.
+No he probado esa perilla en particular, pero, ya que nos vamos encontrando con estos conflictos, creo que la próxima semana debería **enfocarme en probar estos elementos para buscar soluciones desde lo concreto**.
 
 Las perforaciones con las que se apernan los paneles a las cajas y botes deberían tener un poco más de tolerancia. Probaría con una tolerancia de 0,1 mm.
 
@@ -129,13 +137,27 @@ Las perforaciones con las que se apernan los paneles a las cajas y botes deberí
 
 El lunes 24 de agosto fuimos a una prueba de sonido para una charla en la que invitaron a Aarón a participar. La charla era (agregar información después). Fuimos a la universidad con los sintetizadores que organizamos el jueves, además de amplificadores, cables, transformadores y mixers.
 
-El martes 25 de agosto fui como apoyo técnico de backline. Por cierto, no conocía este concepto, pero fue más o menos el rol que cumplí. Esto quiere decir preparar, montar, mantener y guardar los instrumentos y equipos de los músicos.
+El martes 25 de agosto fui como **apoyo técnico de backline**. Por cierto, no conocía este concepto, pero fue más o menos el rol que cumplí. Esto quiere decir **preparar, montar, mantener y guardar los instrumentos y equipos de los músicos**.
 
 Lo presentado fue un éxito total. Había muchas autoridades de la USACH. Fue un chiste muy extraño, pero muy interesante, en el que tuvimos la oportunidad de participar.
 
 ![foto](./imagenes/foto-17.jpeg)
 
-Además de esto, el miércoles 26 de agisto, Aarón me encargó preparar una serie de elementos para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía llevar todos los sintetizadores con su equipamiento completo para poder utilizarlos durante la clase.
+Además de esto, el miércoles 26 de agisto, Aarón me encargó **preparar una serie de elementos** para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía **llevar todos los sintetizadores con su equipamiento** completo para poder utilizarlos durante la clase.
+
+### Lanzamiento web Biblioteca Cuir
+
+El lunes 24 de agosto, en el **Centro Cultural de España**, fue el lanzamiento del libro ***Todo lo que cabe aquí***, de **Biblioteca Cuir**, y de su **web** que Piruetas estuvo desarrollando durante los últimos meses.
+
+El evento estuvo muy bello. La **recopilación de registros** de su trabajo se sentía viva y llena de sensibilidad; se notaba que estaba hecha con mucho cariño. Creo que es una **linda manera de resistir**.
+
+Además, el ambiente estuvo increíble, todos estaban muy felices y orgullosos por los lanzamientos.
+
+A esto se suma la web, cuya propuesta me fascinó. La manera en que estaban dispuestas las publicaciones hacía que fuera **fácil de navegar** y, al mismo tiempo, **muy divertida de recorrer**.
+
+agreagr fotos*
+
+agregar link de la web*
 
 ### Clase de efectos visuales y formas
 
