@@ -2,13 +2,10 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-08-17 | Lunes    | planificación, OpenScad                              | LID       | 006 / 006               |
-| 2026-08-18 | Martes   | Seudocódigo, salida                                  | Casa, Centro Cultural España | 005 / 011      |
-| 2026-08-19 | Miércoles | salida                                              | Casa      | 003 / 014               |
-| 2026-08-20 | Jueves   | salida                                               | Casa      | 003 / 017               |
-| 2026-08-21 | Viernes  | salida, GitHub, edición                              | Casa      | 005 / 022               |
-
-corregir tabla*
+| 2026-08-17 | Lunes    | Planificación, OpenScad                              | LID       | 006 / 006               |
+| 2026-08-18 | Martes   | Seudocódigo, Salida Tránsitos perceptivos            | LID, Centro Cultural España | 006 / 012 |
+| 2026-08-20 | Jueves   | Salida Lanzamiento La academia como creación, Github | LID, Centro Cultural España | 003 / 015 |
+| 2026-08-21 | Viernes  | Salida Simposio de Literatura Comparada, GitHub, edición | IDEA USACH              | 006 / 021 |
 
 ## Modelado de paneles y cajas
 
