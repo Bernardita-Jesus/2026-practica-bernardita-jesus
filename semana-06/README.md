@@ -1,66 +1,87 @@
 # Semana-06
 
-```text
+## VCV Rack
 
+### Copia local
+
+Con la copia local que realicé la semana pasada de VCV Rack, quise abrir los **módulos actualizados de los Popusintes**. Por lo que entré a la aplicación de VCV Rack, pero estos no estaban actualizados.
+
+Ahora entiendo que nunca voy a poder abrir la aplicación directamente y ver las versiones que todavía no han sido subidas y aprobadas por VCV Rack. Estas versiones existen en una **copia local remota**, la cual solo se puede abrir desde la terminal.
+
+Para actualizar y compilar los módulos, primero entré a la carpeta de VCV Rack y luego a la carpeta del plugin de Popusintes. Desde ahí realicé un **git pull** para actualizar la copia local.
+
+Luego utilicé **make dep** para revisar las dependencias y **make** para compilar el módulo. Al intentar escribir **male dist** apareció un error porque escribí **male** en lugar de **make**. Finalmente, comencé correctamente **make dist**, lo que generó el archivo **.vcvplugin** de la versión 2.1.1 para Windows.
+
+```bash
 berni@Dita MINGW64 /c/Users/berni/github
+
 $ cd /c/Users/berni/github/
 
-berni@Dita MINGW64 /c/Users/berni/github
 $ ls
+
 2026-practica-bernardita-jesus  Rack  popusintes-cajas-paneles
 
-berni@Dita MINGW64 /c/Users/berni/github
 $ cd Rack/
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack
 $ cd plugins/
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins
-$ cd
-Fundamental/     popusintes-rack/
-
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins
 $ cd popusintes-rack/
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ git pull
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ make dep
+
 make: Nothing to be done for 'dep'.
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ make
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ male dist
+
 -bash: male: command not found
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ make dist
+
 rm -rf dist
+
 mkdir -p dist/piruetas-popusintes
+
 cp plugin.dll dist/piruetas-popusintes/
+
 strip -s dist/piruetas-popusintes/plugin.dll
+
 cp -r --parents LICENSE res plugin.json dist/piruetas-popusintes/
+
 cd dist && tar --no-xattrs -c piruetas-popusintes | zstd -19 -o "piruetas-popusintes"-"2.1.1"-win-x64.vcvplugin
-/*stdin*\            : 32.51%   (   550 KiB =>    179 KiB, piruetas-popusintes-2.1.1-win-x64.vcvplugin)
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
-$ cd ..
-
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins
-$ cd ..
-
-berni@Dita MINGW64 /c/Users/berni/github/Rack
-$ 
+/*stdin* : 32.51% (550 KiB => 179 KiB, piruetas-popusintes-2.1.1-win-x64.vcvplugin)
 ```
 
-### Módulos VCV Rack
+### Comando para abrir VCV Rack
+
+Una vez **actualizado y compilado el módulo**, para abrir VCV Rack utilizando la copia local, debo hacerlo desde la **terminal**, entrando primero a la carpeta de VCV Rack y comenzar el programa.
+
+El comando final que debo utilizar es:
+
+```bash
+cd /c/Users/berni/github/Rack
+./Rack.exe
+```
+
+De esta manera puedo abrir VCV Rack desde la copia local y trabajar con los módulos que estoy desarrollando, incluso si todavía no han sido publicados o aprobados en la biblioteca de VCV Rack.
+
+### Módulos en VCV Rack
 
 Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aaron corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
 
-Esto me dio la oportunidad de aprender a actualizar los cambios y hacer git pull.
+Esto fue lo que me dio la oportunidad de aprender a actualizar los cambios y hacer **git pull**, lo que anteriormente registré.
+
+En la siguiente captura se pueden ver los **módulos de la copia local remota en VCV Rack**. Aquí se puede percibir el error en el tamaño de los LED y algunas dimensiones de las gráficas que estamos dilucidando si mejorar, como el rectángulo rosa de Recta, que comienza un poco más arriba.
+
+![captura](imagenes/captura-15.png)
+
+Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó Aaron y corrigió en el código.
+
+Los cambios que habrá que hacer respecto de las gráficas los verá Mateo.
 
 ### SemVer
 
@@ -70,107 +91,87 @@ El último número de versión corresponde a correcciones de errores, el siguien
 
 VCV Library, en donde se van subiendo los archivos de todas las personas a Issues.
 
-## paneles
+## Paneles
 
-añadir fotos de los paneles*
+A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los códigos, estableciendo referencias generales. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
 
-### propuestas de mejora
+Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
 
-## salidas
+Añadir foto/captura de Bambu Lab*
 
-### Clase ...
+Estas corresponden a la versión v0.0.4. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un sistema versionado en conjunto. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
 
-El día jueves 27 de agosto, fui a una clase del magister artes mediales universidad de chile, impartida por el profesor **Christian Oyarzún**
+Añadir fotos de los paneles impresos en 3D*
+
+### Propuestas de mejora de paneles
+
+Principales cambios:
+
+Los cilindros más grandes sobrepasan los bordes del rectángulo. Algunas opciones para solucionar esto serían aumentar la distancia entre los elementos y reducir los márgenes y las columnas, agrandar los rectángulos para darles más margen o buscar otras opciones de perillas.
+
+No he probado esa perilla en particular, pero, ya que nos vamos encontrando con estos conflictos, creo que la próxima semana debería enfocarme en probar estos elementos para buscar soluciones desde lo concreto.
+
+Las perforaciones con las que se apernan los paneles a las cajas y botes deberían tener un poco más de tolerancia. Probaría con una tolerancia de 0,1 mm.
+
+## Salidas
+
+### Popusintetizando en USACH
+
+### Clase de efectos visuales y formas
+
+El día jueves 27 de agosto asistí a una **clase del Magíster en Artes Mediales** de la Universidad de Chile, impartida por el profesor **Christian Oyarzún**. La clase estuvo enfocada en la creación de gráficas algorítmicas, efectos visuales y formas mediante programación en p5.js.
 
 #### Gráficas algorítmicas
 
-Sofwave, para hacer visuales e imágenes basadas en algoritmos y geometría analítica.
+Durante la clase trabajamos con **Sofwave**, una herramienta para crear visuales e imágenes basadas en algoritmos y geometría analítica.
 
-Es como el diseño paramétrico, reglas y fórmulas matemáticas donde las formas cambian de manera automática al modificar variables o datos numéricos.
+Esta forma de trabajar se relaciona con el diseño paramétrico que estoy desarrollando en OpenSCAD, ya que en ambos casos se utilizan reglas, variables y fórmulas matemáticas para construir formas. Al modificar una variable o un dato numérico, las formas pueden cambiar automáticamente de acuerdo con las relaciones establecidas.
 
-```javascript
-function setup() {
-  createCanvas(420, 420);colorMode(HSB);
-}
-function draw() {
-  background("#ffaa00");
-  for(let i=0;i<500;i++){
-    let x = random(width);
-    let y = random(height);
-    let s = random(2,20);
-    
-    
-    push();
-    translate(x,y);ellipse(0,0,s,s);
-    pop();
-  }
-  noLoop();
-}
-```
-
-#### Condicion IF
-
-boolean, dos operadores, dos estados
-
-#### Referentes de Gráficas algorítmicas
-
-Mark Wilson
-
-Vera Molnár
-
-Jean-Pierre Hébert
-
-Roman Verostko
+También trabajamos con la condición **IF** y con valores **booleanos**, que permiten establecer dos estados y tomar decisiones dentro del código.
 
 #### Operadores lógicos
 
-Con estos operadores podemos dar instrucciones. Estos tres operadores tienen sus propios símbolos en JavaScript:
+Los operadores lógicos permiten establecer instrucciones y relaciones dentro del código. En JavaScript, los principales son:
 
-- **AND: &&**
-- **OR: ||**
-- **NOT: !**
+* **AND:** &&
+* **OR:** ||
+* **NOT:** !
 
-Tenemos funciones de base en el código. Aquí podemos usar **translate**, trasladar y darle una ubicación. También podemos ubicar radios, ángulos, **s**, **h** y darles valores random.
+También vimos otros conceptos relacionados, como **NAND** y **NOR**, que corresponden a operaciones derivadas de AND y OR.
 
-Podemos rotar, trasladar, hacer **push** y **pop**. También se le puede agregar **millis**.
+Dentro de las funciones utilizadas en el código se encuentran:
 
-**Constrain:** restricciones.
+- **translate:** permite trasladar un elemento y establecer su ubicación.
+- **rotate:** permite rotar elementos.
+- **push / pop:** permiten guardar y recuperar transformaciones dentro del código.
+- **millis:** permite trabajar con el tiempo y generar cambios en función de este.
+- **constrain:** permite establecer restricciones a los valores.
 
-**NAND:** lo contrario de AND.
-
-**NOR:** lo contrario de OR. Si ambas no están, no existe en este lenguaje.
-
-aliasing, anti aliasing, moiré
-
-```javascript
-function setup() {
-  createCanvas(620, 420);colorMode(HSB);
-}
-function draw() {
-  background("#ffaa00");
-  for(let i=0; i<=width; i+=8){
-    line(i,0,mouseX,mouseY);
-    line(mouseX,mouseY,i,height);
-    line(0,i,mouseX,mouseY);
-    line(mouseX,mouseY,width,i);
-    noFill();
-    ellipse(mouseX,mouseY,2*i,2*i)
-  }  //noLoop();
-}
-function mousePressed(){
-  draw();
-}
-```
-
-![](imagenes/captura-16.png)
+También se abordaron conceptos relacionados con la visualización digital, como **aliasing, antialiasing y moiré**.
 
 #### map
 
-escala los valores para correlacionar cosas, referenciar de otros valores
+La función **map** permite escalar valores y establecer una relación entre distintos rangos. Esto permite correlacionar un valor con otro y utilizarlo como referencia para modificar diferentes elementos dentro de una composición.
 
-logica de consyruccion de una grilla con dos funciones sinusoidales
+También vimos la lógica de construcción de una grilla a partir de dos funciones sinusoidales, donde las relaciones matemáticas permiten generar y modificar las formas de manera sistemática.
 
-vasarely referente artistico.
+![captura](imagenes/captura-16.pngpng)
+
+#### Referentes de gráficas algorítmicas
+
+Algunos de los referentes revisados durante la clase fueron:
+
+- Mark Wilson
+- Vera Molnár
+- Jean-Pierre Hébert
+- Roman Verostko
+- Victor Vasarely
+
+Esta clase me ayudó a comprender de una manera más amplia el potencial de las matemáticas dentro del diseño. Al trabajar actualmente en el modelado de piezas 3D en OpenSCAD, he estado utilizando medidas, variables y relaciones entre elementos para construir objetos de manera paramétrica.
+
+La clase me permitió reconocer que esta misma lógica puede aplicarse a otros medios, como las gráficas y los efectos visuales. Las matemáticas pueden convertirse en funciones, referencias y reglas capaces de generar formas y comportamientos de manera organizada.
+
+Esto me ayudó a entender que el diseño paramétrico no se limita al modelado 3D, sino que puede ser una forma de pensar y construir: establecer reglas, relaciones y variables que permitan explorar diferentes resultados a partir de un mismo sistema.
 
 
 
