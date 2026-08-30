@@ -77,9 +77,7 @@ Esto me dio la oportunidad de aprender a actualizar los cambios y hacer git pull
 
 en la siguiente captura...
 
-añadir captura de errores(?)*
-
-añadir captura de modulos actualizados*
+![captura](imagenes/captura-15.png)
 
 ### SemVer
 
@@ -91,7 +89,7 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ## Paneles
 
-añadir fotos de los paneles*
+añadir fotos de los paneles impresos en 3d*
 
 ### Propuestas de mejora paneles
 
@@ -134,6 +132,8 @@ También se abordaron conceptos relacionados con la visualización digital, como
 La función **map** permite escalar valores y establecer una relación entre distintos rangos. Esto permite correlacionar un valor con otro y utilizarlo como referencia para modificar diferentes elementos dentro de una composición.
 
 También vimos la lógica de construcción de una grilla a partir de dos funciones sinusoidales, donde las relaciones matemáticas permiten generar y modificar las formas de manera sistemática.
+
+![captura](imagenes/captura-16.pngpng)
 
 #### Referentes de gráficas algorítmicas
 
