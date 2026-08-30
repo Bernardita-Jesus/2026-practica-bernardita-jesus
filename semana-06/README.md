@@ -69,7 +69,7 @@ cd /c/Users/berni/github/Rack
 
 De esta manera puedo abrir VCV Rack desde la copia local y trabajar con los módulos que estoy desarrollando, incluso si todavía no han sido publicados o aprobados en la biblioteca de VCV Rack.
 
-### Módulos en VCV Rack
+### Ajustes y correcciones de los módulos
 
 Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aaron corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
 
@@ -82,6 +82,14 @@ En la siguiente captura se pueden ver los **módulos de la copia local remota en
 Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó Aaron y corrigió en el código.
 
 Los cambios que habrá que hacer respecto de las gráficas los verá Mateo.
+
+### Módulos actualizados publicados
+
+Los cambios que se hicieron a los módulos fueron publicados y aprobados por VCV Rack, lo que significa que ahora se pueden ver las nuevas gráficas y algunas de las correcciones que se realizaron en el código.
+
+En la siguiente captura se puede ver la última versión que ahora está subida a VCV Rack, a la que todos pueden acceder y agregar.
+
+![captura](./imagenes/captura-19.png)
 
 ### SemVer
 
@@ -117,7 +125,15 @@ Las perforaciones con las que se apernan los paneles a las cajas y botes deberí
 
 ## Salidas
 
-### Popusintetizando en USACH
+## Popusintetizando en USACH
+
+El lunes 24 de agosto fuimos a una prueba de sonido para una charla en la que invitaron a Aarón a participar. La charla era (agregar información después). Fuimos a la universidad con los sintetizadores que organizamos el jueves, además de amplificadores, cables, transformadores y mixers.
+
+El martes 25 de agosto fui como apoyo técnico de backline. Por cierto, no conocía este concepto, pero fue más o menos el rol que cumplí. Esto quiere decir preparar, montar, mantener y guardar los instrumentos y equipos de los músicos.
+
+Lo presentado fue un éxito total. Había muchas autoridades de la USACH. Fue un chiste muy extraño, pero muy interesante, en el que tuvimos la oportunidad de participar.
+
+Además de esto, el miércoles 26 de agisto, Aarón me encargó preparar una serie de elementos para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía llevar todos los sintetizadores con su equipamiento completo para poder utilizarlos durante la clase.
 
 ### Clase de efectos visuales y formas
 
@@ -174,7 +190,4 @@ Esta clase me ayudó a comprender de una manera más amplia el potencial de las 
 La clase me permitió reconocer que esta misma lógica puede aplicarse a otros medios, como las gráficas y los efectos visuales. Las matemáticas pueden convertirse en funciones, referencias y reglas capaces de generar formas y comportamientos de manera organizada.
 
 Esto me ayudó a entender que el diseño paramétrico no se limita al modelado 3D, sino que puede ser una forma de pensar y construir: establecer reglas, relaciones y variables que permitan explorar diferentes resultados a partir de un mismo sistema.
-
-
-
 
