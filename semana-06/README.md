@@ -1,66 +1,85 @@
 # Semana-06
 
-```text
+## VCV Rack
 
+### Copia local
+
+Con la copia local que realicé la semana pasada de VCV Rack, quise abrir los **módulos actualizados de los Popusintes**. Por lo que entré a la aplicación de VCV Rack, pero estos no estaban actualizados.
+
+Ahora entiendo que nunca voy a poder abrir la aplicación directamente y ver las versiones que todavía no han sido subidas y aprobadas por VCV Rack. Estas versiones existen en una **copia local remota**, la cual solo se puede abrir desde la terminal.
+
+Para actualizar y compilar los módulos, primero entré a la carpeta de VCV Rack y luego a la carpeta del plugin de Popusintes. Desde ahí realicé un **git pull** para actualizar la copia local.
+
+Luego utilicé **make dep** para revisar las dependencias y **make** para compilar el módulo. Al intentar escribir **male dist** apareció un error porque escribí **male** en lugar de **make**. Finalmente, comencé correctamente **make dist**, lo que generó el archivo **.vcvplugin** de la versión 2.1.1 para Windows.
+
+```text
 berni@Dita MINGW64 /c/Users/berni/github
+
 $ cd /c/Users/berni/github/
 
-berni@Dita MINGW64 /c/Users/berni/github
 $ ls
+
 2026-practica-bernardita-jesus  Rack  popusintes-cajas-paneles
 
-berni@Dita MINGW64 /c/Users/berni/github
 $ cd Rack/
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack
 $ cd plugins/
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins
-$ cd
-Fundamental/     popusintes-rack/
-
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins
 $ cd popusintes-rack/
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ git pull
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ make dep
+
 make: Nothing to be done for 'dep'.
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ make
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ male dist
+
 -bash: male: command not found
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
 $ make dist
+
 rm -rf dist
+
 mkdir -p dist/piruetas-popusintes
+
 cp plugin.dll dist/piruetas-popusintes/
+
 strip -s dist/piruetas-popusintes/plugin.dll
+
 cp -r --parents LICENSE res plugin.json dist/piruetas-popusintes/
+
 cd dist && tar --no-xattrs -c piruetas-popusintes | zstd -19 -o "piruetas-popusintes"-"2.1.1"-win-x64.vcvplugin
-/*stdin*\            : 32.51%   (   550 KiB =>    179 KiB, piruetas-popusintes-2.1.1-win-x64.vcvplugin)
 
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins/popusintes-rack
-$ cd ..
-
-berni@Dita MINGW64 /c/Users/berni/github/Rack/plugins
-$ cd ..
-
-berni@Dita MINGW64 /c/Users/berni/github/Rack
-$ 
+/*stdin* : 32.51% (550 KiB => 179 KiB, piruetas-popusintes-2.1.1-win-x64.vcvplugin)
 ```
 
-### Módulos VCV Rack
+### Comando para abrir VCV Rack
+
+Una vez **actualizado y compilado el módulo**, para abrir VCV Rack utilizando la copia local, debo hacerlo desde la **terminal**, entrando primero a la carpeta de VCV Rack y comenzar el programa.
+
+El comando final que debo utilizar es:
+
+```bash
+cd /c/Users/berni/github/Rack
+./Rack.exe
+```
+
+De esta manera puedo abrir VCV Rack desde la copia local y trabajar con los módulos que estoy desarrollando, incluso si todavía no han sido publicados o aprobados en la biblioteca de VCV Rack.
+
+### Módulos en VCV Rack
 
 Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aaron corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
 
 Esto me dio la oportunidad de aprender a actualizar los cambios y hacer git pull.
+
+en la siguiente captura...
+
+añadir captura de errores(?)*
+
+añadir captura de modulos actualizados*
 
 ### SemVer
 
@@ -70,11 +89,11 @@ El último número de versión corresponde a correcciones de errores, el siguien
 
 VCV Library, en donde se van subiendo los archivos de todas las personas a Issues.
 
-## paneles
+## Paneles
 
 añadir fotos de los paneles*
 
-### propuestas de mejora
+### Propuestas de mejora paneles
 
 ## Salidas
 
