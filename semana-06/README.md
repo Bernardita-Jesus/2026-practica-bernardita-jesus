@@ -125,7 +125,7 @@ Las perforaciones con las que se apernan los paneles a las cajas y botes deberí
 
 ## Salidas
 
-## Popusintetizando en USACH
+### Popusintetizando en USACH
 
 El lunes 24 de agosto fuimos a una prueba de sonido para una charla en la que invitaron a Aarón a participar. La charla era (agregar información después). Fuimos a la universidad con los sintetizadores que organizamos el jueves, además de amplificadores, cables, transformadores y mixers.
 
@@ -133,11 +133,15 @@ El martes 25 de agosto fui como apoyo técnico de backline. Por cierto, no conoc
 
 Lo presentado fue un éxito total. Había muchas autoridades de la USACH. Fue un chiste muy extraño, pero muy interesante, en el que tuvimos la oportunidad de participar.
 
+![foto](./imagenes/foto-17.jpeg)
+
 Además de esto, el miércoles 26 de agisto, Aarón me encargó preparar una serie de elementos para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía llevar todos los sintetizadores con su equipamiento completo para poder utilizarlos durante la clase.
 
 ### Clase de efectos visuales y formas
 
 El día jueves 27 de agosto asistí a una **clase del Magíster en Artes Mediales** de la Universidad de Chile, impartida por el profesor **Christian Oyarzún**. La clase estuvo enfocada en la creación de gráficas algorítmicas, efectos visuales y formas mediante programación en p5.js.
+
+![foto](./imagenes/foto-18.jpg)
 
 #### Gráficas algorítmicas
 
