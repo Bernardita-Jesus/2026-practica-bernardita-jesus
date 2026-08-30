@@ -76,101 +76,61 @@ añadir fotos de los paneles*
 
 ### propuestas de mejora
 
-## salidas
+## Salidas
 
-### Clase ...
+### Clase de efectos visuales y formas
 
-El día jueves 27 de agosto, fui a una clase del magister artes mediales universidad de chile, impartida por el profesor **Christian Oyarzún**
+El día jueves 27 de agosto asistí a una **clase del Magíster en Artes Mediales** de la Universidad de Chile, impartida por el profesor **Christian Oyarzún**. La clase estuvo enfocada en la creación de gráficas algorítmicas, efectos visuales y formas mediante programación en p5.js.
 
 #### Gráficas algorítmicas
 
-Sofwave, para hacer visuales e imágenes basadas en algoritmos y geometría analítica.
+Durante la clase trabajamos con **Sofwave**, una herramienta para crear visuales e imágenes basadas en algoritmos y geometría analítica.
 
-Es como el diseño paramétrico, reglas y fórmulas matemáticas donde las formas cambian de manera automática al modificar variables o datos numéricos.
+Esta forma de trabajar se relaciona con el diseño paramétrico que estoy desarrollando en OpenSCAD, ya que en ambos casos se utilizan reglas, variables y fórmulas matemáticas para construir formas. Al modificar una variable o un dato numérico, las formas pueden cambiar automáticamente de acuerdo con las relaciones establecidas.
 
-```javascript
-function setup() {
-  createCanvas(420, 420);colorMode(HSB);
-}
-function draw() {
-  background("#ffaa00");
-  for(let i=0;i<500;i++){
-    let x = random(width);
-    let y = random(height);
-    let s = random(2,20);
-    
-    
-    push();
-    translate(x,y);ellipse(0,0,s,s);
-    pop();
-  }
-  noLoop();
-}
-```
-
-#### Condicion IF
-
-boolean, dos operadores, dos estados
-
-#### Referentes de Gráficas algorítmicas
-
-Mark Wilson
-
-Vera Molnár
-
-Jean-Pierre Hébert
-
-Roman Verostko
+También trabajamos con la condición **IF** y con valores **booleanos**, que permiten establecer dos estados y tomar decisiones dentro del código.
 
 #### Operadores lógicos
 
-Con estos operadores podemos dar instrucciones. Estos tres operadores tienen sus propios símbolos en JavaScript:
+Los operadores lógicos permiten establecer instrucciones y relaciones dentro del código. En JavaScript, los principales son:
 
-- **AND: &&**
-- **OR: ||**
-- **NOT: !**
+* **AND:** &&
+* **OR:** ||
+* **NOT:** !
 
-Tenemos funciones de base en el código. Aquí podemos usar **translate**, trasladar y darle una ubicación. También podemos ubicar radios, ángulos, **s**, **h** y darles valores random.
+También vimos otros conceptos relacionados, como **NAND** y **NOR**, que corresponden a operaciones derivadas de AND y OR.
 
-Podemos rotar, trasladar, hacer **push** y **pop**. También se le puede agregar **millis**.
+Dentro de las funciones utilizadas en el código se encuentran:
 
-**Constrain:** restricciones.
+- **translate:** permite trasladar un elemento y establecer su ubicación.
+- **rotate:** permite rotar elementos.
+- **push / pop:** permiten guardar y recuperar transformaciones dentro del código.
+- **millis:** permite trabajar con el tiempo y generar cambios en función de este.
+- **constrain:** permite establecer restricciones a los valores.
 
-**NAND:** lo contrario de AND.
-
-**NOR:** lo contrario de OR. Si ambas no están, no existe en este lenguaje.
-
-aliasing, anti aliasing, moiré
-
-```javascript
-function setup() {
-  createCanvas(620, 420);colorMode(HSB);
-}
-function draw() {
-  background("#ffaa00");
-  for(let i=0; i<=width; i+=8){
-    line(i,0,mouseX,mouseY);
-    line(mouseX,mouseY,i,height);
-    line(0,i,mouseX,mouseY);
-    line(mouseX,mouseY,width,i);
-    noFill();
-    ellipse(mouseX,mouseY,2*i,2*i)
-  }  //noLoop();
-}
-function mousePressed(){
-  draw();
-}
-```
-
-![](imagenes/captura-16.png)
+También se abordaron conceptos relacionados con la visualización digital, como **aliasing, antialiasing y moiré**.
 
 #### map
 
-escala los valores para correlacionar cosas, referenciar de otros valores
+La función **map** permite escalar valores y establecer una relación entre distintos rangos. Esto permite correlacionar un valor con otro y utilizarlo como referencia para modificar diferentes elementos dentro de una composición.
 
-logica de consyruccion de una grilla con dos funciones sinusoidales
+También vimos la lógica de construcción de una grilla a partir de dos funciones sinusoidales, donde las relaciones matemáticas permiten generar y modificar las formas de manera sistemática.
 
-vasarely referente artistico.
+#### Referentes de gráficas algorítmicas
+
+Algunos de los referentes revisados durante la clase fueron:
+
+- Mark Wilson
+- Vera Molnár
+- Jean-Pierre Hébert
+- Roman Verostko
+- Victor Vasarely
+
+Esta clase me ayudó a comprender de una manera más amplia el potencial de las matemáticas dentro del diseño. Al trabajar actualmente en el modelado de piezas 3D en OpenSCAD, he estado utilizando medidas, variables y relaciones entre elementos para construir objetos de manera paramétrica.
+
+La clase me permitió reconocer que esta misma lógica puede aplicarse a otros medios, como las gráficas y los efectos visuales. Las matemáticas pueden convertirse en funciones, referencias y reglas capaces de generar formas y comportamientos de manera organizada.
+
+Esto me ayudó a entender que el diseño paramétrico no se limita al modelado 3D, sino que puede ser una forma de pensar y construir: establecer reglas, relaciones y variables que permitan explorar diferentes resultados a partir de un mismo sistema.
 
 
 
