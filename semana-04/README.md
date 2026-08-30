@@ -2,9 +2,9 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-08-10 | Lunes    | planificación, git, VCV Rack, referentes             | LID       | 007 / 007               |
-| 2026-08-14 | Viernes  | lectura referentes, lectura tesis                    | Casa      | 002 / 009               |
-| 2026-08-15 | Sábado   | github, OpenScad                                     | Casa      | 003 / 012               |
+| 2026-08-10 | Lunes    | Planificación, Git, VCV Rack, Referentes             | LID       | 007 / 007               |
+| 2026-08-14 | Viernes  | Lectura referentes, Lectura tesis                    | Casa      | 004 / 011               |
+| 2026-08-15 | Sábado   | GitHub, OpenScad, Entorno de desarrollo              | Casa      | 003 / 014               |
 
 ## Entorno de desarrollo
 
@@ -100,18 +100,26 @@ De esta manera, puedo mantener mi entorno de desarrollo **actualizado y visualiz
 
 ## Referentes
 
-### Lectura arte y cosmotecnica
+### Lectura *Arte y cosmotécnica*
 
-comence hace unas semanas a leer arte y cosmotecnica,
+Comencé hace unas semanas a leer ***Arte y cosmotécnica***, ya que era uno de los libros incluidos en la **bibliografía de referentes** del documento de tesis de **Popusíntesis**. Por lo mismo, sentí que debía adentrarme en ese lenguaje. No tenía idea de que era un libro de filosofía. Había escuchado de **Yuk Hui** y era una lectura que tenía pendiente.
+
+No considero que sea importante, ni que pueda ayudar mucho, que yo resuma este libro, pero sí **incluiré algunas citas** que me parecieron importantes y que me gustaría registrar. En paralelo, **he estado subiendo estas mismas citas a mis redes**, con la intención de **generar conversación** en torno a este libro.
+
+**Citas de *Arte y cosmotécnica***
+
+> “Para Schelling, el arte tiene que ser reconocido ‘como un todo cerrado, orgánico, necesario en todas sus partes, igual que la naturaleza’” (Hui, 2021, p. 11).
+
+> “Esta ‘exterioridad’, o inagotabilidad, tiende a ocultársenos cuando el tiempo se estabiliza como rutina diaria o tradición. Como ocurre con un autómata, lo que está más allá de su funcionamiento parece irrelevante. Para revelar lo que está oculto, el arte tendrá que aumentar los sentidos y hacer sensible lo invisible, parafraseando a Paul Klee” (Hui, 2021, p. 38).
+
+> “Lo llamo cosmo-técnica porque estoy convencido de que ‘cosmos’ no refiere al espacio exterior, sino, por el contrario, a la localidad. Cada cultura tiene su propia cosmología, que es un producto de su propia geografía y de la imaginación de su pueblo” (Hui, 2021, p. 41).
+
+> “En una entrevista de 1966 con Der Spiegel, le preguntaron a Heidegger qué viene después de la filosofía y pronunció una sola palabra: la cibernética. ¿Cómo puede la cibernética ser el final de la filosofía? Irónicamente, la mayoría de los departamentos de filosofía parecen estar a salvo hoy en día, mientras que la disciplina conocida como cibernética ha dejado de existir, sustituida por departamentos de informática, ciencias de la información, inteligencia artificial y, dentro de poco, humanidades digitales. Al igual que el loco de Nietzsche que difunde la noticia de la muerte de Dios en el mercado es objeto de burla, todavía no se ha tomado nota de la muerte de la filosofía” (Hui, 2021, p. 69).
+
+**Referencia bibliográfica**Hui, Y. (2021). Arte y cosmotécnica. Caja Negra.
 
 ### Arte sonoro
 
-Bjork, atmosfera fria
-
-Arcade Fire
-
 Arp 2600
 
-<https://patshiu.com/>
 
-Monologue Korg
