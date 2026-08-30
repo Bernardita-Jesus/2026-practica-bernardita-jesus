@@ -8,6 +8,8 @@
 | 2026-08-20 | Jueves   | salida                                               | Casa      | 003 / 017               |
 | 2026-08-21 | Viernes  | salida, GitHub, edición                              | Casa      | 005 / 022               |
 
+corregir esto y agregar a readme principal**
+
 ## VCV Rack
 
 ### Copia local
