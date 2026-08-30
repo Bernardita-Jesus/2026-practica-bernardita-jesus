@@ -4,7 +4,7 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-10 | Lunes    | Planificación, Git, VCV Rack, Referentes             | LID       | 007 / 007               |
 | 2026-08-14 | Viernes  | Lectura referentes, Lectura tesis                    | Casa      | 004 / 011               |
-| 2026-08-15 | Sábado   | GitHub, OpenScad, Entorno de desarrollo              | Casa      | 003 / 014               |
+| 2026-08-15 | Sábado   | GitHub, OpenScad, Entorno de desarrollo, Lectura Arte y cosmotécnica | Casa    | 003 / 014 |
 
 ## Entorno de desarrollo
 
