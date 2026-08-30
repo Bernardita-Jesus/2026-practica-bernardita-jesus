@@ -121,7 +121,15 @@ Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas 
 
 Estas corresponden a la versión **v0.0.4**. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un **sistema versionado en conjunto**. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
 
-Añadir fotos de los paneles impresos en 3D*
+![foto](./imagenes/foto-21.jpg)
+
+![foto](./imagenes/foto-25.jpg)
+
+![foto](./imagenes/foto-26.jpg)
+
+![foto](./imagenes/foto-29.jpg)
+
+![foto](./imagenes/foto-31.jpg)
 
 ### Propuestas de mejora de paneles
 
@@ -143,7 +151,7 @@ El martes 25 de agosto fui como **apoyo técnico de backline**. Por cierto, no c
 
 Lo presentado fue un éxito total. Había muchas autoridades de la USACH. Fue un chiste muy extraño, pero muy interesante, en el que tuvimos la oportunidad de participar.
 
-![foto](./imagenes/foto-17.jpeg)
+![foto](./imagenes/foto-17.jpg)
 
 Además de esto, el miércoles 26 de agisto, Aarón me encargó **preparar una serie de elementos** para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía **llevar todos los sintetizadores con su equipamiento** completo para poder utilizarlos durante la clase.
 
@@ -153,13 +161,13 @@ El lunes 24 de agosto, en el **Centro Cultural de España**, fue el lanzamiento 
 
 El evento estuvo muy bello. La **recopilación de registros** de su trabajo se sentía viva y llena de sensibilidad; se notaba que estaba hecha con mucho cariño. Creo que es una **linda manera de resistir**.
 
-![foto](./imagenes/foto-19.jpeg)
+![foto](./imagenes/foto-19.jpg)
 
 Además, el ambiente estuvo increíble, todos estaban muy felices y orgullosos por los lanzamientos.
 
 A esto se suma la web, cuya propuesta me fascinó. La manera en que estaban dispuestas las publicaciones hacía que fuera **fácil de navegar** y, al mismo tiempo, **muy divertida de recorrer**.
 
-agregar link de la web*
+[Link de la web de Biblioteca Cuir](https://bibliotecacuir.org/)
 
 ### Clase de efectos visuales y formas
 
