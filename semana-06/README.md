@@ -115,11 +115,17 @@ A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los c
 
 Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
 
+Estas corresponden a la versión **v0.0.4**. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un **sistema versionado en conjunto**. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
+
+En las siguientes capturas se puede ver el slicer de Bambu Lab para todas las piezas que existen hasta el momento, los **nueve paneles** con sus **respectivas cajas** y, además el **bote**.
+
+Se utilizaron aproximadamente **380 g de filamento PLA**. Todas las piezas se imprimieron en tres tandas y el tiempo total de impresión fue de aproximadamente **10 horas y 40 minutos**.
+
 ![captura](./imagenes/captura-17.png)
 
 ![captura](./imagenes/captura-18.png)
 
-Estas corresponden a la versión **v0.0.4**. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un **sistema versionado en conjunto**. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
+...
 
 ![foto](./imagenes/foto-21.jpg)
 
@@ -179,7 +185,7 @@ El día jueves 27 de agosto asistí a una **clase del Magíster en Artes Mediale
 
 Durante la clase trabajamos con **Sofwave**, una herramienta para crear visuales e imágenes basadas en algoritmos y geometría analítica.
 
-Esta forma de trabajar se relaciona con el diseño paramétrico que estoy desarrollando en OpenSCAD, ya que en ambos casos se utilizan reglas, variables y fórmulas matemáticas para construir formas. Al modificar una variable o un dato numérico, las formas pueden cambiar automáticamente de acuerdo con las relaciones establecidas.
+Esta forma de trabajar se relaciona con el diseño paramétrico que estoy desarrollando en OpenSCAD, ya que en ambos casos se utilizan **reglas, variables y fórmulas matemáticas para construir formas**. Al modificar una variable o un dato numérico, las formas pueden cambiar automáticamente de acuerdo con las relaciones establecidas.
 
 También trabajamos con la condición **IF** y con valores **booleanos**, que permiten establecer dos estados y tomar decisiones dentro del código.
 
@@ -221,9 +227,8 @@ Algunos de los referentes revisados durante la clase fueron:
 - Roman Verostko
 - Victor Vasarely
 
-Esta clase me ayudó a comprender de una manera más amplia el potencial de las matemáticas dentro del diseño. Al trabajar actualmente en el modelado de piezas 3D en OpenSCAD, he estado utilizando medidas, variables y relaciones entre elementos para construir objetos de manera paramétrica.
+Esta clase me ayudó a comprender de una manera más amplia el potencial de las matemáticas dentro del diseño. Al trabajar actualmente en el modelado de piezas 3D en OpenSCAD, he estado utilizando medidas, variables y **relaciones entre elementos** para construir objetos de manera **paramétrica**.
 
-La clase me permitió reconocer que esta misma lógica puede aplicarse a otros medios, como las gráficas y los efectos visuales. Las matemáticas pueden convertirse en funciones, referencias y reglas capaces de generar formas y comportamientos de manera organizada.
+La clase me permitió reconocer que esta misma lógica puede aplicarse a otros medios, como las **gráficas y los efectos visuales**. Las matemáticas pueden convertirse en funciones, referencias y reglas capaces de generar formas y comportamientos de manera organizada.
 
-Esto me ayudó a entender que el diseño paramétrico no se limita al modelado 3D, sino que puede ser una forma de pensar y construir: establecer reglas, relaciones y variables que permitan explorar diferentes resultados a partir de un mismo sistema.
 
