@@ -6,12 +6,12 @@ práctica profesional de bernardita jesús, segundo semestre 2026
 
 | Semana             | Fechas     | Temas                                        | Horas semana / totales |
 | :----------------- | :--------- | :------------------------------------------- | :--------------------- |
-| [01](./semana-01/) | 07-20 lun  | git, github cli, planificación, referentes   | 021 / 021              |
-| [02](./semana-02/) | 07-27 lun  | modelos 3D en openscad                       | 023 / 044              |
-| [03](./semana-03/) | 08-03 lun  | módulo relo construido, pruebas de impresión | 022 / 066              |
-| [04](./semana-04/) | 08-10 lun  | copia VCV Rack, referentes                   | 012 / 078              |
+| [01](./semana-01/) | 07-20 lun  | Git, GitHub cli, Planificación, Referentes   | 021 / 021              |
+| [02](./semana-02/) | 07-27 lun  | Modelos 3D, OpenScad                       | 023 / 044              |
+| [03](./semana-03/) | 08-03 lun  | Módulo relo construido, Pruebas de impresión | 022 / 066              |
+| [04](./semana-04/) | 08-10 lun  | Copia VCV Rack, Referentes                   | 012 / 078              |
 | [05](./semana-05/) | 08-17 lun  |                                              | 000 / 000              |
-| [06](./semana-06/) | 08-24 lun  |                                              | 000 / 000              |
+| [06](./semana-06/) | 08-24 lun  | VCV Rack, OpenSCAD, impresión 3D, registro, Popusintetizando | 030 / 000 |
 | [07](./semana-07/) | 08-31 lun  |                                              | 000 / 000              |
 | [08](./semana-08/) | 09-07 lun  |                                              | 000 / 000              |
 | receso             | 09-14 lun  |                                              | 000 / 000              |
