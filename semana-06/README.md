@@ -12,7 +12,7 @@ Para actualizar y compilar los módulos, primero entré a la carpeta de VCV Rack
 
 Luego utilicé **make dep** para revisar las dependencias y **make** para compilar el módulo. Al intentar escribir **male dist** apareció un error porque escribí **male** en lugar de **make**. Finalmente, comencé correctamente **make dist**, lo que generó el archivo **.vcvplugin** de la versión 2.1.1 para Windows.
 
-```text
+```bash
 berni@Dita MINGW64 /c/Users/berni/github
 
 $ cd /c/Users/berni/github/
@@ -73,11 +73,15 @@ De esta manera puedo abrir VCV Rack desde la copia local y trabajar con los mód
 
 Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aaron corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
 
-Esto me dio la oportunidad de aprender a actualizar los cambios y hacer git pull.
+Esto fue lo que me dio la oportunidad de aprender a actualizar los cambios y hacer **git pull**, lo que anteriormente registré.
 
-en la siguiente captura...
+En la siguiente captura se pueden ver los **módulos de la copia local remota en VCV Rack**. Aquí se puede percibir el error en el tamaño de los LED y algunas dimensiones de las gráficas que estamos dilucidando si mejorar, como el rectángulo rosa de Recta, que comienza un poco más arriba.
 
 ![captura](imagenes/captura-15.png)
+
+Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó Aaron y corrigió en el código.
+
+Los cambios que habrá que hacer respecto de las gráficas los verá Mateo.
 
 ### SemVer
 
@@ -89,11 +93,29 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ## Paneles
 
-añadir fotos de los paneles impresos en 3d*
+A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los códigos, estableciendo referencias generales. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
 
-### Propuestas de mejora paneles
+Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
+
+Añadir foto/captura de Bambu Lab*
+
+Estas corresponden a la versión v0.0.4. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un sistema versionado en conjunto. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
+
+Añadir fotos de los paneles impresos en 3D*
+
+### Propuestas de mejora de paneles
+
+Principales cambios:
+
+Los cilindros más grandes sobrepasan los bordes del rectángulo. Algunas opciones para solucionar esto serían aumentar la distancia entre los elementos y reducir los márgenes y las columnas, agrandar los rectángulos para darles más margen o buscar otras opciones de perillas.
+
+No he probado esa perilla en particular, pero, ya que nos vamos encontrando con estos conflictos, creo que la próxima semana debería enfocarme en probar estos elementos para buscar soluciones desde lo concreto.
+
+Las perforaciones con las que se apernan los paneles a las cajas y botes deberían tener un poco más de tolerancia. Probaría con una tolerancia de 0,1 mm.
 
 ## Salidas
+
+### Popusintetizando en USACH
 
 ### Clase de efectos visuales y formas
 
