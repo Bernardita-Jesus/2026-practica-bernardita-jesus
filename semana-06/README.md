@@ -2,13 +2,10 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-08-17 | Lunes    | planificación, VCV Rack, Prueba de sonido, Lanzamiento web | LID, USACH, Centro Cultural España | 008 / 008               |
-| 2026-08-18 | Martes   | Charla, Popusintetizando                             | USACH      | 005 / 011               |
-| 2026-08-19 | Miércoles | salida                                              | Casa      | 003 / 014               |
-| 2026-08-20 | Jueves   | salida                                               | Casa      | 003 / 017               |
-| 2026-08-21 | Viernes  | salida, GitHub, edición                              | Casa      | 005 / 022               |
-
-corregir esto y agregar a readme principal**
+| 2026-08-24 | Lunes    | planificación, VCV Rack, Prueba de sonido, Lanzamiento web | LID, USACH, Centro Cultural España | 008 / 008               |
+| 2026-08-25 | Martes   | Charla, Popusintetizando                             | USACH      | 004 / 012               |
+| 2026-08-27 | Jueves   | VCV Rack, OpenScad, Git, Impresión 3D                | Repu 180, LID | 006 / 018            |
+| 2026-08-28 | Viernes  | Impresión 3D, Diseño paramétrico, GitHub, Registro y edición | LID, Universidad de Chile | 006 / 024 |
 
 ## VCV Rack
 
