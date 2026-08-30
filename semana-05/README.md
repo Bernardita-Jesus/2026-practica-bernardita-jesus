@@ -3,7 +3,7 @@
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-17 | Lunes    | planificación, OpenScad                              | LID       | 006 / 006               |
-| 2026-08-18 | Martes   | Seudocódigo, salida                                  | Casa      | 005 / 011               |
+| 2026-08-18 | Martes   | Seudocódigo, salida                                  | Casa, Centro Cultural España | 005 / 011      |
 | 2026-08-19 | Miercoles | salida                                              | Casa      | 003 / 014               |
 | 2026-08-20 | Jueves   | salida                                               | Casa      | 003 / 017               |
 | 2026-08-21 | Viernes  | salida, GitHub, edición                              | Casa      | 005 / 022               |
@@ -37,6 +37,75 @@ En la siguiente foto se puede ver un **panel Relo encajado en una Caja**. La tol
 En la siguiente foto se puede ver la extrusión que hicimos para anotar el **registro de versiones**, en este caso, de Relo y de Recta.
 
 ![foto](./imagenes/foto-11.jpeg)
+
+### Seudocódigo Rerelo
+
+En la siguiente captura se ve el **panel de Rerelo en VCV Rack**. Esta versión corresponde a una de las primeras versiones publicadas. **A partir de esta visualización, escribí el pseudocódigo**.
+
+![captura](./imagenes/captura-13.png)
+
+Para el pseudocódigo **enlisté** todos los elementos que tiene que tener el panel Rerelo, referenciados a **cuatro columnas** verticales. Las medidas son aproximadas.
+
+```text
+// Todas las medidas son aprox
+// columnas de izquiera a derecha
+
+////////////////////
+// primera columna
+////////////////////
+
+// perilla grande
+
+// botón pequeño
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
+
+//////////////////
+// segunda columna
+//////////////////
+
+// perilla mediana
+
+// perilla pequeña
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
+
+//////////////////
+// tercera columna
+//////////////////
+
+// perilla mediana
+
+// perilla pequeña
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
+
+//////////////////
+// cuarta columna
+//////////////////
+
+// perilla mediana
+
+// perilla pequeña
+
+// entrada jack TS
+
+// LED
+
+// entrada jack TS
+```
 
 ## Salidas
 
@@ -111,71 +180,3 @@ Esta es una de las razones por las que pretendo dedicarme a la academia y por la
 
 Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: leer, escribir, pensar, relacionar y crear, porque creemos que el conocimiento, la sensibilidad y la reflexión crítica que desde allí generamos es nuestro mayor aporte a la sociedad […]”.
 
-### Seudocódigo Rerelo
-
-En la siguiente captura se ve el **panel de Rerelo en VCV Rack**. Esta versión corresponde a una de las primeras versiones publicadas. **A partir de esta visualización, escribí el pseudocódigo**.
-
-![captura](./imagenes/captura-13.png)
-
-Para el pseudocódigo **enlisté** todos los elementos que tiene que tener el panel Rerelo, referenciados a **cuatro columnas** verticales. Las medidas son aproximadas.
-
-```text
-// Todas las medidas son aprox
-// columnas de izquiera a derecha
-
-////////////////////
-// primera columna
-////////////////////
-
-// perilla grande
-
-// botón pequeño
-
-// entrada jack TS
-
-// LED
-
-// entrada jack TS
-
-//////////////////
-// segunda columna
-//////////////////
-
-// perilla mediana
-
-// perilla pequeña
-
-// entrada jack TS
-
-// LED
-
-// entrada jack TS
-
-//////////////////
-// tercera columna
-//////////////////
-
-// perilla mediana
-
-// perilla pequeña
-
-// entrada jack TS
-
-// LED
-
-// entrada jack TS
-
-//////////////////
-// cuarta columna
-//////////////////
-
-// perilla mediana
-
-// perilla pequeña
-
-// entrada jack TS
-
-// LED
-
-// entrada jack TS
-```
