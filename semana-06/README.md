@@ -2,13 +2,10 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-08-17 | Lunes    | planificación, VCV Rack, Prueba de sonido, Lanzamiento web | LID, USACH, Centro Cultural España | 008 / 008               |
-| 2026-08-18 | Martes   | Charla, Popusintetizando                             | USACH      | 005 / 011               |
-| 2026-08-19 | Miércoles | salida                                              | Casa      | 003 / 014               |
-| 2026-08-20 | Jueves   | salida                                               | Casa      | 003 / 017               |
-| 2026-08-21 | Viernes  | salida, GitHub, edición                              | Casa      | 005 / 022               |
-
-corregir esto y agregar a readme principal**
+| 2026-08-24 | Lunes    | planificación, VCV Rack, Prueba de sonido, Lanzamiento web | LID, USACH, Centro Cultural España | 008 / 008               |
+| 2026-08-25 | Martes   | Charla, Popusintetizando                             | USACH      | 004 / 012               |
+| 2026-08-27 | Jueves   | VCV Rack, OpenScad, Git, Impresión 3D                | Repu 180, LID | 006 / 018            |
+| 2026-08-28 | Viernes  | Impresión 3D, Diseño paramétrico, GitHub, Registro y edición | LID, Universidad de Chile | 006 / 024 |
 
 ## VCV Rack
 
@@ -115,13 +112,27 @@ A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los c
 
 Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
 
+Estas corresponden a la versión **v0.0.4**. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un **sistema versionado en conjunto**. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
+
+En las siguientes capturas se puede ver el slicer de Bambu Lab para todas las piezas que existen hasta el momento, los **nueve paneles** con sus **respectivas cajas** y, además el **bote**.
+
+Se utilizaron aproximadamente **380 g de filamento PLA**. Todas las piezas se imprimieron en tres tandas y el tiempo total de impresión fue de aproximadamente **10 horas y 40 minutos**.
+
 ![captura](./imagenes/captura-17.png)
 
 ![captura](./imagenes/captura-18.png)
 
-Estas corresponden a la versión **v0.0.4**. Todas formarán parte de esta versión, independientemente de que solo se edite un panel. Es un **sistema versionado en conjunto**. De todas maneras, esto me hace sentido, porque en VCV Rack todos los módulos se actualizan al unísono.
+...
 
-Añadir fotos de los paneles impresos en 3D*
+![foto](./imagenes/foto-21.jpg)
+
+![foto](./imagenes/foto-25.jpg)
+
+![foto](./imagenes/foto-26.jpg)
+
+![foto](./imagenes/foto-29.jpg)
+
+![foto](./imagenes/foto-31.jpg)
 
 ### Propuestas de mejora de paneles
 
@@ -143,7 +154,7 @@ El martes 25 de agosto fui como **apoyo técnico de backline**. Por cierto, no c
 
 Lo presentado fue un éxito total. Había muchas autoridades de la USACH. Fue un chiste muy extraño, pero muy interesante, en el que tuvimos la oportunidad de participar.
 
-![foto](./imagenes/foto-17.jpeg)
+![foto](./imagenes/foto-17.jpg)
 
 Además de esto, el miércoles 26 de agisto, Aarón me encargó **preparar una serie de elementos** para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía **llevar todos los sintetizadores con su equipamiento** completo para poder utilizarlos durante la clase.
 
@@ -153,13 +164,13 @@ El lunes 24 de agosto, en el **Centro Cultural de España**, fue el lanzamiento 
 
 El evento estuvo muy bello. La **recopilación de registros** de su trabajo se sentía viva y llena de sensibilidad; se notaba que estaba hecha con mucho cariño. Creo que es una **linda manera de resistir**.
 
-![foto](./imagenes/foto-19.jpeg)
+![foto](./imagenes/foto-19.jpg)
 
 Además, el ambiente estuvo increíble, todos estaban muy felices y orgullosos por los lanzamientos.
 
 A esto se suma la web, cuya propuesta me fascinó. La manera en que estaban dispuestas las publicaciones hacía que fuera **fácil de navegar** y, al mismo tiempo, **muy divertida de recorrer**.
 
-agregar link de la web*
+[Link de la web de Biblioteca Cuir](https://bibliotecacuir.org/)
 
 ### Clase de efectos visuales y formas
 
@@ -171,7 +182,7 @@ El día jueves 27 de agosto asistí a una **clase del Magíster en Artes Mediale
 
 Durante la clase trabajamos con **Sofwave**, una herramienta para crear visuales e imágenes basadas en algoritmos y geometría analítica.
 
-Esta forma de trabajar se relaciona con el diseño paramétrico que estoy desarrollando en OpenSCAD, ya que en ambos casos se utilizan reglas, variables y fórmulas matemáticas para construir formas. Al modificar una variable o un dato numérico, las formas pueden cambiar automáticamente de acuerdo con las relaciones establecidas.
+Esta forma de trabajar se relaciona con el diseño paramétrico que estoy desarrollando en OpenSCAD, ya que en ambos casos se utilizan **reglas, variables y fórmulas matemáticas para construir formas**. Al modificar una variable o un dato numérico, las formas pueden cambiar automáticamente de acuerdo con las relaciones establecidas.
 
 También trabajamos con la condición **IF** y con valores **booleanos**, que permiten establecer dos estados y tomar decisiones dentro del código.
 
@@ -213,9 +224,8 @@ Algunos de los referentes revisados durante la clase fueron:
 - Roman Verostko
 - Victor Vasarely
 
-Esta clase me ayudó a comprender de una manera más amplia el potencial de las matemáticas dentro del diseño. Al trabajar actualmente en el modelado de piezas 3D en OpenSCAD, he estado utilizando medidas, variables y relaciones entre elementos para construir objetos de manera paramétrica.
+Esta clase me ayudó a comprender de una manera más amplia el potencial de las matemáticas dentro del diseño. Al trabajar actualmente en el modelado de piezas 3D en OpenSCAD, he estado utilizando medidas, variables y **relaciones entre elementos** para construir objetos de manera **paramétrica**.
 
-La clase me permitió reconocer que esta misma lógica puede aplicarse a otros medios, como las gráficas y los efectos visuales. Las matemáticas pueden convertirse en funciones, referencias y reglas capaces de generar formas y comportamientos de manera organizada.
+La clase me permitió reconocer que esta misma lógica puede aplicarse a otros medios, como las **gráficas y los efectos visuales**. Las matemáticas pueden convertirse en funciones, referencias y reglas capaces de generar formas y comportamientos de manera organizada.
 
-Esto me ayudó a entender que el diseño paramétrico no se limita al modelado 3D, sino que puede ser una forma de pensar y construir: establecer reglas, relaciones y variables que permitan explorar diferentes resultados a partir de un mismo sistema.
 
