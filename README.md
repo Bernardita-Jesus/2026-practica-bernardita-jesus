@@ -1,6 +1,8 @@
 # 2026-practica-bernardita-jesus
 
-práctica profesional de bernardita jesús, segundo semestre 2026
+Práctica profesional de Bernardita Jesús, Segundo Semestre 2026.
+
+Desarrollo de carcasas para sintetizadores modulares en formato Eurorack, modeladas a partir de parámetros y código en OpenSCAD.
 
 ## Distribución de trabajo
 
