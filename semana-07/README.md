@@ -9,4 +9,28 @@
 | 2026-08-29 | Sábado   | ---------------------------------------------------  | Casa      | 004 / 027               |
 | 2026-08-30 | Domingo  | ---------------------------------------------------  | Casa      | 003 / 030               |
 
-## Paneles
+## Correcciones Paneles
+
+## elementos para los paneles
+
+revisar elementos, m3, jack, potenciometros, leds, 
+
+afel
+
+thonk.co.uk
+
+para comprar las perillas y potenciometros
+
+https://www.thonk.co.uk/shop/alpha-9mm-pots-dshaft/
+
+potenciometro D
+
+y cap
+
+https://www.thonk.co.uk/shop/intellijel-white-knobs/
+
+## scaner
+
+https://structure.io/
+
+nos escaneamos para la pagina web
