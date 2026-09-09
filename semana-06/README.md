@@ -80,7 +80,7 @@ De esta manera puedo abrir VCV Rack desde la copia local y trabajar con los mód
 
 ### Ajustes y correcciones de los módulos
 
-Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aaron corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
+Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aarón corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
 
 Esto fue lo que me dio la oportunidad de aprender a actualizar los cambios y hacer **git pull**, lo que anteriormente registré.
 
@@ -88,7 +88,7 @@ En la siguiente captura se pueden ver los **módulos de la copia local remota en
 
 ![captura](./imagenes/captura-15.png)
 
-Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó Aaron y corrigió en el código.
+Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó Aarón y corrigió en el código.
 
 Los cambios que habrá que hacer respecto de las gráficas los verá Mateo.
 
@@ -110,7 +110,7 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ## Paneles
 
-A medida que fuimos corrigiendo las medidas en el código, Aaron optimizó los códigos, **estableciendo referencias generales**. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
+A medida que fuimos corrigiendo las medidas en el código, Aarón optimizó los códigos, **estableciendo referencias generales**. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
 
 Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
 
