@@ -14,6 +14,10 @@ adjuntar foto de las impresiones en comparación*
 
 ## portafolio web
 
+### Referentes
+
+https://lav.io/
+
 ## Salidas
 
 ### licenciatura mateo y janis

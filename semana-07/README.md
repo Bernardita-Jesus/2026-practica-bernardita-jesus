@@ -58,7 +58,9 @@ https://structure.io/
 
 nos escaneamos para la pagina web
 
-adjuntar link de aaron y mateo rebotando*
+Link de aaron y mateo rebotando*
+
+https://piruetas.xyz/rebotar.html
 
 ## salidas
 
