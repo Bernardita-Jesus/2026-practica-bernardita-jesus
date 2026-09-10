@@ -33,9 +33,24 @@ Agregando a esto, a mi criterio, me parece una buena idea utilizar potenciómetr
 
 https://www.thonk.co.uk/shop/alpha-9mm-pots-dshaft/
 
-### nuevas medidas de los paneles
+### Nuevas medidas de los paneles
 
-hp 5 y hp 10
+Como mencioné, antes los paneles los estábamos desarrollando en dos medidas, estandarizadas por el formato Eurorack, en HP, lo que quiere decir Horizontal Pitch. En este formato, cada HP corresponde a 5,08 mm de ancho, por lo que:
+
+|    HP | Ancho (mm) |
+| ----: | ---------: |
+|  1 HP |    5,08 mm |
+|  2 HP |   10,16 mm |
+|  3 HP |   15,24 mm |
+|  4 HP |   20,32 mm |
+|  5 HP |   25,40 mm |
+|  6 HP |   30,48 mm |
+|  7 HP |   35,56 mm |
+|  8 HP |   40,64 mm |
+|  9 HP |   45,72 mm |
+| 10 HP |   50,80 mm |
+
+Ya que en las pruebas con los elementos no podían montarse sobre los paneles de 4 HP dos entradas o salidas de jacks TS de 3,5 mm una al lado de la otra, decidí cambiar las medidas de los paneles a 5 HP y 10 HP.
 
 ## scaner
 
