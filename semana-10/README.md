@@ -18,3 +18,22 @@ Entrada de fuente de poder.
 Salida XLR.
 
 Salida para jack TS de 1/4".
+
+
+## ver componentes nuevos
+
+## vcv rack
+
+hacer copia de 
+
+## tacto48
+
+hacer caja en impresion 3d con:
+
+Entrada XLR.
+
+Entrada de fuente de poder.
+
+Salida XLR.
+
+Salida para jack TS de 1/4".
