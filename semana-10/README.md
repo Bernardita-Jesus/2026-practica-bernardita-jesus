@@ -10,3 +10,11 @@
 | 2026-10-02 | Viernes  |                                                      |           | 000 / 000               |
 | 2026-10-03 | Sábado   |                                                      |           | 000 / 000               |
 | 2026-10-04 | Domingo  |                                                      |           | 000 / 000               |
+
+Entrada XLR.
+
+Entrada de fuente de poder.
+
+Salida XLR.
+
+Salida para jack TS de 1/4".
