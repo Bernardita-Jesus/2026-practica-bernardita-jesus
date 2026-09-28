@@ -25,6 +25,12 @@ adjuntar foto de las impresiones en comparación*
 
 ## Portafolio web
 
+aaron me encargo trabajar en mi portafolio ya que es necesario para cualquier trabajo o ayudandia, para postular y mostrar mis proyectos.
+
+yo hace un tiempo tenia pensado hacer una pagina web, para recopilar mis proyectos, y como tendre la semana de receso, a esto lo dedicare al menos un dia intenso de desarrollar la web, con una mejor descripcion de lo que quiero, lo que hago, los que soy, mis intereses... 
+
+hice una seleccion de proyectos de los que tengo buenos registros, de lo que nuevamnente reitero, por la experiencia, el registro es importante para un 
+
 ### Referentes
 
 https://lav.io/
