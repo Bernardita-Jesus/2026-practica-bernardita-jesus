@@ -37,3 +37,26 @@ Entrada de fuente de poder.
 Salida XLR.
 
 Salida para jack TS de 1/4".
+
+https://audiosystemsmusic.cl/products/rea0024
+
+https://www.cabezacuadrada.cl/product/jack-mono-gls/
+
+https://www.cabezacuadrada.cl/product/jack-mono-cerrado/
+
+boss ch2
+
+estandar entrada derecha salida izquierda
+
+
+ejemplo ampli piezo electrico 
+
+drum thing electro faustus
+
+mic condenser
+
+preamp piezo
+
+https://audiosystemsmusic.cl/products/rea0024
+
+https://www.katode.cl/busqueda
