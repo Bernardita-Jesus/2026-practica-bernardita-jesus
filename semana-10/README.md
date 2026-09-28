@@ -24,7 +24,7 @@ Salida para jack TS de 1/4".
 
 ## vcv rack
 
-hacer copia de 
+hacer copia de popusintesis
 
 ## tacto48
 
