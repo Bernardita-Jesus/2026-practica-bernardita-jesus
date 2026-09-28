@@ -34,3 +34,5 @@ Conversatorio del libro *El Casio y tú*, y su influencia en el disco *Esquemas 
 Añadir foto en el Planetario de la USACH.
 
 Añadir foto de libros y compras.
+
+### caja

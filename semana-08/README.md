@@ -25,11 +25,11 @@ adjuntar foto de las impresiones en comparación*
 
 ## Portafolio web
 
-aaron me encargo trabajar en mi portafolio ya que es necesario para cualquier trabajo o ayudandia, para postular y mostrar mis proyectos.
+Aarón me encargó trabajar en mi **portafolio**, ya que es necesario para postular a cualquier trabajo o ayudantía y para mostrar mis proyectos.
 
-yo hace un tiempo tenia pensado hacer una pagina web, para recopilar mis proyectos, y como tendre la semana de receso, a esto lo dedicare al menos un dia intenso de desarrollar la web, con una mejor descripcion de lo que quiero, lo que hago, los que soy, mis intereses... 
+Hace un tiempo tenía pensado hacer una **página web para recopilar mis proyectos**. Como tendré la semana de receso, le dedicaré al menos un día intenso a desarrollarla, con una mejor descripción de lo que quiero, lo que hago, lo que soy y mis intereses.
 
-hice una seleccion de proyectos de los que tengo buenos registros, de lo que nuevamnente reitero, por la experiencia, el registro es importante para un 
+Hice una **selección de proyectos** de los que tengo buenos registros. Por experiencia, nuevamente reitero que **el registro es importante en un proceso artístico y creativo**.
 
 ### Referentes
 
