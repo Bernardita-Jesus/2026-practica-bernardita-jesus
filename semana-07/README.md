@@ -52,16 +52,16 @@ Como mencioné, antes los paneles los estábamos desarrollando en dos medidas, e
 
 Ya que en las pruebas con los elementos no podían montarse sobre los paneles de 4 HP dos entradas o salidas de jacks TS de 3,5 mm una al lado de la otra, decidí cambiar las medidas de los paneles a 5 HP y 10 HP.
 
-## scaner
+## Escáner
 
 https://structure.io/
 
 nos escaneamos para la pagina web
 
-Link de aaron y mateo rebotando*
+Link de Aarón y Mateo rebotando*
 
 https://piruetas.xyz/rebotar.html
 
-## salidas
+## Salidas
 
-### museo violeta parra
+### Museo Violeta Parra

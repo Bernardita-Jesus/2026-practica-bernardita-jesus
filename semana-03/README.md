@@ -10,7 +10,7 @@
 
 [Canción Cajas y Paneles](https://open.spotify.com/track/2u25nSWGGJX8sIOAHxgFvD)
 
-## Popusintesíntesis
+## Popusíntesis
 
 Mediante la lectura de este borrador a la candidatura del proyecto de tesis, comprendí el fin y el planteamiento de esta tesis, que busca, a nivel cultural, popularizar la síntesis, dándole el valor material situado, **software** y **hardware** de fuente abierta y a bajo costo.
 

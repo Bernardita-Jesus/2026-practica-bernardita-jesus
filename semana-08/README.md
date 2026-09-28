@@ -1,4 +1,4 @@
-# semana-08
+# Semana-08
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
@@ -23,7 +23,7 @@ Con este cambio, ya vamos en la versión **0.0.9**.
 
 adjuntar foto de las impresiones en comparación*
 
-## portafolio web
+## Portafolio web
 
 ### Referentes
 
@@ -31,5 +31,5 @@ https://lav.io/
 
 ## Salidas
 
-### licenciatura mateo y janis
+### Licenciatura Mateo y Janis
 

@@ -158,7 +158,7 @@ Lo presentado fue un éxito total. Había muchas autoridades de la USACH. Fue un
 
 ![foto](./imagenes/foto-17.jpg)
 
-Además de esto, el miércoles 26 de agisto, Aarón me encargó **preparar una serie de elementos** para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía **llevar todos los sintetizadores con su equipamiento** completo para poder utilizarlos durante la clase.
+Además de esto, el miércoles 26 de agosto, Aarón me encargó **preparar una serie de elementos** para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía **llevar todos los sintetizadores con su equipamiento** completo para poder utilizarlos durante la clase.
 
 ### Lanzamiento web Biblioteca Cuir
 
