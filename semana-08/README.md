@@ -1,5 +1,7 @@
 # Semana-08
 
+## Resumen de días, temas y horas
+
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-09-07 | Lunes    |                                                      |           | 000 / 000               |
@@ -8,8 +10,6 @@
 | 2026-09-11 | Viernes  |                                                      |           | 000 / 000               |
 | 2026-09-12 | Sábado   |                                                      |           | 000 / 000               |
 | 2026-09-13 | Domingo  |                                                      |           | 000 / 000               |
-
-## Resumen de días, temas y horas
 
 ## Paneles
 

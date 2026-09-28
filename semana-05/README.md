@@ -1,5 +1,7 @@
 # Semana-05
 
+## Resumen de días, temas y horas
+
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-17 | Lunes    | Planificación, OpenScad                              | LID       | 006 / 006               |

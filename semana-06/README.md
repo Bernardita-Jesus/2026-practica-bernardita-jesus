@@ -1,5 +1,7 @@
 # Semana-06
 
+## Resumen de días, temas y horas
+
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-24 | Lunes    | planificación, VCV Rack, Prueba de sonido, Lanzamiento web | LID, USACH, Centro Cultural España | 008 / 008 |
