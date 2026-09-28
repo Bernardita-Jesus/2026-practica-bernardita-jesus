@@ -27,4 +27,4 @@ Desarrollo de carcasas para sintetizadores modulares en formato Eurorack, modela
 | [16](./semana-16/) | 11-09 lun  |                                              | 000 / 000              |
 | [17](./semana-17/) | 11-16 lun  |                                              | 000 / 000              |
 | [18](./semana-18/) | 11-23 lun  |                                              | 000 / 000              |
-| **Total**          |            |                                              | **191**                |
+| **Total**          |            |                                              | **131**                |
