@@ -1,13 +1,15 @@
 # Semana-07
 
+## Resumen de días, temas y horas
+
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
-| :--------- | :------- | :--------------------------------------------------  | :-------- | :---------------------- |
-| 2026-08-31 | Lunes    | ---------------------------------------------------  | LID       | 008 / 008 |
-| 2026-09-01 | Martes   | ---------------------------------------------------  |           | 004 / 012               |
-| 2026-09-03 | Jueves   | ---------------------------------------------------  | Repu 180, LID | 005 / 017           |
-| 2026-09-04 | Viernes  | ---------------------------------------------------  |           |               006 / 023 |
-| 2026-09-05 | Sábado   | ---------------------------------------------------  | Casa      | 004 / 027               |
-| 2026-09-06 | Domingo  | ---------------------------------------------------  | Casa      | 003 / 030               |
+| :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
+| 2026-08-31 | Lunes    |                                                      |           | 000 / 000               |
+| 2026-09-01 | Martes   |                                                      |           | 000 / 000               |
+| 2026-09-03 | Jueves   |                                                      |           | 000 / 000               |
+| 2026-09-04 | Viernes  |                                                      |           | 000 / 000               |
+| 2026-09-05 | Sábado   |                                                      |           | 000 / 000               |
+| 2026-09-06 | Domingo  |                                                      |           | 000 / 000               |
 
 ## Correcciones Paneles
 
@@ -52,16 +54,16 @@ Como mencioné, antes los paneles los estábamos desarrollando en dos medidas, e
 
 Ya que en las pruebas con los elementos no podían montarse sobre los paneles de 4 HP dos entradas o salidas de jacks TS de 3,5 mm una al lado de la otra, decidí cambiar las medidas de los paneles a 5 HP y 10 HP.
 
-## scaner
+## Escáner
 
 https://structure.io/
 
 nos escaneamos para la pagina web
 
-Link de aaron y mateo rebotando*
+Link de Aarón y Mateo rebotando*
 
 https://piruetas.xyz/rebotar.html
 
-## salidas
+## Salidas
 
-### museo violeta parra
+### Museo Violeta Parra

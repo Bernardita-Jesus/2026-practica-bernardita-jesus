@@ -1,5 +1,7 @@
 # Semana-05
 
+## Resumen de días, temas y horas
+
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-17 | Lunes    | Planificación, OpenScad                              | LID       | 006 / 006               |
@@ -110,7 +112,7 @@ Para el pseudocódigo **enlisté** todos los elementos que tiene que tener el pa
 
 ### Tránsitos perceptivos
 
-**Performance audiovisual de escucha colectiva, por Martin Gubbins y Noctilucente.**
+**Performance audiovisual de escucha colectiva, por Martín Gubbins y Noctilucente.**
 
 El martes 18 de agosto, fuimos junto a Aarón a una tocata en el **Centro Cultural España**, en el Salón Nube. Primero, yo no conocía este espacio; tenía varias obras expuestas, libros y diversas salas. Aquí es donde, la otra semana, **Biblioteca Cuir** hará el lanzamiento de su libro, para lo que Piruetas también está trabajando en su página web.
 
@@ -122,7 +124,7 @@ Este video estaba proyectado y el salón estaba apagado. El video era una **visu
 
 #### Post tenebras lux
 
-**Martin Gubbins**, junto a **Noctilucente**, presentó una performance donde su **voz y sus poemas**, narrados hacia un micrófono, eran intervenidos por diversos **efectos de pedales**. Era pura experimentación sonora, acompañada de Noctilucente, quien musicalizaba con sintetizadores y MIDI.
+**Martín Gubbins**, junto a **Noctilucente**, presentó una performance donde su **voz y sus poemas**, narrados hacia un micrófono, eran intervenidos por diversos **efectos de pedales**. Era pura experimentación sonora, acompañada de Noctilucente, quien musicalizaba con sintetizadores y MIDI.
 
 ![foto](imagenes//foto-12.jpeg)
 
@@ -174,7 +176,7 @@ Esta performance era una combinación de **diferentes manifestaciones sonoras**.
 
 Rescato de estos eventos, que por cierto, muchas gracias Aarón por la invitación; de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican **atención activa a escuchar poesía**, propuestas o proyectos. Me parece un acto bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un **enorme valor apoyar y celebrar el trabajo de los demás**.
 
-Esta es una de las razones por las que pretendo dedicarme a la academia y por las que me cautiva tanto un proyecto como en el que estoy apoyando a Aarón; la **Popusintésis**. Hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas, porque de esos **espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas**.
+Esta es una de las razones por las que pretendo dedicarme a la academia y por las que me cautiva tanto un proyecto como en el que estoy apoyando a Aarón; la **Popusíntesis**. Hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas, porque de esos **espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas**.
 
 
 Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: leer, escribir, pensar, relacionar y crear, porque creemos que el conocimiento, la sensibilidad y la reflexión crítica que desde allí generamos es nuestro mayor aporte a la sociedad […]”.

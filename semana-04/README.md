@@ -1,5 +1,7 @@
 # Semana-04
 
+## Resumen de días, temas y horas
+
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-10 | Lunes    | Planificación, Git, VCV Rack, Referentes             | LID       | 007 / 007               |

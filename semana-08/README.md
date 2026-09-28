@@ -1,4 +1,15 @@
-# semana-08
+# Semana-08
+
+## Resumen de días, temas y horas
+
+| Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
+| :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
+| 2026-09-07 | Lunes    |                                                      |           | 000 / 000               |
+| 2026-09-08 | Martes   |                                                      |           | 000 / 000               |
+| 2026-09-10 | Jueves   |                                                      |           | 000 / 000               |
+| 2026-09-11 | Viernes  |                                                      |           | 000 / 000               |
+| 2026-09-12 | Sábado   |                                                      |           | 000 / 000               |
+| 2026-09-13 | Domingo  |                                                      |           | 000 / 000               |
 
 ## Paneles
 
@@ -12,7 +23,13 @@ Con este cambio, ya vamos en la versión **0.0.9**.
 
 adjuntar foto de las impresiones en comparación*
 
-## portafolio web
+## Portafolio web
+
+aaron me encargo trabajar en mi portafolio ya que es necesario para cualquier trabajo o ayudandia, para postular y mostrar mis proyectos.
+
+yo hace un tiempo tenia pensado hacer una pagina web, para recopilar mis proyectos, y como tendre la semana de receso, a esto lo dedicare al menos un dia intenso de desarrollar la web, con una mejor descripcion de lo que quiero, lo que hago, los que soy, mis intereses... 
+
+hice una seleccion de proyectos de los que tengo buenos registros, de lo que nuevamnente reitero, por la experiencia, el registro es importante para un 
 
 ### Referentes
 
@@ -20,5 +37,5 @@ https://lav.io/
 
 ## Salidas
 
-### licenciatura mateo y janis
+### Licenciatura Mateo y Janis
 
