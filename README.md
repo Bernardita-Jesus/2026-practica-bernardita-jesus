@@ -13,7 +13,7 @@ Desarrollo de carcasas para sintetizadores modulares en formato Eurorack, modela
 | [03](./semana-03/) | 08-03 lun  | Módulo relo construido, Pruebas de impresión | 022 / 066              |
 | [04](./semana-04/) | 08-10 lun  | Copia VCV Rack, Lectura tesis, Entorno de desarrollo | 014 / 080      |
 | [05](./semana-05/) | 08-17 lun  | Seudocódigo, OpenSCAD                        | 021 / 101              |
-| [06](./semana-06/) | 08-24 lun  | VCV Rack, OpenSCAD, impresión 3D, registro, Popusintetizando | 090 / 131 |
+| [06](./semana-06/) | 08-24 lun  | VCV Rack, OpenSCAD, impresión 3D, registro, Popusintetizando | 030 / 131 |
 | [07](./semana-07/) | 08-31 lun  |                                              | 000 / 000              |
 | [08](./semana-08/) | 09-07 lun  |                                              | 000 / 000              |
 | receso             | 09-14 lun  |                                              | 000 / 000              |
