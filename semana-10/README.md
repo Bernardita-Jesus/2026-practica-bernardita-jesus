@@ -60,3 +60,8 @@ preamp piezo
 https://audiosystemsmusic.cl/products/rea0024
 
 https://www.katode.cl/busqueda
+
+
+## caja para amplificador piezo electrico
+
+https://cults3d.com/es/modelo-3d/artilugios/1590a-pedal-case-enclosure-3d-printable
