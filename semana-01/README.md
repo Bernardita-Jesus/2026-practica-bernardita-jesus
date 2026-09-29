@@ -197,9 +197,9 @@ https://www.kickstarter.com/projects/oficinadesonido/my-first-modular
 
 ### Pruebas materiales
 
-![](imagenes/foto04.jpg)
+![foto](imagenes/foto04.jpg)
 
-![](imagenes/foto01.jpeg)
+![foto](imagenes/foto01.jpeg)
 
 ## Por investigar
 
