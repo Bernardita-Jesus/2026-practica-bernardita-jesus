@@ -59,7 +59,4 @@ https://audiosystemsmusic.cl/products/rea0024
 
 https://www.katode.cl/busqueda
 
-
-## Caja para amplificador piezoeléctrico
-
 https://cults3d.com/es/modelo-3d/artilugios/1590a-pedal-case-enclosure-3d-printable
