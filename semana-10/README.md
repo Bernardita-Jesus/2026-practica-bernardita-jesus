@@ -9,7 +9,7 @@
 | 2026-10-01 | Jueves   |                                                      |           | 000 / 000               |
 | 2026-10-02 | Viernes  |                                                      |           | 000 / 000               |
 | 2026-10-03 | Sábado   |                                                      |           | 000 / 000               |
-| 2026-10-04 | Domingo  |                                                      |           | 000 / 000               |
+| 2026-10-04 | Domingo  | Documentación                                        | Casa      | 003 / 017               |
 
 
 ## Componentes
