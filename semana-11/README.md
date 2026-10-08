@@ -12,9 +12,9 @@
 | 2026-10-10 | Sábado   |                                                      |           | 000 / 000               |
 | 2026-10-11 | Domingo  |                                                      |           | 000 / 000               |
 
-## Tacto 42
+## Tacto 48
 
-**Tacto 42** es un amplificador para micrófono piezoeléctrico (de contacto), que va dentro de una caja Hammond. La semana pasada diseñé la caja en **OpenSCAD** y la imprimí en 3D en la Bambu Lab; para probar las perforaciones que encajen los elementos, la caja solo tiene:
+**Tacto 48** es un amplificador para micrófono piezoeléctrico (de contacto), que va dentro de una caja Hammond. La semana pasada diseñé la caja en **OpenSCAD** y la imprimí en 3D en la Bambu Lab; para probar las perforaciones que encajen los elementos, la caja solo tiene:
 
 En la siguiente foto se pueden ver las tapas impresas en 3D de la versión **v0.0.1**, por fuera y por dentro; una con el conector XLR y otra con el jack de 1/8".
 

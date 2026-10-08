@@ -20,23 +20,41 @@ Fuimos a buscar a Pedro de Valdivia los componentes que llegaron de **[Thonk](ht
 
 Hacer copia de Popusíntesis.
 
-## Tacto 42
+## Tacto 48
 
 ### Caja para amplificador piezoeléctrico
 
-**Tacto 42** es un amplificador para micrófono piezoeléctrico (de contacto). Esta semana diseñé su caja en **OpenSCAD**, basándome en el formato de la caja Hammond 1590A, para imprimirla en 3D y probar que los conectores calcen en las perforaciones. Por el momento, la caja solo tiene:
+**Tacto 48** es un amplificador para micrófono piezoeléctrico (de contacto). Esta semana diseñé su caja en **OpenSCAD**, de 50 × 40 × 80 mm y basada en un perfil de aluminio de JLC pero con las paredes lisas, para imprimirla en 3D y probar que los conectores calcen en las perforaciones. Por el momento, la caja solo tiene:
 
 - Entrada XLR.
 
 - Salida para jack TS de 1/4" o de 1/8".
 
-Como base tomé este modelo de caja 1590A imprimible en 3D:
+Como referencia revisé este modelo de caja 1590A imprimible en 3D:
 
 https://cults3d.com/es/modelo-3d/artilugios/1590a-pedal-case-enclosure-3d-printable
 
 #### Diseño e impresión
 
-En la siguiente captura se puede ver el código principal de **Tacto 42** en **OpenSCAD** y el ensamble de la caja con sus tapas.
+Para el diseño y la impresión, primero hice una copia del repositorio de **Tacto 48**, donde está el código del diseño de la PCB. Ahí creé una nueva carpeta llamada **[modelado-caja](https://github.com/Bernardita-Jesus/tacto48/tree/main/modelado-caja)**, en la que subí los modelados de la caja.
+
+Organicé el código en varios archivos, para que cada uno tenga una sola función:
+
+- **tacto48.scad:** Es el archivo principal. Con la variable `pieza` elijo qué ver: la caja, la tapa del jack, la tapa del XLR o todo el ensamble.
+
+- **tacto48_caja.scad:** Es el perfil de la caja, extruido a lo largo y abierto en los dos extremos, con columnas en las esquinas para los tornillos M3 de las tapas.
+
+- **tacto48_tapa.scad:** Son las dos tapas que cierran los extremos. Una lleva la perforación del jack y dos separadores hacia adentro para atornillar la PCB rev-b; la otra lleva la perforación del XLR.
+
+- **constantes.scad:** Aquí están todas las medidas: el perfil, los tornillos, las tapas, los conectores y la PCB. Al inicio está `TOLERANCIA`, el juego del encaje entre la tapa y la caja, que puedo subir o bajar según la impresora.
+
+- **formas.scad:** Son los módulos generales que reutilizo en todas las piezas, como el rectángulo con esquinas redondeadas y las perforaciones y cilindros para los tornillos M3.
+
+Como todas las medidas están en constantes, puedo cambiar una medida o una tolerancia en un solo lugar y se actualizan todas las piezas. Lo más importante es que así pude probar las dimensiones de las perforaciones de las piezas que tenían que apernarse: el jack TS de 3,5 mm (agujero de 6,2 mm), el XLR (24 mm más la tolerancia, con dos tornillos M3 en diagonal) y los tornillos M3 de las tapas y de la PCB.
+
+También incluí un control de versiones. La versión está en la constante `VERSION` y se graba con `difference()` en cada pieza: en la cara exterior de las tapas, bajo el conector, y en el costado izquierdo de la caja. Así, cuando imprimo una prueba, sé exactamente a qué versión del código corresponde. En el README de la carpeta anoté qué tiene cada versión, partiendo por la **v0.0.1**, y cada vez que la cambio vuelvo a exportar los STL.
+
+En la siguiente captura se puede ver el código principal de **Tacto 48** en **OpenSCAD** y el ensamble de la caja con sus tapas.
 
 ![captura](./imagenes/captura-21.png)
 
