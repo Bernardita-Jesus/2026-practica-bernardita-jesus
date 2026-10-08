@@ -20,43 +20,48 @@ Fuimos a buscar a Pedro de Valdivia los componentes que llegaron de **[Thonk](ht
 
 Hacer copia de Popusíntesis.
 
-## Tacto48
+## Tacto 42
 
 ### Caja para amplificador piezoeléctrico
 
-https://cults3d.com/es/modelo-3d/artilugios/1590a-pedal-case-enclosure-3d-printable
-
-
-Hacer caja en impresión 3D que, por el momento, solo tiene:
+**Tacto 42** es un amplificador para micrófono piezoeléctrico (de contacto). Esta semana diseñé su caja en **OpenSCAD**, basándome en el formato de la caja Hammond 1590A, para imprimirla en 3D y probar que los conectores calcen en las perforaciones. Por el momento, la caja solo tiene:
 
 - Entrada XLR.
 
 - Salida para jack TS de 1/4" o de 1/8".
 
-En la siguiente captura se puede ver la impresión de las tapas de la caja de **tacto48** desde la cámara de la Bambu Lab, en Bambu Studio.
+Como base tomé este modelo de caja 1590A imprimible en 3D:
 
-![captura](./imagenes/captura-20.png)
+https://cults3d.com/es/modelo-3d/artilugios/1590a-pedal-case-enclosure-3d-printable
 
-En la siguiente captura se puede ver el código principal de **tacto48** en **OpenSCAD** y el ensamble de la caja con sus tapas.
+#### Diseño e impresión
+
+En la siguiente captura se puede ver el código principal de **Tacto 42** en **OpenSCAD** y el ensamble de la caja con sus tapas.
 
 ![captura](./imagenes/captura-21.png)
 
-https://audiosystemsmusic.cl/products/rea0024
+En la siguiente captura se puede ver la impresión de las tapas de la caja desde la cámara de la Bambu Lab, en Bambu Studio.
 
-https://www.cabezacuadrada.cl/product/jack-mono-gls/
+![captura](./imagenes/captura-20.png)
 
-https://www.cabezacuadrada.cl/product/jack-mono-cerrado/
+En la siguiente foto se pueden ver las tapas ya impresas en 3D, versión **v0.0.1**, por fuera y por dentro: una con el conector XLR y otra con el jack de 1/8".
 
-El **Boss CH-2** es un pedal que cumple con el estándar de tener la **entrada a la derecha y la salida a la izquierda**.
+![foto](../semana-11/imagenes/foto-34.jpg)
 
-Como ejemplo de amplificador piezoeléctrico está el **Drum Thing de Electro-Faustus**.
+#### Referencias
 
-Mic condenser.
+- **Boss CH-2:** Es un pedal que cumple con el estándar de tener la **entrada a la derecha y la salida a la izquierda**, y lo tomo como referencia para ubicar los conectores.
 
-Preamp piezo.
+- **Drum Thing de Electro-Faustus:** Es un ejemplo de amplificador piezoeléctrico.
 
-https://audiosystemsmusic.cl/products/rea0024
+- **Por investigar:** Micrófono condensador y preamplificador para piezo.
 
-https://www.katode.cl/busqueda
+#### Componentes y proveedores
 
-https://cults3d.com/es/modelo-3d/artilugios/1590a-pedal-case-enclosure-3d-printable
+- https://audiosystemsmusic.cl/products/rea0024
+
+- Jack mono GLS: https://www.cabezacuadrada.cl/product/jack-mono-gls/
+
+- Jack mono cerrado: https://www.cabezacuadrada.cl/product/jack-mono-cerrado/
+
+- Búsqueda de componentes en Katode: https://www.katode.cl/busqueda
