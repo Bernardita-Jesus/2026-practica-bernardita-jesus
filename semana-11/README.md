@@ -38,6 +38,28 @@ Esta es la caja Hammond que vamos a utilizar para el producto.
 
 https://www.katode.cl/cajas-de-aluminio/159-caja-aluminio-1590a-ultra-pequena.html
 
+### Propuesta de diagramación de la caja Hammond
+
+La caja Hammond 1590A mide aproximadamente 92,6 × 38,5 × 31 mm por fuera (tengo que confirmar las medidas en la hoja de datos de Hammond). Es una caja muy pequeña, así que la ubicación de cada componente depende sobre todo del espacio que ocupa por dentro, no solo del agujero.
+
+Los componentes que tiene que llevar la caja son tres:
+
+- **Entrada jack TS:** Para el micrófono piezoeléctrico, de 1/8.
+
+- **Salida XLR:** Como fuente de poder y salida.
+
+- **PCB:** El circuito del amplificador.
+
+#### Ubicación de cada componente
+
+- **Entrada jack (cara lateral derecha):** Siguiendo el estándar de pedales como el Boss CH-2, pongo la entrada en el lado derecho, centrada en altura y cerca del extremo inferior de la caja. El jack de 1/8 de aproximadamente 6 mm.
+
+- **Salida XLR (cara superior, extremo opuesto):** El conector XLR de panel es la pieza más grande. Su base mide casi lo mismo que la altura de la caja, así que en las caras laterales probablemente no cabe. Por eso propongo ponerlo en la cara superior, en el extremo contrario al jack, para que los cables no se crucen y el conector quede accesible.
+
+- **PCB (fondo de la caja, al centro):** La PCB va adento de la caja, arriba, La fijaré con el velcro **3M Dual Lock** o con separadores (standoffs), y pongo una lámina aislante debajo, porque el aluminio conduce electricidad.
+
+### Diagramación de laa caja Hammond
+
 ### Limitaciones del corte láser en aluminio
 
 - **Láser CO2:** Es el láser más común y no corta aluminio. El aluminio refleja casi toda la luz de este tipo de láser. No alcanza a fundir el metal. Además, ese reflejo puede dañar los espejos y el lente de la máquina.
@@ -55,5 +77,4 @@ https://www.katode.cl/cajas-de-aluminio/159-caja-aluminio-1590a-ultra-pequena.ht
 - **Plantilla de acrílico o MDF cortada en láser:** Corto una placa con los agujeros en la cortadora láser, la apoyo sobre las caras de la caja y marco o perforo a través de ella. Se podría reutilizar.
 
 - **Jig impreso en 3D:** Es una pieza que encaja sobre la caja como una tapa, con los agujeros ya ubicados. No se mueve al taladrar.
-
 
