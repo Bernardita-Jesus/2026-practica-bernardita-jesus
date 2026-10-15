@@ -15,6 +15,6 @@
 
 Esta semana llegaron las PCB diseñadas por [Aarón](https://github.com/montoyamoraga) junto a [Mati](https://github.com/misaaaaaa). Corresponden a una fuente de poder para sintetizadores en formato Eurorack, pensada para utilizarse en los **Popusintes**.
 
-La idea es incorporarla a las cajas y paneles que estamos desarrollando y, además, ofrecerla como un **producto independiente**, ampliando las posibilidades de uso de este componente en otros sistemas Eurorack.
+La idea es incorporarla a las cajas y paneles que estamos desarrollando y, además, ofrecerla como un **producto independiente**. Una vez recibidas las PCB, probamos la fuente de poder conectándola a distintos módulos de sintetizadores para comprobar su funcionamiento.
 
 Como parte de esta práctica e investigación, tomé registros fotográficos del proceso para documentar y compartir el desarrollo de los Popusintes. Esto busca contribuir a la popularización de la síntesis electrónica, visibilizando el trabajo que hay detrás de su fabricación y generando conversación y difusión en torno a este tema.
