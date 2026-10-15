@@ -82,7 +82,7 @@ De esta manera puedo abrir VCV Rack desde la copia local y trabajar con los mód
 
 ### Ajustes y correcciones de los módulos
 
-Recta y Embo tenían el tamaño de los LED diferentes, por lo que Aarón corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
+Recta y Embo tenían el tamaño de los LED diferentes, por lo que [Aarón](https://github.com/montoyamoraga) corrigió en el código esas medidas para tomarlas en relación con el módulo Combo, con LED de tamaño mediano.
 
 Esto fue lo que me dio la oportunidad de aprender a actualizar los cambios y hacer **git pull**, lo que anteriormente registré.
 
@@ -90,9 +90,9 @@ En la siguiente captura se pueden ver los **módulos de la copia local remota en
 
 ![captura](./imagenes/captura-15.png)
 
-Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó Aarón y corrigió en el código.
+Los cambios de los LED, además de las perforaciones de los módulos más angostos, fueron algunos de los alcances que tomó [Aarón](https://github.com/montoyamoraga) y corrigió en el código.
 
-Los cambios que habrá que hacer respecto de las gráficas los verá Mateo.
+Los cambios que habrá que hacer respecto de las gráficas los verá [Mateo](https://github.com/matbutom).
 
 ### Módulos actualizados publicados
 
@@ -112,7 +112,7 @@ VCV Library, en donde se van subiendo los archivos de todas las personas a Issue
 
 ## Paneles
 
-A medida que fuimos corrigiendo las medidas en el código, Aarón optimizó los códigos, **estableciendo referencias generales**. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
+A medida que fuimos corrigiendo las medidas en el código, [Aarón](https://github.com/montoyamoraga) optimizó los códigos, **estableciendo referencias generales**. Estas medidas se utilizaron para crear nuevos códigos para el modelado de los paneles.
 
 Por lo que, durante la semana, imprimí todos estos paneles con sus respectivas cajas.
 
@@ -152,7 +152,7 @@ Las perforaciones con las que se apernan los paneles a las cajas y botes deberí
 
 ### Popusintetizando en USACH
 
-El lunes 24 de agosto fuimos a una prueba de sonido para una charla en la que invitaron a Aarón a participar. La charla era (agregar información después). Fuimos a la universidad con los sintetizadores que organizamos el jueves, además de amplificadores, cables, transformadores y mixers.
+El lunes 24 de agosto fuimos a una prueba de sonido para una charla en la que invitaron a [Aarón](https://github.com/montoyamoraga) a participar. La charla era (agregar información después). Fuimos a la universidad con los sintetizadores que organizamos el jueves, además de amplificadores, cables, transformadores y mixers.
 
 El martes 25 de agosto fui como **apoyo técnico de backline**. Por cierto, no conocía este concepto, pero fue más o menos el rol que cumplí. Esto quiere decir **preparar, montar, mantener y guardar los instrumentos y equipos de los músicos**.
 
@@ -160,7 +160,7 @@ Lo presentado fue un éxito total. Había muchas autoridades de la USACH. Fue un
 
 ![foto](./imagenes/foto-17.jpg)
 
-Además de esto, el miércoles 26 de agosto, Aarón me encargó **preparar una serie de elementos** para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía **llevar todos los sintetizadores con su equipamiento** completo para poder utilizarlos durante la clase.
+Además de esto, el miércoles 26 de agosto, [Aarón](https://github.com/montoyamoraga) me encargó **preparar una serie de elementos** para realizar una clase de reemplazo del Mati en la Universidad de Chile. Seguí las indicaciones al pie de la letra; debía **llevar todos los sintetizadores con su equipamiento** completo para poder utilizarlos durante la clase.
 
 ### Lanzamiento web Biblioteca Cuir
 

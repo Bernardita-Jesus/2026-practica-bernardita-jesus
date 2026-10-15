@@ -163,7 +163,7 @@ Para la carcasa, en este caso del sintetizador Relo, debemos decidir primero, y 
 
 ![foto pcb](imagenes/foto06.jpeg)
 
-Según la tesis de Aarón, este sintetizador busca ser un elemento popular, un objeto cotidiano en nuestro espacio, sin una pretensión material o un diseño extremadamente delicado. La idea es que sea casi un juguete para acercar a las personas al mundo de la síntesis, sin tener que contar con un montón de instrumentos para hacerlo funcionar, pero que, de igual manera, pueda convivir en conjunto con otros dispositivos.
+Según la tesis de [Aarón](https://github.com/montoyamoraga), este sintetizador busca ser un elemento popular, un objeto cotidiano en nuestro espacio, sin una pretensión material o un diseño extremadamente delicado. La idea es que sea casi un juguete para acercar a las personas al mundo de la síntesis, sin tener que contar con un montón de instrumentos para hacerlo funcionar, pero que, de igual manera, pueda convivir en conjunto con otros dispositivos.
 
 #### Oskitone
 

@@ -36,7 +36,7 @@ Comprendo que al publicar en **VCV Rack** se busca la **popularización y genera
 
 La razón de desarrollar las carcasas de forma paramétrica no solo es la optimización, sino tener la opción de utilizar otros módulos **rack** que convivan con Popusintes.
 
-Conversando con Aarón sobre mis alcances de este borrador de tesis, una idea que surge de Aarón para un futuro proyecto podría venir de los **platillos de cueca chora**, ya que usarlos los destruye; la metáfora de esa fragilidad, referencia de Petter Blasser, sin interés en la pretensión de la precisión y la rapidez.
+Conversando con [Aarón](https://github.com/montoyamoraga) sobre mis alcances de este borrador de tesis, una idea que surge de [Aarón](https://github.com/montoyamoraga) para un futuro proyecto podría venir de los **platillos de cueca chora**, ya que usarlos los destruye; la metáfora de esa fragilidad, referencia de Petter Blasser, sin interés en la pretensión de la precisión y la rapidez.
 
 Consulté algunas dudas de la tesis, como el cronograma a largo plazo, ya que el próximo semestre también contempla una etapa de testeo de módulos.
 

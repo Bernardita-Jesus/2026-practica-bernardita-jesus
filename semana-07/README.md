@@ -66,7 +66,7 @@ https://structure.io/
 
 nos escaneamos para la pagina web
 
-Link de Aarón y Mateo rebotando*
+Link de [Aarón](https://github.com/montoyamoraga) y [Mateo](https://github.com/matbutom) rebotando*
 
 https://piruetas.xyz/rebotar.html
 
