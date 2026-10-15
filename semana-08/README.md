@@ -95,5 +95,7 @@ https://github.com/Bernardita-Jesus/portafolio
 
 ### Licenciatura Mateo y Janis
 
-El lunes 7 de septiembre fui junto a [Aarón](https://github.com/montoyamoraga) a la ceremonia de licenciatura de [Mateo](https://github.com/matbutom) y [Janis](https://github.com/janisepulveda). Ambos recibieron el reconocimiento de **distinción máxima**. Además, [Mateo](https://github.com/matbutom) ganó el premio al **mejor ayudante** y [Janis](https://github.com/janisepulveda) el de **mejor proyecto de título**.
+El lunes 7 de septiembre fuimos junto a [Aarón](https://github.com/montoyamoraga) a la ceremonia de licenciatura de [Mateo](https://github.com/matbutom) y [Janis](https://github.com/janisepulveda). Ambos se graduaron con distinción máxima. Además, [Mateo](https://github.com/matbutom) recibió el premio al mejor ayudante y [Janis](https://github.com/janisepulveda) el reconocimiento al mejor proyecto de título.
+
+Fue una ceremonia muy bella, que nos llenó de alegría y orgullo. Hablamos harto de ellos y de lo felices que estábamos por sus logros. Para felicitarlos, les llevamos flores.
 
