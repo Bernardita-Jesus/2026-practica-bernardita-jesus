@@ -114,7 +114,7 @@ Para el pseudocódigo **enlisté** todos los elementos que tiene que tener el pa
 
 **Performance audiovisual de escucha colectiva, por Martín Gubbins y Noctilucente.**
 
-El martes 18 de agosto, fuimos junto a Aarón a una tocata en el **Centro Cultural España**, en el Salón Nube. Primero, yo no conocía este espacio; tenía varias obras expuestas, libros y diversas salas. Aquí es donde, la otra semana, **Biblioteca Cuir** hará el lanzamiento de su libro, para lo que Piruetas también está trabajando en su página web.
+El martes 18 de agosto, fuimos junto a [Aarón](https://github.com/montoyamoraga) a una tocata en el **Centro Cultural España**, en el Salón Nube. Primero, yo no conocía este espacio; tenía varias obras expuestas, libros y diversas salas. Aquí es donde, la otra semana, **Biblioteca Cuir** hará el lanzamiento de su libro, para lo que Piruetas también está trabajando en su página web.
 
 #### Ritual
 
@@ -142,7 +142,7 @@ Fue muy gratificante conocer opciones para seguir estudiando, lo que me dará la
 
 ### Lanzamiento del libro: La academia como creación
 
-El jueves 20 de agosto, en la tarde, junto a Aarón, fuimos al **lanzamiento del libro La academia como creación**. Fue de hecho, también en el **Centro Cultural España**. El libro era una reflexión sobre la práctica creativa en la enseñanza, de la cual anoté:
+El jueves 20 de agosto, en la tarde, junto a [Aarón](https://github.com/montoyamoraga), fuimos al **lanzamiento del libro La academia como creación**. Fue de hecho, también en el **Centro Cultural España**. El libro era una reflexión sobre la práctica creativa en la enseñanza, de la cual anoté:
 
 Cuando haces una práctica iterativa, debes estar dispuesto a aprender de ese **ejercicio en la repetición**. No esperas un resultado; la iteración le da el valor, la iteración es la materialización.
 
@@ -168,15 +168,15 @@ Y por último, **Felipe Cussen**, quien me sorprendió con su propuesta, sobre t
 
 #### Ensamble místico
 
-Para cerrar este simposio, se presentó Ensamble Místico, compuesto por **Noctilucente, Tarix, María José Parga y Aarón**.
+Para cerrar este simposio, se presentó Ensamble Místico, compuesto por **Noctilucente, Tarix, María José Parga y [Aarón](https://github.com/montoyamoraga)**.
 
-Esta performance era una combinación de **diferentes manifestaciones sonoras**. En un principio sonaba un **piezo** por Aarón, acompañado de **sonidos grabados en un Volca Korg** por Tarix y el **Minilogue Korg modulado** por Noctilucente. De repente, María José Parga comenzó a **leer un poema** y su voz se dispersaba. Me impresionó su interpretación, tiene una voz muy bella y potente, y no me esperaba que utilizara un **megáfono**. Estuvo fascinante el conjunto de sonidos.
+Esta performance era una combinación de **diferentes manifestaciones sonoras**. En un principio sonaba un **piezo** por [Aarón](https://github.com/montoyamoraga), acompañado de **sonidos grabados en un Volca Korg** por Tarix y el **Minilogue Korg modulado** por Noctilucente. De repente, María José Parga comenzó a **leer un poema** y su voz se dispersaba. Me impresionó su interpretación, tiene una voz muy bella y potente, y no me esperaba que utilizara un **megáfono**. Estuvo fascinante el conjunto de sonidos.
 
 ![foto](imagenes//foto-15.jpeg)
 
-Rescato de estos eventos, que por cierto, muchas gracias Aarón por la invitación; de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican **atención activa a escuchar poesía**, propuestas o proyectos. Me parece un acto bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un **enorme valor apoyar y celebrar el trabajo de los demás**.
+Rescato de estos eventos, que por cierto, muchas gracias [Aarón](https://github.com/montoyamoraga) por la invitación; de lo que tuve la oportunidad de conversar, que me parece muy bonito y esperanzador ver cómo a estos eventos participan personas, se dan el tiempo y dedican **atención activa a escuchar poesía**, propuestas o proyectos. Me parece un acto bello y humilde escuchar al otro. Puede sonar algo muy mínimo, pero la verdad, creo que tiene un **enorme valor apoyar y celebrar el trabajo de los demás**.
 
-Esta es una de las razones por las que pretendo dedicarme a la academia y por las que me cautiva tanto un proyecto como en el que estoy apoyando a Aarón; la **Popusíntesis**. Hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas, porque de esos **espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas**.
+Esta es una de las razones por las que pretendo dedicarme a la academia y por las que me cautiva tanto un proyecto como en el que estoy apoyando a [Aarón](https://github.com/montoyamoraga); la **Popusíntesis**. Hacer las cosas más populares, abrir estos espacios a más personas, crear instancias para compartir conocimientos y discutir ideas, porque de esos **espacios llenos de sensibilidad y de ese apoyo surgen cosas bonitas**.
 
 
 Citando a Felipe Cussen: “[…] lo hicimos para ejercer lo que aprendimos: leer, escribir, pensar, relacionar y crear, porque creemos que el conocimiento, la sensibilidad y la reflexión crítica que desde allí generamos es nuestro mayor aporte a la sociedad […]”.
