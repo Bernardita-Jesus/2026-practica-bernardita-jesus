@@ -4,7 +4,7 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-10-19 | Lunes    | Fabricación, Modelado 3D, OpenSCAD                   | LID       | 008 / 008               |
+| 2026-10-19 | Lunes    |                                                      |           | 000 / 000               |
 | 2026-10-20 | Martes   |                                                      |           | 000 / 000               |
 | 2026-10-22 | Jueves   |                                                      |           | 000 / 000               |
 | 2026-10-23 | Viernes  |                                                      |           | 000 / 000               |
@@ -33,7 +33,7 @@ Hoy seguí ajustando los moldes para perforar la caja de aluminio 1590A, en el r
 
 3. Marco los dos tornillos del XLR a través de sus agujeros.
 
-4. Saco los moldes y perforo primero con la broca guía de 2 mm, y después con la broca de cada medida.
+4. perforo primero con la broca guía de 2 mm, y después con la broca de cada medida.
 
 ### Perforación de la caja
 
