@@ -29,7 +29,7 @@ En el código agregué dos constantes nuevas: **PLANTILLA_DIAMETRO_ABIERTO**, qu
 
 En la siguiente captura se pueden ver los moldes del jack y del XLR, junto al disco del XLR con la versión **v0.0.2** grabada, listos para imprimir en Bambu Studio con la Bambu Lab X1 Carbon y PLA.
 
-![captura](./imagenes/captura-22.png)
+![captura](../semana-12/imagenes/captura-22.png)
 
 #### Cómo se usa
 

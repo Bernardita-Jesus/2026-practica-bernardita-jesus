@@ -51,6 +51,10 @@ Diseñé dos **plantillas imprimibles**, una para cada extremo de la caja. Son t
 
 - **Versión grabada:** Cada plantilla lleva grabada la versión **v0.0.2**.
 
+En la siguiente captura se pueden ver en Bambu Studio los moldes impresos en 3D para perforar la caja: a la izquierda, el molde del extremo del jack, con su perforación de 6,2 mm; a la derecha, el molde del extremo del XLR, con el círculo de 24,2 mm y las dos marcas de los tornillos M3 en diagonal. Abajo está el disco del XLR, con el agujero que marca el centro y la versión **v0.0.2** grabada. Las tres piezas están listas para imprimir en la Bambu Lab X1 Carbon con PLA.
+
+![captura](./imagenes/captura-22.png)
+
 Los dos agujeros de la PCB en el fondo no van en la plantilla. Por el ángulo de desmoldeo, los bordes cambian según la altura, así que los marco a mano midiendo 12,5 mm desde el centro del fondo.
 
 ### Brocas
