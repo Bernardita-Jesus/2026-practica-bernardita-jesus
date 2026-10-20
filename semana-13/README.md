@@ -13,34 +13,38 @@
 
 ## Tacto 48
 
-### Molde para las perforaciones
+### Cambios en los moldes
 
-Hoy modifiqué los moldes que diseñé la semana pasada para perforar la caja de aluminio 1590A, en el repositorio de **[Tacto 48](https://github.com/Bernardita-Jesus/tacto48/tree/main/modelado-caja)**. Los moldes son dos tapas impresas en 3D, una para cada extremo de la caja, que entran por el extremo y abrazan los cuatro lados con una falda de 15 mm, para que no se muevan mientras marco y perforo.
+Hoy seguí ajustando los moldes para perforar la caja de aluminio 1590A, en el repositorio de **[Tacto 48](https://github.com/Bernardita-Jesus/tacto48/tree/main/modelado-caja)**, y llegué a la versión **v0.0.4**:
 
-En la primera versión, cada perforación tenía solo un agujero chico para marcar el centro y un anillo grabado con el diámetro final. Ahora separé las perforaciones según su tamaño:
+- **Perforaciones abiertas:** Dejé abiertas todas las perforaciones de los moldes, con holgura para que pase la broca: el jack a 6,8 mm, los tornillos del XLR a 4 mm y el círculo del XLR a su diámetro final de 24,2 mm.
 
-- **Perforaciones grandes:** El jack (6,2 mm) y el círculo del XLR (24,2 mm) quedan abiertos a su diámetro final, así veo directamente en la caja el contorno exacto de cada perforación.
+- **Disco del XLR:** Como el círculo del XLR queda abierto, diseñé una pieza aparte, un disco de 24 mm que calza dentro del círculo con 0,1 mm de tolerancia por lado. Tiene un agujero de 2,5 mm al centro para marcar con punzón y se saca después de marcar.
 
-- **Perforaciones chicas:** Los dos tornillos M3 del XLR mantienen el agujero de 1,5 mm para marcar el centro con punzón y el anillo grabado con el diámetro final.
+- **Disco del jack:** Hice lo mismo para el jack, con un disco de 6,6 mm y un agujero de 2,5 mm al centro.
 
-- **Disco del XLR:** Como el círculo del XLR queda abierto, diseñé una pieza aparte, un disco de 23,8 mm que calza dentro del círculo con 0,2 mm de tolerancia por lado. Tiene un agujero al centro para marcar con punzón y se saca después de marcar.
-
-En el código agregué dos constantes nuevas: **PLANTILLA_DIAMETRO_ABIERTO**, que define desde qué diámetro una perforación queda abierta (5 mm), y **DISCO_TOLERANCIA**, el juego entre el disco y el círculo, que puedo subir si el disco no entra o bajar si queda suelto. El disco también lleva grabada la versión **v0.0.2**.
-
-En la siguiente captura se pueden ver los moldes del jack y del XLR, junto al disco del XLR con la versión **v0.0.2** grabada, listos para imprimir en Bambu Studio con la Bambu Lab X1 Carbon y PLA.
-
-![captura](../semana-12/imagenes/captura-22.png)
+- **Tolerancia:** Los moldes no calzaban bien en la caja, así que subí la tolerancia entre el molde y la caja de 0,2 mm a 0,4 mm por lado. Ahora el hueco mide 39,3 × 31,8 mm para la caja de 38,5 × 31 mm.
 
 #### Cómo se usa
 
-1. Pongo el molde del jack en un extremo de la caja y el molde del XLR en el otro.
+1. Pongo cada molde en su extremo de la caja.
 
-2. En el extremo del jack, marco el contorno de la perforación abierta.
+2. Pongo el disco del jack y el disco del XLR en sus agujeros, marco el centro de cada uno con punzón y saco los discos.
 
-3. En el extremo del XLR, pongo el disco dentro del círculo, marco el centro con punzón y saco el disco.
+3. Marco los dos tornillos del XLR a través de sus agujeros.
 
-4. Marco con punzón los dos tornillos del XLR.
+4. perforo primero con la broca guía de 2 mm, y después con la broca de cada medida.
 
-5. Saco los moldes y perforo primero con la broca guía de 2 mm, y después con la broca de cada medida.
+### Perforación de la caja
 
-Los archivos para imprimir están en la carpeta **stl**: la plantilla del jack, la plantilla del XLR y el disco del XLR.
+Con los moldes de la versión **v0.0.4** perforé la caja de aluminio. De esto aprendí dos cosas:
+
+- **Broca corona para el XLR:** La perforación grande de la **salida XLR** (24,2 mm) debería hacerse con una **broca corona** (sierra copa) bimetálica para metal, en vez de la broca escalonada.
+
+- **Dremel para la tapa:** Necesito ocupar un **Dremel** para poder desbastar la tapa de la caja.
+
+Links de brocas corona:
+
+- Sodimac: https://www.sodimac.cl/sodimac-cl/b/broca-copa
+
+- Sierras copa bimetálicas de Bosch: https://www.bosch-professional.com/pa/es/sierras-copa-bim-ecoline-m3-para-adaptadores-estandar-2868316-ocs-ac/
