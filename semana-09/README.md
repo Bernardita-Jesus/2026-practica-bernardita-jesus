@@ -5,12 +5,8 @@
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-09-21 | Lunes    | Excel, OpenSCAD, Impresión 3D                        | LID       | 008 / 008               |
-| 2026-09-22 | Martes   |                                                      |           | 000 / 000               |
 | 2026-09-23 | Miércoles |                                                      | USACH     | 004 / 012               |
-| 2026-09-24 | Jueves   |                                                      |           | 000 / 000               |
 | 2026-09-25 | Viernes  |                                                      | USACH     | 004 / 016               |
-| 2026-09-26 | Sábado   |                                                      |           | 000 / 000               |
-| 2026-09-27 | Domingo  |                                                      |           | 000 / 000               |
 
 ## Excel de la remuneración
 

@@ -8,9 +8,6 @@
 | 2026-10-06 | Martes   |                                                      | República 180 | 004 / 012               |
 | 2026-10-07 | Miércoles | OpenSCAD, Investigación de materiales               | Casa      | 006 / 018               |
 | 2026-10-08 | Jueves   | OpenSCAD                                             | LID       | 003 / 021               |
-| 2026-10-09 | Viernes  |                                                      |           | 000 / 000               |
-| 2026-10-10 | Sábado   |                                                      |           | 000 / 000               |
-| 2026-10-11 | Domingo  |                                                      |           | 000 / 000               |
 
 ## Tacto 48
 
