@@ -23,21 +23,21 @@ Hoy seguí ajustando los moldes para perforar la caja de aluminio 1590A, en el r
 
 - **Tolerancia:** Los moldes no calzaban bien en la caja, así que subí la tolerancia entre el molde y la caja de 0,2 mm a 0,4 mm por lado. Ahora el hueco mide 39,3 × 31,8 mm para la caja de 38,5 × 31 mm.
 
-#### Cómo se usa
-
-1. Pongo cada molde en su extremo de la caja.
-
-2. Pongo el disco del jack y el disco del XLR en sus agujeros, marco el centro de cada uno con punzón y saco los discos.
-
-3. Marco los dos tornillos del XLR a través de sus agujeros.
-
-4. Perforo primero con la broca guía de 2 mm, y después con la broca de cada medida.
-
 ### Perforación de la caja
 
 El proceso de fabricación de las perforaciones terminó convirtiéndose en una manualidad y una artesanía, ya que la broca que escogí no fue la correcta. Perdón por eso, [Aarón](https://github.com/montoyamoraga).
 
 El proceso consistió en fabricar una guía para marcar el centro de las perforaciones con una broca de 2 mm y otra guía para perforar hasta alcanzar el ancho máximo requerido. Para realizar las perforaciones de manera adecuada, sería necesario comprar una broca de corona.
+
+#### Cómo se usan los moldes
+
+1. Coloco el molde de perforación inicial en uno de los extremos de la caja.
+
+2. Marco el centro de cada perforación con un punzón, utilizando el molde de perforación inicial como referencia.
+
+3. Perforo los puntos marcados con una broca de 2 mm.
+
+4. Coloco el molde de perforación completa y lo utilizo como guía para ampliar las perforaciones hasta alcanzar el ancho máximo requerido.
 
 Con los moldes de la versión **v0.0.4** perforé la caja de aluminio. De esto aprendí dos cosas:
 
