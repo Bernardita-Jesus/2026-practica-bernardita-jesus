@@ -6,9 +6,6 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-09-28 | Lunes    | GitHub, OpenSCAD, Impresión 3D                       | LID       | 009 / 009               |
 | 2026-09-29 | Martes   | OpenSCAD, Impresión 3D, Magíster en Artes Mediales   | República 180, UCH | 007 / 016               |
-| 2026-10-01 | Jueves   |                                                      |           | 000 / 000               |
-| 2026-10-02 | Viernes  |                                                      |           | 000 / 000               |
-| 2026-10-03 | Sábado   |                                                      |           | 000 / 000               |
 | 2026-10-04 | Domingo  | Documentación                                        | Casa      | 003 / 019               |
 
 

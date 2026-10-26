@@ -7,7 +7,6 @@
 | 2026-09-07 | Lunes    | Ceremonia                                            | Biblioteca Nicanor Parra, LID | 007 / 007               |
 | 2026-09-08 | Martes   | Desarrollo web, Investigación de referentes          | LID       | 005 / 012               |
 | 2026-09-10 | Jueves   |                                                      | LID       | 004 / 016               |
-| 2026-09-11 | Viernes  |                                                      |           | 000 / 000               |
 | 2026-09-12 | Sábado   |                                                      | Casa      | 002 / 018               |
 | 2026-09-13 | Domingo  | Desarrollo web                                       | Casa      | 005 / 023               |
 
