@@ -5,9 +5,9 @@
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-10-19 | Lunes    | Fabricación, Modelado 3D, OpenSCAD                   | LID, Pañol | 008 / 008               |
-| 2026-10-20 | Martes   | Modelado 3D                                          | LID       | 003 / 011               |
-| 2026-10-22 | Jueves   |                                                      | LID       | 003 / 014               |
-| 2026-10-23 | Viernes  |                                                      | LID       | 004 / 018               |
+| 2026-10-20 | Martes   | Modelado 3D                                          | LID       | 005 / 013               |
+| 2026-10-22 | Jueves   | Modelado 3D, Fabricación digital                     | LID       | 003 / 016               |
+| 2026-10-23 | Viernes  | Fabricación                                          | LID       | 004 / 020               |
 
 ## Tacto 48
 
@@ -31,9 +31,13 @@ Hoy seguí ajustando los moldes para perforar la caja de aluminio 1590A, en el r
 
 3. Marco los dos tornillos del XLR a través de sus agujeros.
 
-4. perforo primero con la broca guía de 2 mm, y después con la broca de cada medida.
+4. Perforo primero con la broca guía de 2 mm, y después con la broca de cada medida.
 
 ### Perforación de la caja
+
+El proceso de fabricación de las perforaciones terminó convirtiéndose en una manualidad y una artesanía, ya que la broca que escogí no fue la correcta. Perdón por eso, [Aarón](https://github.com/montoyamoraga).
+
+El proceso consistió en fabricar una guía para marcar el centro de las perforaciones con una broca de 2 mm y otra guía para perforar hasta alcanzar el ancho máximo requerido. Para realizar las perforaciones de manera adecuada, sería necesario comprar una broca de corona.
 
 Con los moldes de la versión **v0.0.4** perforé la caja de aluminio. De esto aprendí dos cosas:
 
