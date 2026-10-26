@@ -23,6 +23,10 @@ Hoy seguí ajustando las guías para perforar la caja de aluminio 1590A, en el r
 
 - **Tolerancia:** Las guías no calzaban bien en la caja, así que subí la tolerancia entre la guía y la caja de 0,2 mm a 0,4 mm por lado. Ahora el hueco mide 39,3 × 31,8 mm para la caja de 38,5 × 31 mm.
 
+En la siguiente foto se pueden ver las guías impresas de las versiones **v0.0.2** y **v0.0.3**, cada una con su disco del XLR. En la v0.0.2, los tornillos del XLR todavía tenían solo la marca chica con el anillo grabado; en la v0.0.3, todas las perforaciones ya quedaron abiertas.
+
+![foto](./imagenes/foto-35.jpg)
+
 ### Perforación de la caja
 
 El proceso de fabricación de las perforaciones terminó convirtiéndose en una manualidad y una artesanía, ya que la broca que escogí no fue la correcta. Perdón por eso, [Aarón](https://github.com/montoyamoraga).
@@ -39,11 +43,19 @@ El proceso consistió en fabricar una guía para marcar el centro de las perfora
 
 4. Coloco la guía de perforación completa y la utilizo para ampliar las perforaciones hasta alcanzar el ancho máximo requerido.
 
+En la siguiente foto se pueden ver las guías de la versión **v0.0.4**, con su grabado de "marcar" y "perforar", junto a la caja de aluminio ya perforada, la broca escalonada, la prensa y la viruta de aluminio que quedó del proceso.
+
+![foto](./imagenes/foto-36.jpg)
+
 Con las guías de la versión **v0.0.4** perforé la caja de aluminio. De esto aprendí dos cosas:
 
 - **Broca corona para el XLR:** La perforación grande de la **salida XLR** (24,2 mm) debería hacerse con una **broca corona** (sierra copa) bimetálica para metal, en vez de la broca escalonada.
 
 - **Dremel para la tapa:** Necesito ocupar un **Dremel** para poder desbastar la tapa de la caja.
+
+En la siguiente foto se puede ver el resultado: la caja de aluminio con el conector XLR montado en un extremo, el interior con el XLR y el jack ya instalados, y el jack TS de 3,5 mm en el otro extremo.
+
+![foto](./imagenes/foto-37.jpg)
 
 Links de brocas corona:
 
