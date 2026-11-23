@@ -26,5 +26,5 @@ Desarrollo de carcasas para sintetizadores modulares en formato Eurorack, modela
 | [15](./semana-15/) | 11-02 lun  | Organización cierre de práctica              | 007 / 277              |
 | [16](./semana-16/) | 11-09 lun  |                                              | 008 / 285              |
 | [17](./semana-17/) | 11-16 lun  | OpenSCAD, Fabricación, Impresión 3D, Informe de práctica, Organización general | 010 / 295              |
-| [18](./semana-18/) | 11-23 lun  |                                              | 000 / 000              |
-| **Total**          |            |                                              | **295**                |
+| [18](./semana-18/) | 11-23 lun  | Registro, Fabricación                        | 006 / 301              |
+| **Total**          |            |                                              | **301**                |
